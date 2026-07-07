@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Employee_ID,Order_Date,Order_Time,Payment_Method,Order_Type,Month,Day,Year,Weekend
+O00001,C004,E03,2025-04-16,16:18,UPI,Takeaway,April,Wednesday,2025,False
+O00002,C081,E02,2025-06-01,12:49,UPI,Takeaway,June,Sunday,2025,True
+O00003,C085,E03,2025-03-20,07:36,UPI,Takeaway,March,Thursday,2025,False
+O00004,C056,E03,2025-01-20,13:06,UPI,Takeaway,January,Monday,2025,False
+O00005,C079,E05,2025-02-19,12:00,Cash,Takeaway,February,Wednesday,2025,False
+O00006,C058,E02,2025-02-21,02:39,Cash,Takeaway,February,Friday,2025,False
+O00007,C028,E03,2025-03-31,02:08,Cash,Takeaway,March,Monday,2025,False
+O00008,C025,E01,2025-06-22,22:08,UPI,Takeaway,June,Sunday,2025,True
+O00009,C063,E04,2025-05-10,22:05,Cash,Dine In,May,Saturday,2025,True
+O00010,C085,E05,2025-02-26,01:50,UPI,Takeaway,February,Wednesday,2025,False
+O00011,C040,E03,2025-02-19,15:39,UPI,Dine In,February,Wednesday,2025,False
+O00012,C025,E02,2025-02-04,00:55,Cash,Takeaway,February,Tuesday,2025,False
+O00013,C023,E03,2025-03-08,00:42,UPI,Dine In,March,Saturday,2025,True
+O00014,C017,E04,2025-05-08,07:03,UPI,Dine In,May,Thursday,2025,False
+O00015,C007,E03,2025-06-26,02:19,Card,Takeaway,June,Thursday,2025,False
+O00016,C010,E05,2025-03-31,20:28,UPI,Dine In,March,Monday,2025,False
+O00017,C039,E01,2025-06-23,02:47,Card,Dine In,June,Monday,2025,False
+O00018,C058,E04,2025-03-11,13:53,UPI,Takeaway,March,Tuesday,2025,False
+O00019,C098,E02,2025-06-22,20:05,UPI,Takeaway,June,Sunday,2025,True
+O00020,C001,E04,2025-01-29,19:54,UPI,Takeaway,January,Wednesday,2025,False
+O00021,C090,E04,2025-02-21,19:12,UPI,Dine In,February,Friday,2025,False
+O00022,C083,E02,2025-02-11,06:12,Card,Dine In,February,Tuesday,2025,False
+O00023,C040,E05,2025-05-25,15:02,Cash,Takeaway,May,Sunday,2025,True
+O00024,C052,E03,2025-05-08,17:10,UPI,Takeaway,May,Thursday,2025,False
+O00025,C042,E05,2025-05-15,01:13,UPI,Dine In,May,Thursday,2025,False
+O00026,C035,E05,2025-05-30,20:50,UPI,Dine In,May,Friday,2025,False
+O00027,C056,E04,2025-04-17,21:20,Card,Takeaway,April,Thursday,2025,False
+O00028,C021,E03,2025-01-20,09:00,UPI,Takeaway,January,Monday,2025,False
+O00029,C012,E03,2025-03-25,03:09,UPI,Dine In,March,Tuesday,2025,False
+O00030,C007,E02,2025-03-17,13:30,UPI,Takeaway,March,Monday,2025,False
+O00031,C037,E04,2025-01-25,04:24,Card,Takeaway,January,Saturday,2025,True
+O00032,C031,E02,2025-04-22,04:12,UPI,Dine In,April,Tuesday,2025,False
+O00033,C020,E04,2025-04-29,05:53,Card,Takeaway,April,Tuesday,2025,False
+O00034,C071,E02,2025-03-25,11:43,UPI,Dine In,March,Tuesday,2025,False
+O00035,C065,E03,2025-03-04,04:56,Cash,Takeaway,March,Tuesday,2025,False
+O00036,C020,E04,2025-06-07,20:22,UPI,Takeaway,June,Saturday,2025,True
+O00037,C090,E02,2025-06-28,21:04,UPI,Dine In,June,Saturday,2025,True
+O00038,C049,E04,2025-05-09,17:11,Card,Dine In,May,Friday,2025,False
+O00039,C013,E04,2025-03-02,18:30,UPI,Takeaway,March,Sunday,2025,True
+O00040,C084,E02,2025-06-08,21:09,UPI,Takeaway,June,Sunday,2025,True
+O00041,C087,E05,2025-06-05,11:56,UPI,Takeaway,June,Thursday,2025,False
+O00042,C081,E03,2025-02-13,01:43,Card,Dine In,February,Thursday,2025,False
+O00043,C013,E04,2025-06-09,04:21,UPI,Takeaway,June,Monday,2025,False
+O00044,C008,E03,2025-05-26,06:24,UPI,Takeaway,May,Monday,2025,False
+O00045,C073,E02,2025-03-17,08:16,UPI,Dine In,March,Monday,2025,False
+O00046,C030,E04,2025-01-27,09:17,UPI,Takeaway,January,Monday,2025,False
+O00047,C070,E02,2025-05-04,16:31,UPI,Takeaway,May,Sunday,2025,True
+O00048,C039,E02,2025-06-04,05:11,Card,Takeaway,June,Wednesday,2025,False
+O00049,C046,E05,2025-04-15,10:46,UPI,Takeaway,April,Tuesday,2025,False
+O00050,C073,E01,2025-01-02,19:22,Card,Takeaway,January,Thursday,2025,False
+O00051,C025,E05,2025-04-27,05:25,UPI,Dine In,April,Sunday,2025,True
+O00052,C057,E01,2025-05-24,21:29,UPI,Dine In,May,Saturday,2025,True
+O00053,C054,E02,2025-05-17,09:47,UPI,Takeaway,May,Saturday,2025,True
+O00054,C044,E01,2025-05-17,05:46,UPI,Dine In,May,Saturday,2025,True
+O00055,C087,E04,2025-05-13,04:09,Card,Takeaway,May,Tuesday,2025,False
+O00056,C069,E01,2025-02-18,11:26,UPI,Takeaway,February,Tuesday,2025,False
+O00057,C061,E01,2025-02-12,21:35,UPI,Takeaway,February,Wednesday,2025,False
+O00058,C084,E04,2025-02-25,08:17,UPI,Dine In,February,Tuesday,2025,False
+O00059,C013,E02,2025-01-22,11:20,Card,Dine In,January,Wednesday,2025,False
+O00060,C070,E04,2025-05-08,02:59,UPI,Dine In,May,Thursday,2025,False
+O00061,C036,E01,2025-03-16,15:05,Cash,Dine In,March,Sunday,2025,True
+O00062,C088,E03,2025-06-28,21:44,UPI,Takeaway,June,Saturday,2025,True
+O00063,C016,E04,2025-02-04,21:17,UPI,Dine In,February,Tuesday,2025,False
+O00064,C073,E02,2025-05-24,14:21,UPI,Dine In,May,Saturday,2025,True
+O00065,C077,E01,2025-05-24,21:38,UPI,Dine In,May,Saturday,2025,True
+O00066,C085,E01,2025-01-21,08:16,UPI,Takeaway,January,Tuesday,2025,False
+O00067,C034,E01,2025-02-02,01:17,UPI,Takeaway,February,Sunday,2025,True
+O00068,C076,E01,2025-04-04,18:22,UPI,Dine In,April,Friday,2025,False
+O00069,C083,E01,2025-03-25,17:13,UPI,Takeaway,March,Tuesday,2025,False
+O00070,C057,E01,2025-05-11,00:31,Card,Takeaway,May,Sunday,2025,True
+O00071,C071,E03,2025-04-17,21:29,UPI,Takeaway,April,Thursday,2025,False
+O00072,C084,E05,2025-06-05,13:54,Cash,Dine In,June,Thursday,2025,False
+O00073,C059,E04,2025-03-04,00:48,UPI,Dine In,March,Tuesday,2025,False
+O00074,C020,E04,2025-03-10,11:20,UPI,Dine In,March,Monday,2025,False
+O00075,C095,E03,2025-05-16,21:09,Cash,Dine In,May,Friday,2025,False
+O00076,C097,E04,2025-06-21,15:51,Card,Dine In,June,Saturday,2025,True
+O00077,C028,E02,2025-04-03,16:55,Cash,Dine In,April,Thursday,2025,False
+O00078,C015,E03,2025-03-09,05:53,UPI,Takeaway,March,Sunday,2025,True
+O00079,C035,E03,2025-02-03,04:14,Card,Takeaway,February,Monday,2025,False
+O00080,C085,E04,2025-04-14,10:17,UPI,Dine In,April,Monday,2025,False
+O00081,C059,E03,2025-03-18,18:16,UPI,Takeaway,March,Tuesday,2025,False
+O00082,C021,E05,2025-01-29,15:44,UPI,Dine In,January,Wednesday,2025,False
+O00083,C057,E04,2025-04-21,20:21,UPI,Dine In,April,Monday,2025,False
+O00084,C076,E04,2025-05-04,20:21,UPI,Takeaway,May,Sunday,2025,True
+O00085,C077,E01,2025-06-29,13:06,UPI,Takeaway,June,Sunday,2025,True
+O00086,C042,E01,2025-02-23,00:36,UPI,Takeaway,February,Sunday,2025,True
+O00087,C091,E02,2025-04-08,06:53,UPI,Takeaway,April,Tuesday,2025,False
+O00088,C056,E01,2025-01-09,00:49,UPI,Dine In,January,Thursday,2025,False
+O00089,C054,E03,2025-04-27,20:49,UPI,Dine In,April,Sunday,2025,True
+O00090,C089,E03,2025-06-01,19:10,UPI,Dine In,June,Sunday,2025,True
+O00091,C068,E01,2025-03-15,05:35,UPI,Takeaway,March,Saturday,2025,True
+O00092,C015,E05,2025-04-26,14:36,UPI,Takeaway,April,Saturday,2025,True
+O00093,C026,E02,2025-02-16,22:20,UPI,Dine In,February,Sunday,2025,True
+O00094,C073,E05,2025-05-18,16:13,UPI,Takeaway,May,Sunday,2025,True
+O00095,C039,E03,2025-04-26,06:33,UPI,Takeaway,April,Saturday,2025,True
+O00096,C037,E01,2025-03-09,11:02,UPI,Dine In,March,Sunday,2025,True
+O00097,C074,E02,2025-03-24,04:54,UPI,Takeaway,March,Monday,2025,False
+O00098,C065,E02,2025-01-16,16:26,UPI,Takeaway,January,Thursday,2025,False
+O00099,C053,E03,2025-03-12,20:38,Cash,Dine In,March,Wednesday,2025,False
+O00100,C037,E03,2025-03-12,16:55,Cash,Dine In,March,Wednesday,2025,False
+O00101,C045,E03,2025-06-17,05:19,Card,Takeaway,June,Tuesday,2025,False
+O00102,C049,E03,2025-04-13,01:58,Cash,Dine In,April,Sunday,2025,True
+O00103,C028,E03,2025-02-03,03:34,Card,Takeaway,February,Monday,2025,False
+O00104,C010,E03,2025-01-29,12:57,Cash,Dine In,January,Wednesday,2025,False
+O00105,C020,E02,2025-03-10,21:54,UPI,Dine In,March,Monday,2025,False
+O00106,C057,E05,2025-02-13,13:47,UPI,Takeaway,February,Thursday,2025,False
+O00107,C061,E02,2025-06-26,02:45,UPI,Takeaway,June,Thursday,2025,False
+O00108,C054,E02,2025-04-07,08:30,Cash,Dine In,April,Monday,2025,False
+O00109,C014,E05,2025-04-12,06:49,Card,Takeaway,April,Saturday,2025,True
+O00110,C066,E02,2025-03-24,03:06,Cash,Dine In,March,Monday,2025,False
+O00111,C004,E04,2025-06-19,17:17,UPI,Takeaway,June,Thursday,2025,False
+O00112,C029,E01,2025-03-10,14:01,UPI,Dine In,March,Monday,2025,False
+O00113,C061,E02,2025-06-17,08:09,Cash,Takeaway,June,Tuesday,2025,False
+O00114,C028,E02,2025-02-16,22:08,UPI,Takeaway,February,Sunday,2025,True
+O00115,C016,E01,2025-02-25,03:44,UPI,Takeaway,February,Tuesday,2025,False
+O00116,C069,E01,2025-04-19,23:11,UPI,Dine In,April,Saturday,2025,True
+O00117,C074,E04,2025-02-14,03:02,UPI,Dine In,February,Friday,2025,False
+O00118,C003,E04,2025-04-12,05:07,Card,Dine In,April,Saturday,2025,True
+O00119,C009,E03,2025-05-24,21:05,UPI,Dine In,May,Saturday,2025,True
+O00120,C083,E02,2025-05-29,10:16,Cash,Takeaway,May,Thursday,2025,False
+O00121,C059,E01,2025-05-22,15:13,UPI,Dine In,May,Thursday,2025,False
+O00122,C040,E05,2025-06-20,05:57,UPI,Takeaway,June,Friday,2025,False
+O00123,C046,E01,2025-02-22,10:02,Card,Takeaway,February,Saturday,2025,True
+O00124,C052,E04,2025-06-12,06:13,Card,Takeaway,June,Thursday,2025,False
+O00125,C067,E03,2025-03-09,04:57,Cash,Takeaway,March,Sunday,2025,True
+O00126,C024,E05,2025-05-31,00:51,UPI,Dine In,May,Saturday,2025,True
+O00127,C040,E04,2025-02-24,03:40,UPI,Takeaway,February,Monday,2025,False
+O00128,C006,E03,2025-03-23,17:32,UPI,Takeaway,March,Sunday,2025,True
+O00129,C047,E05,2025-03-16,06:45,Cash,Dine In,March,Sunday,2025,True
+O00130,C057,E01,2025-05-04,18:36,UPI,Dine In,May,Sunday,2025,True
+O00131,C087,E04,2025-01-29,06:22,Card,Takeaway,January,Wednesday,2025,False
+O00132,C051,E03,2025-03-09,03:13,UPI,Dine In,March,Sunday,2025,True
+O00133,C064,E05,2025-02-04,04:51,UPI,Dine In,February,Tuesday,2025,False
+O00134,C037,E04,2025-04-22,17:19,UPI,Dine In,April,Tuesday,2025,False
+O00135,C092,E04,2025-06-13,22:23,Card,Takeaway,June,Friday,2025,False
+O00136,C039,E02,2025-06-12,14:17,Cash,Dine In,June,Thursday,2025,False
+O00137,C064,E01,2025-02-13,10:18,UPI,Takeaway,February,Thursday,2025,False
+O00138,C051,E04,2025-02-26,15:18,UPI,Takeaway,February,Wednesday,2025,False
+O00139,C088,E05,2025-03-27,03:15,UPI,Dine In,March,Thursday,2025,False
+O00140,C008,E01,2025-06-16,02:57,UPI,Takeaway,June,Monday,2025,False
+O00141,C091,E02,2025-06-20,11:55,UPI,Takeaway,June,Friday,2025,False
+O00142,C071,E03,2025-04-26,22:36,UPI,Takeaway,April,Saturday,2025,True
+O00143,C022,E05,2025-01-29,09:41,Cash,Takeaway,January,Wednesday,2025,False
+O00144,C083,E05,2025-06-23,00:15,UPI,Dine In,June,Monday,2025,False
+O00145,C038,E03,2025-04-10,15:39,UPI,Takeaway,April,Thursday,2025,False
+O00146,C057,E04,2025-01-30,02:39,UPI,Dine In,January,Thursday,2025,False
+O00147,C045,E04,2025-05-14,23:46,UPI,Takeaway,May,Wednesday,2025,False
+O00148,C032,E02,2025-03-24,04:18,UPI,Takeaway,March,Monday,2025,False
+O00149,C074,E03,2025-06-20,07:37,UPI,Dine In,June,Friday,2025,False
+O00150,C012,E04,2025-01-05,13:15,UPI,Dine In,January,Sunday,2025,True
+O00151,C037,E04,2025-01-10,12:48,UPI,Takeaway,January,Friday,2025,False
+O00152,C034,E03,2025-01-25,17:10,Cash,Takeaway,January,Saturday,2025,True
+O00153,C072,E02,2025-04-15,03:35,UPI,Takeaway,April,Tuesday,2025,False
+O00154,C098,E05,2025-03-24,07:37,UPI,Dine In,March,Monday,2025,False
+O00155,C044,E05,2025-03-10,06:31,Card,Dine In,March,Monday,2025,False
+O00156,C006,E01,2025-01-08,15:52,UPI,Takeaway,January,Wednesday,2025,False
+O00157,C042,E05,2025-01-26,18:42,UPI,Takeaway,January,Sunday,2025,True
+O00158,C091,E05,2025-03-31,12:10,UPI,Dine In,March,Monday,2025,False
+O00159,C040,E01,2025-04-17,14:14,UPI,Takeaway,April,Thursday,2025,False
+O00160,C081,E05,2025-04-06,18:24,Cash,Takeaway,April,Sunday,2025,True
+O00161,C090,E01,2025-04-15,13:35,UPI,Takeaway,April,Tuesday,2025,False
+O00162,C053,E05,2025-02-07,10:48,Cash,Takeaway,February,Friday,2025,False
+O00163,C085,E04,2025-03-01,12:09,UPI,Takeaway,March,Saturday,2025,True
+O00164,C070,E03,2025-03-04,15:38,Cash,Takeaway,March,Tuesday,2025,False
+O00165,C039,E03,2025-02-11,06:27,Cash,Takeaway,February,Tuesday,2025,False
+O00166,C037,E01,2025-02-20,02:45,UPI,Takeaway,February,Thursday,2025,False
+O00167,C037,E01,2025-01-08,23:47,UPI,Takeaway,January,Wednesday,2025,False
+O00168,C072,E03,2025-02-19,16:35,UPI,Dine In,February,Wednesday,2025,False
+O00169,C068,E02,2025-06-15,02:48,UPI,Dine In,June,Sunday,2025,True
+O00170,C061,E01,2025-05-11,22:11,Cash,Dine In,May,Sunday,2025,True
+O00171,C061,E04,2025-04-30,04:31,Cash,Takeaway,April,Wednesday,2025,False
+O00172,C074,E02,2025-04-30,01:56,UPI,Dine In,April,Wednesday,2025,False
+O00173,C005,E04,2025-06-20,08:22,Cash,Dine In,June,Friday,2025,False
+O00174,C014,E03,2025-04-21,01:35,UPI,Takeaway,April,Monday,2025,False
+O00175,C015,E03,2025-02-05,10:24,UPI,Takeaway,February,Wednesday,2025,False
+O00176,C038,E05,2025-05-25,06:54,Cash,Dine In,May,Sunday,2025,True
+O00177,C042,E01,2025-04-05,03:17,UPI,Dine In,April,Saturday,2025,True
+O00178,C032,E01,2025-03-01,05:50,UPI,Dine In,March,Saturday,2025,True
+O00179,C074,E01,2025-05-12,22:19,UPI,Takeaway,May,Monday,2025,False
+O00180,C052,E05,2025-01-30,09:48,Card,Takeaway,January,Thursday,2025,False
+O00181,C018,E04,2025-02-10,05:23,UPI,Takeaway,February,Monday,2025,False
+O00182,C028,E02,2025-05-31,15:07,Cash,Dine In,May,Saturday,2025,True
+O00183,C008,E05,2025-01-21,18:14,Card,Dine In,January,Tuesday,2025,False
+O00184,C027,E05,2025-05-05,04:15,UPI,Takeaway,May,Monday,2025,False
+O00185,C054,E04,2025-04-04,18:24,UPI,Takeaway,April,Friday,2025,False
+O00186,C028,E05,2025-05-17,02:28,UPI,Takeaway,May,Saturday,2025,True
+O00187,C061,E01,2025-06-29,20:29,UPI,Dine In,June,Sunday,2025,True
+O00188,C049,E04,2025-06-12,14:17,Card,Takeaway,June,Thursday,2025,False
+O00189,C084,E03,2025-01-25,13:02,UPI,Takeaway,January,Saturday,2025,True
+O00190,C087,E05,2025-03-26,14:53,UPI,Takeaway,March,Wednesday,2025,False
+O00191,C020,E03,2025-03-05,08:23,UPI,Dine In,March,Wednesday,2025,False
+O00192,C003,E02,2025-05-20,18:56,UPI,Dine In,May,Tuesday,2025,False
+O00193,C095,E01,2025-02-14,21:15,UPI,Dine In,February,Friday,2025,False
+O00194,C030,E05,2025-02-22,23:48,UPI,Takeaway,February,Saturday,2025,True
+O00195,C085,E05,2025-06-29,18:34,UPI,Takeaway,June,Sunday,2025,True
+O00196,C023,E04,2025-06-16,06:44,UPI,Dine In,June,Monday,2025,False
+O00197,C054,E04,2025-05-08,02:13,UPI,Takeaway,May,Thursday,2025,False
+O00198,C029,E03,2025-06-04,22:49,Card,Dine In,June,Wednesday,2025,False
+O00199,C068,E02,2025-04-12,18:49,UPI,Takeaway,April,Saturday,2025,True
+O00200,C058,E03,2025-01-15,17:27,UPI,Dine In,January,Wednesday,2025,False
+O00201,C078,E05,2025-05-03,23:19,UPI,Dine In,May,Saturday,2025,True
+O00202,C043,E03,2025-02-08,08:39,Card,Dine In,February,Saturday,2025,True
+O00203,C096,E04,2025-01-22,16:33,Card,Dine In,January,Wednesday,2025,False
+O00204,C060,E05,2025-03-11,15:08,UPI,Takeaway,March,Tuesday,2025,False
+O00205,C093,E04,2025-01-19,06:49,Cash,Takeaway,January,Sunday,2025,True
+O00206,C006,E05,2025-03-17,16:29,Card,Dine In,March,Monday,2025,False
+O00207,C075,E05,2025-06-20,12:01,Cash,Takeaway,June,Friday,2025,False
+O00208,C049,E05,2025-02-12,04:58,Cash,Takeaway,February,Wednesday,2025,False
+O00209,C063,E04,2025-05-15,23:20,UPI,Takeaway,May,Thursday,2025,False
+O00210,C063,E02,2025-04-10,19:53,Card,Dine In,April,Thursday,2025,False
+O00211,C001,E04,2025-05-20,11:26,UPI,Dine In,May,Tuesday,2025,False
+O00212,C065,E04,2025-02-10,03:36,UPI,Takeaway,February,Monday,2025,False
+O00213,C003,E05,2025-01-03,11:46,Cash,Takeaway,January,Friday,2025,False
+O00214,C013,E05,2025-01-20,19:33,UPI,Dine In,January,Monday,2025,False
+O00215,C052,E04,2025-03-10,05:53,UPI,Dine In,March,Monday,2025,False
+O00216,C052,E04,2025-01-18,08:30,UPI,Takeaway,January,Saturday,2025,True
+O00217,C011,E04,2025-02-01,12:47,Cash,Takeaway,February,Saturday,2025,True
+O00218,C089,E05,2025-06-14,09:43,UPI,Dine In,June,Saturday,2025,True
+O00219,C085,E01,2025-04-13,22:00,UPI,Takeaway,April,Sunday,2025,True
+O00220,C097,E04,2025-01-27,13:58,Card,Takeaway,January,Monday,2025,False
+O00221,C050,E05,2025-06-02,06:38,UPI,Dine In,June,Monday,2025,False
+O00222,C030,E01,2025-03-21,21:40,UPI,Takeaway,March,Friday,2025,False
+O00223,C030,E03,2025-03-31,15:28,UPI,Takeaway,March,Monday,2025,False
+O00224,C011,E05,2025-03-11,12:33,UPI,Dine In,March,Tuesday,2025,False
+O00225,C082,E02,2025-05-24,00:52,Cash,Takeaway,May,Saturday,2025,True
+O00226,C047,E03,2025-03-23,07:04,UPI,Dine In,March,Sunday,2025,True
+O00227,C072,E05,2025-04-12,17:30,UPI,Dine In,April,Saturday,2025,True
+O00228,C077,E05,2025-01-18,06:36,Cash,Takeaway,January,Saturday,2025,True
+O00229,C100,E01,2025-03-12,22:19,Cash,Dine In,March,Wednesday,2025,False
+O00230,C035,E04,2025-02-25,03:39,UPI,Dine In,February,Tuesday,2025,False
+O00231,C010,E03,2025-05-23,19:31,UPI,Dine In,May,Friday,2025,False
+O00232,C039,E01,2025-01-25,23:57,Card,Takeaway,January,Saturday,2025,True
+O00233,C084,E05,2025-03-20,17:23,UPI,Takeaway,March,Thursday,2025,False
+O00234,C095,E04,2025-02-23,09:21,Card,Dine In,February,Sunday,2025,True
+O00235,C073,E02,2025-01-22,01:35,UPI,Dine In,January,Wednesday,2025,False
+O00236,C038,E01,2025-05-26,13:08,Cash,Takeaway,May,Monday,2025,False
+O00237,C020,E04,2025-05-01,05:44,Cash,Dine In,May,Thursday,2025,False
+O00238,C089,E04,2025-04-03,13:25,UPI,Takeaway,April,Thursday,2025,False
+O00239,C022,E05,2025-03-06,23:03,UPI,Takeaway,March,Thursday,2025,False
+O00240,C029,E05,2025-02-17,10:26,Cash,Dine In,February,Monday,2025,False
+O00241,C089,E05,2025-04-18,11:35,UPI,Dine In,April,Friday,2025,False
+O00242,C094,E02,2025-01-22,11:06,UPI,Takeaway,January,Wednesday,2025,False
+O00243,C013,E04,2025-03-29,00:23,Cash,Takeaway,March,Saturday,2025,True
+O00244,C003,E03,2025-01-22,06:48,UPI,Dine In,January,Wednesday,2025,False
+O00245,C055,E04,2025-04-13,06:01,UPI,Takeaway,April,Sunday,2025,True
+O00246,C095,E05,2025-01-06,15:32,Card,Takeaway,January,Monday,2025,False
+O00247,C097,E01,2025-02-21,00:06,UPI,Dine In,February,Friday,2025,False
+O00248,C086,E04,2025-02-18,02:14,UPI,Takeaway,February,Tuesday,2025,False
+O00249,C059,E05,2025-03-06,09:50,UPI,Takeaway,March,Thursday,2025,False
+O00250,C015,E02,2025-02-25,22:13,UPI,Dine In,February,Tuesday,2025,False
+O00251,C024,E04,2025-03-19,08:17,UPI,Dine In,March,Wednesday,2025,False
+O00252,C058,E05,2025-06-03,14:41,UPI,Takeaway,June,Tuesday,2025,False
+O00253,C050,E05,2025-02-05,20:31,UPI,Takeaway,February,Wednesday,2025,False
+O00254,C022,E01,2025-03-31,07:09,UPI,Dine In,March,Monday,2025,False
+O00255,C022,E04,2025-02-22,21:13,UPI,Takeaway,February,Saturday,2025,True
+O00256,C097,E01,2025-04-10,00:13,Cash,Takeaway,April,Thursday,2025,False
+O00257,C005,E04,2025-02-24,12:42,UPI,Dine In,February,Monday,2025,False
+O00258,C095,E05,2025-05-28,22:00,Cash,Takeaway,May,Wednesday,2025,False
+O00259,C027,E01,2025-05-29,10:21,UPI,Takeaway,May,Thursday,2025,False
+O00260,C066,E01,2025-02-19,00:02,UPI,Takeaway,February,Wednesday,2025,False
+O00261,C090,E02,2025-01-24,10:22,UPI,Takeaway,January,Friday,2025,False
+O00262,C074,E03,2025-01-27,05:09,UPI,Takeaway,January,Monday,2025,False
+O00263,C096,E03,2025-04-05,04:44,Cash,Takeaway,April,Saturday,2025,True
+O00264,C100,E01,2025-06-08,12:18,Cash,Takeaway,June,Sunday,2025,True
+O00265,C055,E02,2025-06-26,13:49,UPI,Takeaway,June,Thursday,2025,False
+O00266,C063,E03,2025-04-14,09:30,Card,Dine In,April,Monday,2025,False
+O00267,C059,E01,2025-05-24,00:51,UPI,Dine In,May,Saturday,2025,True
+O00268,C017,E03,2025-05-06,16:30,UPI,Takeaway,May,Tuesday,2025,False
+O00269,C048,E02,2025-01-16,08:06,UPI,Takeaway,January,Thursday,2025,False
+O00270,C028,E04,2025-01-01,12:44,UPI,Dine In,January,Wednesday,2025,False
+O00271,C055,E02,2025-06-30,05:18,UPI,Dine In,June,Monday,2025,False
+O00272,C048,E03,2025-02-27,09:03,UPI,Dine In,February,Thursday,2025,False
+O00273,C022,E04,2025-04-29,15:58,UPI,Dine In,April,Tuesday,2025,False
+O00274,C028,E01,2025-06-06,21:14,Card,Dine In,June,Friday,2025,False
+O00275,C055,E03,2025-06-25,16:29,Cash,Dine In,June,Wednesday,2025,False
+O00276,C093,E05,2025-04-20,13:28,UPI,Dine In,April,Sunday,2025,True
+O00277,C051,E03,2025-05-17,11:22,UPI,Dine In,May,Saturday,2025,True
+O00278,C077,E01,2025-04-27,11:49,UPI,Dine In,April,Sunday,2025,True
+O00279,C047,E05,2025-03-18,22:46,Cash,Takeaway,March,Tuesday,2025,False
+O00280,C002,E03,2025-01-13,15:03,UPI,Dine In,January,Monday,2025,False
+O00281,C054,E04,2025-05-20,23:33,Cash,Dine In,May,Tuesday,2025,False
+O00282,C027,E02,2025-06-17,23:34,UPI,Takeaway,June,Tuesday,2025,False
+O00283,C032,E01,2025-01-11,20:59,Card,Dine In,January,Saturday,2025,True
+O00284,C095,E02,2025-05-01,03:04,UPI,Dine In,May,Thursday,2025,False
+O00285,C093,E03,2025-05-23,20:55,UPI,Dine In,May,Friday,2025,False
+O00286,C068,E01,2025-02-19,20:18,UPI,Dine In,February,Wednesday,2025,False
+O00287,C073,E02,2025-04-02,06:49,UPI,Takeaway,April,Wednesday,2025,False
+O00288,C066,E01,2025-05-16,04:31,UPI,Dine In,May,Friday,2025,False
+O00289,C050,E02,2025-03-08,14:14,UPI,Dine In,March,Saturday,2025,True
+O00290,C035,E01,2025-02-28,13:49,UPI,Dine In,February,Friday,2025,False
+O00291,C060,E03,2025-01-13,21:08,Cash,Takeaway,January,Monday,2025,False
+O00292,C026,E03,2025-03-09,11:49,UPI,Takeaway,March,Sunday,2025,True
+O00293,C070,E02,2025-05-14,16:10,UPI,Takeaway,May,Wednesday,2025,False
+O00294,C082,E01,2025-03-05,09:32,Card,Dine In,March,Wednesday,2025,False
+O00295,C068,E02,2025-02-07,16:30,UPI,Dine In,February,Friday,2025,False
+O00296,C030,E05,2025-01-09,07:48,UPI,Takeaway,January,Thursday,2025,False
+O00297,C082,E04,2025-01-25,15:19,UPI,Dine In,January,Saturday,2025,True
+O00298,C041,E04,2025-06-05,05:41,Cash,Takeaway,June,Thursday,2025,False
+O00299,C026,E02,2025-06-22,02:27,Cash,Dine In,June,Sunday,2025,True
+O00300,C060,E03,2025-03-24,04:11,UPI,Takeaway,March,Monday,2025,False
+O00301,C034,E01,2025-03-26,16:23,UPI,Takeaway,March,Wednesday,2025,False
+O00302,C032,E03,2025-05-10,19:05,UPI,Dine In,May,Saturday,2025,True
+O00303,C058,E05,2025-06-05,21:48,Cash,Dine In,June,Thursday,2025,False
+O00304,C018,E01,2025-05-27,16:16,UPI,Dine In,May,Tuesday,2025,False
+O00305,C088,E01,2025-03-10,02:20,UPI,Takeaway,March,Monday,2025,False
+O00306,C083,E04,2025-02-06,07:59,Cash,Dine In,February,Thursday,2025,False
+O00307,C074,E04,2025-01-31,21:57,Cash,Takeaway,January,Friday,2025,False
+O00308,C046,E02,2025-02-01,19:00,Card,Takeaway,February,Saturday,2025,True
+O00309,C080,E05,2025-04-23,03:04,UPI,Takeaway,April,Wednesday,2025,False
+O00310,C012,E03,2025-01-12,10:25,UPI,Takeaway,January,Sunday,2025,True
+O00311,C070,E01,2025-05-27,08:43,Card,Takeaway,May,Tuesday,2025,False
+O00312,C050,E03,2025-02-28,21:06,UPI,Takeaway,February,Friday,2025,False
+O00313,C046,E05,2025-04-07,17:07,Card,Dine In,April,Monday,2025,False
+O00314,C035,E05,2025-02-14,05:36,Cash,Dine In,February,Friday,2025,False
+O00315,C023,E02,2025-06-20,13:58,UPI,Takeaway,June,Friday,2025,False
+O00316,C073,E05,2025-03-06,08:31,UPI,Dine In,March,Thursday,2025,False
+O00317,C008,E02,2025-01-17,18:20,UPI,Dine In,January,Friday,2025,False
+O00318,C092,E02,2025-03-04,08:47,Card,Takeaway,March,Tuesday,2025,False
+O00319,C091,E02,2025-04-18,02:56,Cash,Takeaway,April,Friday,2025,False
+O00320,C085,E04,2025-06-21,19:19,UPI,Takeaway,June,Saturday,2025,True
+O00321,C056,E04,2025-06-23,00:54,UPI,Dine In,June,Monday,2025,False
+O00322,C094,E03,2025-02-26,04:31,UPI,Dine In,February,Wednesday,2025,False
+O00323,C041,E05,2025-04-20,23:52,UPI,Dine In,April,Sunday,2025,True
+O00324,C045,E03,2025-02-13,15:49,UPI,Dine In,February,Thursday,2025,False
+O00325,C009,E03,2025-05-07,12:31,UPI,Dine In,May,Wednesday,2025,False
+O00326,C022,E04,2025-06-26,18:04,UPI,Takeaway,June,Thursday,2025,False
+O00327,C098,E02,2025-04-29,20:07,UPI,Dine In,April,Tuesday,2025,False
+O00328,C034,E01,2025-02-28,08:29,UPI,Dine In,February,Friday,2025,False
+O00329,C012,E03,2025-06-21,18:56,UPI,Takeaway,June,Saturday,2025,True
+O00330,C007,E01,2025-01-29,22:23,UPI,Dine In,January,Wednesday,2025,False
+O00331,C013,E01,2025-02-13,13:51,UPI,Takeaway,February,Thursday,2025,False
+O00332,C055,E01,2025-01-02,00:40,UPI,Takeaway,January,Thursday,2025,False
+O00333,C022,E03,2025-02-08,00:11,Card,Takeaway,February,Saturday,2025,True
+O00334,C063,E03,2025-03-28,01:35,UPI,Takeaway,March,Friday,2025,False
+O00335,C024,E04,2025-03-09,13:56,UPI,Takeaway,March,Sunday,2025,True
+O00336,C020,E01,2025-01-12,13:18,UPI,Takeaway,January,Sunday,2025,True
+O00337,C050,E05,2025-06-03,09:29,UPI,Takeaway,June,Tuesday,2025,False
+O00338,C065,E05,2025-01-07,15:43,Card,Dine In,January,Tuesday,2025,False
+O00339,C022,E02,2025-06-23,02:30,Cash,Dine In,June,Monday,2025,False
+O00340,C088,E04,2025-06-30,05:51,UPI,Dine In,June,Monday,2025,False
+O00341,C051,E05,2025-04-12,14:47,UPI,Takeaway,April,Saturday,2025,True
+O00342,C067,E04,2025-04-18,07:09,UPI,Dine In,April,Friday,2025,False
+O00343,C100,E01,2025-04-13,18:24,Cash,Takeaway,April,Sunday,2025,True
+O00344,C078,E04,2025-04-15,11:12,UPI,Takeaway,April,Tuesday,2025,False
+O00345,C052,E01,2025-05-07,14:39,UPI,Takeaway,May,Wednesday,2025,False
+O00346,C044,E03,2025-01-05,00:23,UPI,Takeaway,January,Sunday,2025,True
+O00347,C100,E03,2025-03-22,23:58,UPI,Takeaway,March,Saturday,2025,True
+O00348,C098,E05,2025-03-30,12:38,Card,Dine In,March,Sunday,2025,True
+O00349,C100,E05,2025-01-26,00:39,Card,Dine In,January,Sunday,2025,True
+O00350,C008,E02,2025-06-02,16:48,UPI,Dine In,June,Monday,2025,False
+O00351,C051,E01,2025-04-03,06:55,Cash,Dine In,April,Thursday,2025,False
+O00352,C061,E05,2025-06-25,04:34,UPI,Takeaway,June,Wednesday,2025,False
+O00353,C089,E01,2025-06-01,14:07,UPI,Takeaway,June,Sunday,2025,True
+O00354,C028,E02,2025-05-23,07:07,UPI,Dine In,May,Friday,2025,False
+O00355,C061,E02,2025-01-02,22:52,UPI,Dine In,January,Thursday,2025,False
+O00356,C040,E03,2025-05-27,21:28,UPI,Takeaway,May,Tuesday,2025,False
+O00357,C087,E05,2025-02-25,08:05,Cash,Takeaway,February,Tuesday,2025,False
+O00358,C077,E05,2025-04-29,04:16,UPI,Dine In,April,Tuesday,2025,False
+O00359,C036,E03,2025-03-01,12:32,Cash,Takeaway,March,Saturday,2025,True
+O00360,C031,E01,2025-05-20,16:24,Cash,Takeaway,May,Tuesday,2025,False
+O00361,C038,E03,2025-04-01,21:03,Card,Takeaway,April,Tuesday,2025,False
+O00362,C025,E03,2025-05-29,21:13,Cash,Dine In,May,Thursday,2025,False
+O00363,C022,E05,2025-06-04,05:41,UPI,Dine In,June,Wednesday,2025,False
+O00364,C072,E02,2025-05-28,11:42,Card,Takeaway,May,Wednesday,2025,False
+O00365,C043,E03,2025-03-18,21:04,UPI,Takeaway,March,Tuesday,2025,False
+O00366,C075,E05,2025-04-17,13:40,UPI,Dine In,April,Thursday,2025,False
+O00367,C007,E02,2025-03-17,12:53,UPI,Dine In,March,Monday,2025,False
+O00368,C092,E02,2025-02-27,22:18,Cash,Takeaway,February,Thursday,2025,False
+O00369,C058,E03,2025-01-02,04:35,UPI,Dine In,January,Thursday,2025,False
+O00370,C082,E04,2025-03-21,06:54,UPI,Takeaway,March,Friday,2025,False
+O00371,C048,E01,2025-05-14,08:17,Card,Dine In,May,Wednesday,2025,False
+O00372,C032,E02,2025-05-14,21:09,Cash,Takeaway,May,Wednesday,2025,False
+O00373,C040,E02,2025-04-18,11:56,UPI,Dine In,April,Friday,2025,False
+O00374,C068,E03,2025-04-19,21:34,UPI,Dine In,April,Saturday,2025,True
+O00375,C052,E01,2025-06-22,22:14,UPI,Dine In,June,Sunday,2025,True
+O00376,C022,E01,2025-04-03,04:46,UPI,Dine In,April,Thursday,2025,False
+O00377,C077,E01,2025-01-10,04:16,Cash,Dine In,January,Friday,2025,False
+O00378,C049,E01,2025-03-23,05:14,UPI,Takeaway,March,Sunday,2025,True
+O00379,C054,E01,2025-02-25,03:35,Cash,Takeaway,February,Tuesday,2025,False
+O00380,C016,E03,2025-04-23,18:45,UPI,Dine In,April,Wednesday,2025,False
+O00381,C067,E02,2025-06-01,16:52,UPI,Takeaway,June,Sunday,2025,True
+O00382,C027,E04,2025-06-16,01:24,UPI,Dine In,June,Monday,2025,False
+O00383,C074,E04,2025-06-02,09:11,UPI,Dine In,June,Monday,2025,False
+O00384,C059,E03,2025-02-12,09:57,UPI,Dine In,February,Wednesday,2025,False
+O00385,C038,E03,2025-06-05,11:31,Cash,Takeaway,June,Thursday,2025,False
+O00386,C018,E02,2025-06-05,10:26,UPI,Takeaway,June,Thursday,2025,False
+O00387,C015,E04,2025-02-03,14:58,UPI,Takeaway,February,Monday,2025,False
+O00388,C022,E01,2025-04-29,10:51,UPI,Dine In,April,Tuesday,2025,False
+O00389,C076,E04,2025-06-16,05:12,Cash,Takeaway,June,Monday,2025,False
+O00390,C004,E02,2025-04-22,15:03,UPI,Takeaway,April,Tuesday,2025,False
+O00391,C009,E03,2025-01-09,16:51,Cash,Dine In,January,Thursday,2025,False
+O00392,C090,E05,2025-05-06,14:58,UPI,Dine In,May,Tuesday,2025,False
+O00393,C020,E05,2025-03-12,09:33,Card,Dine In,March,Wednesday,2025,False
+O00394,C061,E04,2025-06-04,20:39,Card,Dine In,June,Wednesday,2025,False
+O00395,C065,E02,2025-01-10,11:59,UPI,Takeaway,January,Friday,2025,False
+O00396,C074,E04,2025-05-27,04:45,UPI,Takeaway,May,Tuesday,2025,False
+O00397,C003,E01,2025-04-30,06:37,UPI,Dine In,April,Wednesday,2025,False
+O00398,C066,E05,2025-02-25,18:48,UPI,Takeaway,February,Tuesday,2025,False
+O00399,C059,E03,2025-06-04,00:52,UPI,Takeaway,June,Wednesday,2025,False
+O00400,C001,E03,2025-02-10,16:49,UPI,Takeaway,February,Monday,2025,False
+O00401,C092,E04,2025-01-26,21:37,UPI,Dine In,January,Sunday,2025,True
+O00402,C059,E02,2025-02-09,13:55,Cash,Dine In,February,Sunday,2025,True
+O00403,C016,E04,2025-04-18,12:33,UPI,Dine In,April,Friday,2025,False
+O00404,C056,E05,2025-04-12,01:04,UPI,Dine In,April,Saturday,2025,True
+O00405,C077,E05,2025-05-01,00:45,Card,Takeaway,May,Thursday,2025,False
+O00406,C038,E04,2025-06-27,00:08,Cash,Dine In,June,Friday,2025,False
+O00407,C041,E05,2025-06-07,00:29,UPI,Dine In,June,Saturday,2025,True
+O00408,C087,E02,2025-03-05,04:36,Card,Dine In,March,Wednesday,2025,False
+O00409,C074,E04,2025-04-17,10:19,Cash,Takeaway,April,Thursday,2025,False
+O00410,C019,E01,2025-03-11,16:02,Cash,Dine In,March,Tuesday,2025,False
+O00411,C008,E03,2025-01-27,23:45,UPI,Dine In,January,Monday,2025,False
+O00412,C072,E02,2025-05-15,22:53,Cash,Takeaway,May,Thursday,2025,False
+O00413,C007,E04,2025-05-02,07:13,UPI,Takeaway,May,Friday,2025,False
+O00414,C100,E04,2025-06-08,12:03,Cash,Takeaway,June,Sunday,2025,True
+O00415,C088,E01,2025-02-02,15:11,UPI,Dine In,February,Sunday,2025,True
+O00416,C017,E02,2025-02-18,10:28,UPI,Takeaway,February,Tuesday,2025,False
+O00417,C020,E01,2025-05-10,12:40,UPI,Takeaway,May,Saturday,2025,True
+O00418,C074,E05,2025-03-31,15:14,UPI,Takeaway,March,Monday,2025,False
+O00419,C070,E05,2025-03-18,01:13,UPI,Takeaway,March,Tuesday,2025,False
+O00420,C043,E03,2025-03-02,18:01,UPI,Takeaway,March,Sunday,2025,True
+O00421,C083,E05,2025-06-14,23:48,Card,Dine In,June,Saturday,2025,True
+O00422,C015,E04,2025-06-17,01:46,UPI,Takeaway,June,Tuesday,2025,False
+O00423,C066,E04,2025-05-27,11:33,UPI,Takeaway,May,Tuesday,2025,False
+O00424,C099,E05,2025-06-27,05:06,UPI,Dine In,June,Friday,2025,False
+O00425,C014,E02,2025-03-19,13:23,UPI,Takeaway,March,Wednesday,2025,False
+O00426,C043,E01,2025-05-11,20:02,UPI,Dine In,May,Sunday,2025,True
+O00427,C074,E02,2025-01-14,03:45,Card,Takeaway,January,Tuesday,2025,False
+O00428,C003,E04,2025-02-27,22:23,Cash,Dine In,February,Thursday,2025,False
+O00429,C010,E03,2025-06-04,18:03,Card,Dine In,June,Wednesday,2025,False
+O00430,C057,E04,2025-05-20,15:32,UPI,Dine In,May,Tuesday,2025,False
+O00431,C051,E05,2025-05-17,06:37,UPI,Dine In,May,Saturday,2025,True
+O00432,C016,E01,2025-01-27,01:40,UPI,Takeaway,January,Monday,2025,False
+O00433,C028,E04,2025-03-04,22:18,Card,Dine In,March,Tuesday,2025,False
+O00434,C033,E02,2025-04-23,15:12,UPI,Dine In,April,Wednesday,2025,False
+O00435,C033,E01,2025-01-13,14:18,UPI,Takeaway,January,Monday,2025,False
+O00436,C013,E03,2025-02-13,00:41,UPI,Dine In,February,Thursday,2025,False
+O00437,C040,E05,2025-05-01,09:03,UPI,Takeaway,May,Thursday,2025,False
+O00438,C029,E04,2025-02-15,03:33,UPI,Takeaway,February,Saturday,2025,True
+O00439,C058,E03,2025-03-26,14:12,Cash,Takeaway,March,Wednesday,2025,False
+O00440,C018,E05,2025-06-06,15:46,UPI,Dine In,June,Friday,2025,False
+O00441,C075,E05,2025-05-29,06:29,UPI,Dine In,May,Thursday,2025,False
+O00442,C070,E04,2025-06-13,01:53,Cash,Dine In,June,Friday,2025,False
+O00443,C038,E02,2025-06-06,09:00,UPI,Dine In,June,Friday,2025,False
+O00444,C079,E02,2025-02-13,19:41,Cash,Dine In,February,Thursday,2025,False
+O00445,C019,E04,2025-05-01,09:01,Card,Dine In,May,Thursday,2025,False
+O00446,C034,E03,2025-01-12,18:38,UPI,Dine In,January,Sunday,2025,True
+O00447,C084,E03,2025-06-28,20:15,UPI,Takeaway,June,Saturday,2025,True
+O00448,C049,E03,2025-04-30,07:57,UPI,Dine In,April,Wednesday,2025,False
+O00449,C045,E04,2025-05-30,02:33,Cash,Dine In,May,Friday,2025,False
+O00450,C036,E02,2025-04-28,11:23,UPI,Dine In,April,Monday,2025,False
+O00451,C043,E01,2025-05-29,00:04,UPI,Takeaway,May,Thursday,2025,False
+O00452,C053,E01,2025-06-02,01:01,UPI,Dine In,June,Monday,2025,False
+O00453,C008,E02,2025-01-28,01:39,UPI,Dine In,January,Tuesday,2025,False
+O00454,C085,E03,2025-05-13,20:34,Card,Dine In,May,Tuesday,2025,False
+O00455,C053,E05,2025-02-10,06:24,UPI,Dine In,February,Monday,2025,False
+O00456,C076,E01,2025-04-19,22:17,UPI,Takeaway,April,Saturday,2025,True
+O00457,C067,E05,2025-02-07,04:04,Cash,Dine In,February,Friday,2025,False
+O00458,C069,E05,2025-06-10,02:57,Cash,Dine In,June,Tuesday,2025,False
+O00459,C001,E04,2025-05-31,23:29,UPI,Takeaway,May,Saturday,2025,True
+O00460,C062,E04,2025-06-21,04:01,UPI,Dine In,June,Saturday,2025,True
+O00461,C011,E03,2025-06-16,00:13,UPI,Takeaway,June,Monday,2025,False
+O00462,C001,E05,2025-05-25,01:02,UPI,Dine In,May,Sunday,2025,True
+O00463,C014,E02,2025-03-08,06:46,UPI,Takeaway,March,Saturday,2025,True
+O00464,C088,E04,2025-02-20,11:56,Cash,Takeaway,February,Thursday,2025,False
+O00465,C040,E05,2025-02-16,12:46,UPI,Takeaway,February,Sunday,2025,True
+O00466,C058,E02,2025-02-12,03:53,UPI,Takeaway,February,Wednesday,2025,False
+O00467,C012,E02,2025-01-02,07:06,UPI,Takeaway,January,Thursday,2025,False
+O00468,C048,E01,2025-02-10,16:55,UPI,Takeaway,February,Monday,2025,False
+O00469,C100,E02,2025-06-22,11:53,UPI,Takeaway,June,Sunday,2025,True
+O00470,C067,E03,2025-06-19,18:32,UPI,Dine In,June,Thursday,2025,False
+O00471,C021,E01,2025-01-01,09:15,Card,Takeaway,January,Wednesday,2025,False
+O00472,C002,E01,2025-04-05,14:03,Card,Takeaway,April,Saturday,2025,True
+O00473,C025,E04,2025-06-25,15:39,Card,Dine In,June,Wednesday,2025,False
+O00474,C010,E05,2025-04-13,00:41,UPI,Dine In,April,Sunday,2025,True
+O00475,C049,E05,2025-03-22,22:29,UPI,Dine In,March,Saturday,2025,True
+O00476,C004,E04,2025-06-07,06:14,UPI,Dine In,June,Saturday,2025,True
+O00477,C041,E04,2025-05-26,23:57,Card,Dine In,May,Monday,2025,False
+O00478,C044,E01,2025-05-17,15:30,UPI,Dine In,May,Saturday,2025,True
+O00479,C024,E02,2025-02-19,07:36,UPI,Dine In,February,Wednesday,2025,False
+O00480,C030,E02,2025-02-07,23:25,Cash,Takeaway,February,Friday,2025,False
+O00481,C011,E04,2025-06-17,20:21,UPI,Dine In,June,Tuesday,2025,False
+O00482,C074,E03,2025-06-13,19:57,UPI,Takeaway,June,Friday,2025,False
+O00483,C068,E04,2025-01-11,04:34,UPI,Dine In,January,Saturday,2025,True
+O00484,C016,E05,2025-06-28,02:25,UPI,Dine In,June,Saturday,2025,True
+O00485,C013,E03,2025-04-17,02:27,UPI,Takeaway,April,Thursday,2025,False
+O00486,C061,E05,2025-02-19,09:03,UPI,Dine In,February,Wednesday,2025,False
+O00487,C048,E03,2025-05-18,06:23,Card,Takeaway,May,Sunday,2025,True
+O00488,C030,E01,2025-05-06,05:13,Cash,Dine In,May,Tuesday,2025,False
+O00489,C061,E01,2025-01-28,13:23,UPI,Takeaway,January,Tuesday,2025,False
+O00490,C033,E05,2025-02-24,22:52,Card,Dine In,February,Monday,2025,False
+O00491,C033,E04,2025-02-09,13:23,Cash,Dine In,February,Sunday,2025,True
+O00492,C072,E03,2025-04-13,08:12,UPI,Takeaway,April,Sunday,2025,True
+O00493,C078,E02,2025-06-25,15:55,UPI,Dine In,June,Wednesday,2025,False
+O00494,C100,E04,2025-03-31,01:53,Card,Takeaway,March,Monday,2025,False
+O00495,C044,E04,2025-05-28,08:58,UPI,Takeaway,May,Wednesday,2025,False
+O00496,C030,E03,2025-03-04,21:19,UPI,Takeaway,March,Tuesday,2025,False
+O00497,C047,E05,2025-05-23,12:07,UPI,Takeaway,May,Friday,2025,False
+O00498,C031,E03,2025-05-13,19:41,Card,Dine In,May,Tuesday,2025,False
+O00499,C013,E01,2025-01-20,02:03,Card,Takeaway,January,Monday,2025,False
+O00500,C034,E05,2025-01-20,06:04,UPI,Takeaway,January,Monday,2025,False

@@ -1,0 +1,17 @@
+Item_ID,Item_Name,Category,Cost_Price,Selling_Price
+1001,Espresso,Coffee,111,165
+1002,Americano,Coffee,33,167
+1003,Cappuccino,Coffee,65,136
+1004,Latte,Coffee,58,115
+1005,Mocha,Coffee,43,169
+1006,Flat White,Coffee,99,150
+1007,Masala Tea,Tea,105,199
+1008,Green Tea,Tea,34,77
+1009,Lemon Tea,Tea,41,108
+1010,Brownie,Dessert,59,163
+1011,Cheesecake,Dessert,107,150
+1012,Muffin,Dessert,101,166
+1013,Veg Sandwich,Food,113,242
+1014,Paneer Sandwich,Food,99,192
+1015,Pasta,Food,58,155
+1016,Burger,Food,105,180

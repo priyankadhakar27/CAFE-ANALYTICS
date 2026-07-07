@@ -1,0 +1,1014 @@
+Order_ID,Customer_ID,Employee_ID,Order_Date,Order_Time,Payment_Method,Order_Type,Month,Day,Year,Weekend,Order_Detail_ID,Item_ID,Quantity,Item_Name,Category,Cost_Price,Selling_Price,Name,Gender,Age,City,Member,Employee_Name,Shift,Revenue,Cost,Profit
+O00001,C004,E03,2025-04-16,16:18,UPI,Takeaway,April,Wednesday,2025,False,1,1007,3,Masala Tea,Tea,105,199,Ishita Sharma,Female,41,Alwar,Yes,Rahul,Morning,597,315,282
+O00001,C004,E03,2025-04-16,16:18,UPI,Takeaway,April,Wednesday,2025,False,2,1002,3,Americano,Coffee,33,167,Ishita Sharma,Female,41,Alwar,Yes,Rahul,Morning,501,99,402
+O00002,C081,E02,2025-06-01,12:49,UPI,Takeaway,June,Sunday,2025,True,3,1004,1,Latte,Coffee,58,115,Aarav Meena,Male,25,Udaipur,Yes,Pooja,Morning,115,58,57
+O00002,C081,E02,2025-06-01,12:49,UPI,Takeaway,June,Sunday,2025,True,4,1013,2,Veg Sandwich,Food,113,242,Aarav Meena,Male,25,Udaipur,Yes,Pooja,Morning,484,226,258
+O00002,C081,E02,2025-06-01,12:49,UPI,Takeaway,June,Sunday,2025,True,5,1010,3,Brownie,Dessert,59,163,Aarav Meena,Male,25,Udaipur,Yes,Pooja,Morning,489,177,312
+O00003,C085,E03,2025-03-20,07:36,UPI,Takeaway,March,Thursday,2025,False,6,1014,2,Paneer Sandwich,Food,99,192,Vikas Gupta,Male,36,Ajmer,No,Rahul,Morning,384,198,186
+O00004,C056,E03,2025-01-20,13:06,UPI,Takeaway,January,Monday,2025,False,7,1005,3,Mocha,Coffee,43,169,Rohan Sharma,Male,52,Jaipur,No,Rahul,Morning,507,129,378
+O00004,C056,E03,2025-01-20,13:06,UPI,Takeaway,January,Monday,2025,False,8,1007,3,Masala Tea,Tea,105,199,Rohan Sharma,Male,52,Jaipur,No,Rahul,Morning,597,315,282
+O00004,C056,E03,2025-01-20,13:06,UPI,Takeaway,January,Monday,2025,False,9,1003,3,Cappuccino,Coffee,65,136,Rohan Sharma,Male,52,Jaipur,No,Rahul,Morning,408,195,213
+O00005,C079,E05,2025-02-19,12:00,Cash,Takeaway,February,Wednesday,2025,False,10,1009,1,Lemon Tea,Tea,41,108,Ishita Gupta,Female,33,Ajmer,Yes,Karan,Morning,108,41,67
+O00005,C079,E05,2025-02-19,12:00,Cash,Takeaway,February,Wednesday,2025,False,11,1006,1,Flat White,Coffee,99,150,Ishita Gupta,Female,33,Ajmer,Yes,Karan,Morning,150,99,51
+O00006,C058,E02,2025-02-21,02:39,Cash,Takeaway,February,Friday,2025,False,12,1001,2,Espresso,Coffee,111,165,Vikas Singh,Male,40,Ajmer,Yes,Pooja,Morning,330,222,108
+O00006,C058,E02,2025-02-21,02:39,Cash,Takeaway,February,Friday,2025,False,13,1008,1,Green Tea,Tea,34,77,Vikas Singh,Male,40,Ajmer,Yes,Pooja,Morning,77,34,43
+O00007,C028,E03,2025-03-31,02:08,Cash,Takeaway,March,Monday,2025,False,14,1009,1,Lemon Tea,Tea,41,108,Yash Meena,Male,55,Ajmer,Yes,Rahul,Morning,108,41,67
+O00007,C028,E03,2025-03-31,02:08,Cash,Takeaway,March,Monday,2025,False,15,1016,3,Burger,Food,105,180,Yash Meena,Male,55,Ajmer,Yes,Rahul,Morning,540,315,225
+O00008,C025,E01,2025-06-22,22:08,UPI,Takeaway,June,Sunday,2025,True,16,1008,2,Green Tea,Tea,34,77,Simran Meena,Female,31,Alwar,Yes,Amit,Morning,154,68,86
+O00008,C025,E01,2025-06-22,22:08,UPI,Takeaway,June,Sunday,2025,True,17,1012,3,Muffin,Dessert,101,166,Simran Meena,Female,31,Alwar,Yes,Amit,Morning,498,303,195
+O00009,C063,E04,2025-05-10,22:05,Cash,Dine In,May,Saturday,2025,True,18,1008,3,Green Tea,Tea,34,77,Ananya Verma,Male,30,Udaipur,No,Sneha,Evening,231,102,129
+O00009,C063,E04,2025-05-10,22:05,Cash,Dine In,May,Saturday,2025,True,19,1007,1,Masala Tea,Tea,105,199,Ananya Verma,Male,30,Udaipur,No,Sneha,Evening,199,105,94
+O00010,C085,E05,2025-02-26,01:50,UPI,Takeaway,February,Wednesday,2025,False,20,1011,3,Cheesecake,Dessert,107,150,Vikas Gupta,Male,36,Ajmer,No,Karan,Morning,450,321,129
+O00010,C085,E05,2025-02-26,01:50,UPI,Takeaway,February,Wednesday,2025,False,21,1006,2,Flat White,Coffee,99,150,Vikas Gupta,Male,36,Ajmer,No,Karan,Morning,300,198,102
+O00011,C040,E03,2025-02-19,15:39,UPI,Dine In,February,Wednesday,2025,False,22,1004,3,Latte,Coffee,58,115,Priya Verma,Female,31,Jaipur,Yes,Rahul,Morning,345,174,171
+O00011,C040,E03,2025-02-19,15:39,UPI,Dine In,February,Wednesday,2025,False,23,1012,3,Muffin,Dessert,101,166,Priya Verma,Female,31,Jaipur,Yes,Rahul,Morning,498,303,195
+O00012,C025,E02,2025-02-04,00:55,Cash,Takeaway,February,Tuesday,2025,False,24,1010,1,Brownie,Dessert,59,163,Simran Meena,Female,31,Alwar,Yes,Pooja,Morning,163,59,104
+O00012,C025,E02,2025-02-04,00:55,Cash,Takeaway,February,Tuesday,2025,False,25,1002,2,Americano,Coffee,33,167,Simran Meena,Female,31,Alwar,Yes,Pooja,Morning,334,66,268
+O00012,C025,E02,2025-02-04,00:55,Cash,Takeaway,February,Tuesday,2025,False,26,1014,1,Paneer Sandwich,Food,99,192,Simran Meena,Female,31,Alwar,Yes,Pooja,Morning,192,99,93
+O00013,C023,E03,2025-03-08,00:42,UPI,Dine In,March,Saturday,2025,True,27,1002,3,Americano,Coffee,33,167,Rohan Joshi,Female,22,Alwar,Yes,Rahul,Morning,501,99,402
+O00013,C023,E03,2025-03-08,00:42,UPI,Dine In,March,Saturday,2025,True,28,1001,2,Espresso,Coffee,111,165,Rohan Joshi,Female,22,Alwar,Yes,Rahul,Morning,330,222,108
+O00014,C017,E04,2025-05-08,07:03,UPI,Dine In,May,Thursday,2025,False,29,1010,2,Brownie,Dessert,59,163,Simran Singh,Female,25,Kota,No,Sneha,Evening,326,118,208
+O00014,C017,E04,2025-05-08,07:03,UPI,Dine In,May,Thursday,2025,False,30,1008,2,Green Tea,Tea,34,77,Simran Singh,Female,25,Kota,No,Sneha,Evening,154,68,86
+O00014,C017,E04,2025-05-08,07:03,UPI,Dine In,May,Thursday,2025,False,31,1015,1,Pasta,Food,58,155,Simran Singh,Female,25,Kota,No,Sneha,Evening,155,58,97
+O00015,C007,E03,2025-06-26,02:19,Card,Takeaway,June,Thursday,2025,False,32,1003,2,Cappuccino,Coffee,65,136,Neha Singh,Male,35,Jaipur,Yes,Rahul,Morning,272,130,142
+O00016,C010,E05,2025-03-31,20:28,UPI,Dine In,March,Monday,2025,False,33,1005,3,Mocha,Coffee,43,169,Aarav Singh,Female,35,Jaipur,Yes,Karan,Morning,507,129,378
+O00017,C039,E01,2025-06-23,02:47,Card,Dine In,June,Monday,2025,False,34,1014,3,Paneer Sandwich,Food,99,192,Ishita Singh,Female,36,Udaipur,No,Amit,Morning,576,297,279
+O00017,C039,E01,2025-06-23,02:47,Card,Dine In,June,Monday,2025,False,35,1010,1,Brownie,Dessert,59,163,Ishita Singh,Female,36,Udaipur,No,Amit,Morning,163,59,104
+O00017,C039,E01,2025-06-23,02:47,Card,Dine In,June,Monday,2025,False,36,1015,3,Pasta,Food,58,155,Ishita Singh,Female,36,Udaipur,No,Amit,Morning,465,174,291
+O00018,C058,E04,2025-03-11,13:53,UPI,Takeaway,March,Tuesday,2025,False,37,1002,3,Americano,Coffee,33,167,Vikas Singh,Male,40,Ajmer,Yes,Sneha,Evening,501,99,402
+O00018,C058,E04,2025-03-11,13:53,UPI,Takeaway,March,Tuesday,2025,False,38,1010,1,Brownie,Dessert,59,163,Vikas Singh,Male,40,Ajmer,Yes,Sneha,Evening,163,59,104
+O00019,C098,E02,2025-06-22,20:05,UPI,Takeaway,June,Sunday,2025,True,39,1003,1,Cappuccino,Coffee,65,136,Ananya Joshi,Male,20,Jaipur,Yes,Pooja,Morning,136,65,71
+O00019,C098,E02,2025-06-22,20:05,UPI,Takeaway,June,Sunday,2025,True,40,1016,3,Burger,Food,105,180,Ananya Joshi,Male,20,Jaipur,Yes,Pooja,Morning,540,315,225
+O00019,C098,E02,2025-06-22,20:05,UPI,Takeaway,June,Sunday,2025,True,41,1004,1,Latte,Coffee,58,115,Ananya Joshi,Male,20,Jaipur,Yes,Pooja,Morning,115,58,57
+O00020,C001,E04,2025-01-29,19:54,UPI,Takeaway,January,Wednesday,2025,False,42,1002,2,Americano,Coffee,33,167,Aarav Verma,Female,39,Kota,Yes,Sneha,Evening,334,66,268
+O00020,C001,E04,2025-01-29,19:54,UPI,Takeaway,January,Wednesday,2025,False,43,1004,3,Latte,Coffee,58,115,Aarav Verma,Female,39,Kota,Yes,Sneha,Evening,345,174,171
+O00021,C090,E04,2025-02-21,19:12,UPI,Dine In,February,Friday,2025,False,44,1007,1,Masala Tea,Tea,105,199,Aarav Singh,Female,42,Udaipur,Yes,Sneha,Evening,199,105,94
+O00021,C090,E04,2025-02-21,19:12,UPI,Dine In,February,Friday,2025,False,45,1016,3,Burger,Food,105,180,Aarav Singh,Female,42,Udaipur,Yes,Sneha,Evening,540,315,225
+O00022,C083,E02,2025-02-11,06:12,Card,Dine In,February,Tuesday,2025,False,46,1002,1,Americano,Coffee,33,167,Simran Gupta,Male,48,Udaipur,No,Pooja,Morning,167,33,134
+O00023,C040,E05,2025-05-25,15:02,Cash,Takeaway,May,Sunday,2025,True,47,1004,3,Latte,Coffee,58,115,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,345,174,171
+O00023,C040,E05,2025-05-25,15:02,Cash,Takeaway,May,Sunday,2025,True,48,1008,2,Green Tea,Tea,34,77,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,154,68,86
+O00024,C052,E03,2025-05-08,17:10,UPI,Takeaway,May,Thursday,2025,False,49,1003,1,Cappuccino,Coffee,65,136,Vikas Singh,Male,39,Ajmer,No,Rahul,Morning,136,65,71
+O00024,C052,E03,2025-05-08,17:10,UPI,Takeaway,May,Thursday,2025,False,50,1010,2,Brownie,Dessert,59,163,Vikas Singh,Male,39,Ajmer,No,Rahul,Morning,326,118,208
+O00025,C042,E05,2025-05-15,01:13,UPI,Dine In,May,Thursday,2025,False,51,1001,3,Espresso,Coffee,111,165,Aarav Meena,Male,29,Jaipur,Yes,Karan,Morning,495,333,162
+O00026,C035,E05,2025-05-30,20:50,UPI,Dine In,May,Friday,2025,False,52,1015,2,Pasta,Food,58,155,Priya Gupta,Male,35,Udaipur,Yes,Karan,Morning,310,116,194
+O00026,C035,E05,2025-05-30,20:50,UPI,Dine In,May,Friday,2025,False,53,1016,1,Burger,Food,105,180,Priya Gupta,Male,35,Udaipur,Yes,Karan,Morning,180,105,75
+O00027,C056,E04,2025-04-17,21:20,Card,Takeaway,April,Thursday,2025,False,54,1014,2,Paneer Sandwich,Food,99,192,Rohan Sharma,Male,52,Jaipur,No,Sneha,Evening,384,198,186
+O00027,C056,E04,2025-04-17,21:20,Card,Takeaway,April,Thursday,2025,False,55,1006,3,Flat White,Coffee,99,150,Rohan Sharma,Male,52,Jaipur,No,Sneha,Evening,450,297,153
+O00028,C021,E03,2025-01-20,09:00,UPI,Takeaway,January,Monday,2025,False,56,1013,3,Veg Sandwich,Food,113,242,Yash Singh,Female,19,Jaipur,No,Rahul,Morning,726,339,387
+O00028,C021,E03,2025-01-20,09:00,UPI,Takeaway,January,Monday,2025,False,57,1014,1,Paneer Sandwich,Food,99,192,Yash Singh,Female,19,Jaipur,No,Rahul,Morning,192,99,93
+O00029,C012,E03,2025-03-25,03:09,UPI,Dine In,March,Tuesday,2025,False,58,1001,3,Espresso,Coffee,111,165,Kabir Verma,Female,26,Ajmer,No,Rahul,Morning,495,333,162
+O00029,C012,E03,2025-03-25,03:09,UPI,Dine In,March,Tuesday,2025,False,59,1011,2,Cheesecake,Dessert,107,150,Kabir Verma,Female,26,Ajmer,No,Rahul,Morning,300,214,86
+O00030,C007,E02,2025-03-17,13:30,UPI,Takeaway,March,Monday,2025,False,60,1015,1,Pasta,Food,58,155,Neha Singh,Male,35,Jaipur,Yes,Pooja,Morning,155,58,97
+O00030,C007,E02,2025-03-17,13:30,UPI,Takeaway,March,Monday,2025,False,61,1013,2,Veg Sandwich,Food,113,242,Neha Singh,Male,35,Jaipur,Yes,Pooja,Morning,484,226,258
+O00030,C007,E02,2025-03-17,13:30,UPI,Takeaway,March,Monday,2025,False,62,1001,3,Espresso,Coffee,111,165,Neha Singh,Male,35,Jaipur,Yes,Pooja,Morning,495,333,162
+O00031,C037,E04,2025-01-25,04:24,Card,Takeaway,January,Saturday,2025,True,63,1001,3,Espresso,Coffee,111,165,Rohan Verma,Male,44,Udaipur,No,Sneha,Evening,495,333,162
+O00032,C031,E02,2025-04-22,04:12,UPI,Dine In,April,Tuesday,2025,False,64,1014,1,Paneer Sandwich,Food,99,192,Simran Verma,Female,33,Udaipur,No,Pooja,Morning,192,99,93
+O00032,C031,E02,2025-04-22,04:12,UPI,Dine In,April,Tuesday,2025,False,65,1002,2,Americano,Coffee,33,167,Simran Verma,Female,33,Udaipur,No,Pooja,Morning,334,66,268
+O00032,C031,E02,2025-04-22,04:12,UPI,Dine In,April,Tuesday,2025,False,66,1004,1,Latte,Coffee,58,115,Simran Verma,Female,33,Udaipur,No,Pooja,Morning,115,58,57
+O00033,C020,E04,2025-04-29,05:53,Card,Takeaway,April,Tuesday,2025,False,67,1009,2,Lemon Tea,Tea,41,108,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,216,82,134
+O00033,C020,E04,2025-04-29,05:53,Card,Takeaway,April,Tuesday,2025,False,68,1007,2,Masala Tea,Tea,105,199,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,398,210,188
+O00033,C020,E04,2025-04-29,05:53,Card,Takeaway,April,Tuesday,2025,False,69,1014,1,Paneer Sandwich,Food,99,192,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,192,99,93
+O00034,C071,E02,2025-03-25,11:43,UPI,Dine In,March,Tuesday,2025,False,70,1009,2,Lemon Tea,Tea,41,108,Ishita Singh,Female,36,Alwar,Yes,Pooja,Morning,216,82,134
+O00035,C065,E03,2025-03-04,04:56,Cash,Takeaway,March,Tuesday,2025,False,71,1010,3,Brownie,Dessert,59,163,Simran Singh,Male,25,Kota,Yes,Rahul,Morning,489,177,312
+O00035,C065,E03,2025-03-04,04:56,Cash,Takeaway,March,Tuesday,2025,False,72,1014,3,Paneer Sandwich,Food,99,192,Simran Singh,Male,25,Kota,Yes,Rahul,Morning,576,297,279
+O00035,C065,E03,2025-03-04,04:56,Cash,Takeaway,March,Tuesday,2025,False,73,1016,2,Burger,Food,105,180,Simran Singh,Male,25,Kota,Yes,Rahul,Morning,360,210,150
+O00036,C020,E04,2025-06-07,20:22,UPI,Takeaway,June,Saturday,2025,True,74,1013,2,Veg Sandwich,Food,113,242,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,484,226,258
+O00036,C020,E04,2025-06-07,20:22,UPI,Takeaway,June,Saturday,2025,True,75,1008,1,Green Tea,Tea,34,77,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,77,34,43
+O00037,C090,E02,2025-06-28,21:04,UPI,Dine In,June,Saturday,2025,True,76,1002,3,Americano,Coffee,33,167,Aarav Singh,Female,42,Udaipur,Yes,Pooja,Morning,501,99,402
+O00037,C090,E02,2025-06-28,21:04,UPI,Dine In,June,Saturday,2025,True,77,1006,2,Flat White,Coffee,99,150,Aarav Singh,Female,42,Udaipur,Yes,Pooja,Morning,300,198,102
+O00038,C049,E04,2025-05-09,17:11,Card,Dine In,May,Friday,2025,False,78,1002,3,Americano,Coffee,33,167,Neha Singh,Male,46,Alwar,No,Sneha,Evening,501,99,402
+O00038,C049,E04,2025-05-09,17:11,Card,Dine In,May,Friday,2025,False,79,1003,3,Cappuccino,Coffee,65,136,Neha Singh,Male,46,Alwar,No,Sneha,Evening,408,195,213
+O00039,C013,E04,2025-03-02,18:30,UPI,Takeaway,March,Sunday,2025,True,80,1005,2,Mocha,Coffee,43,169,Yash Gupta,Female,41,Ajmer,Yes,Sneha,Evening,338,86,252
+O00040,C084,E02,2025-06-08,21:09,UPI,Takeaway,June,Sunday,2025,True,81,1013,1,Veg Sandwich,Food,113,242,Ananya Joshi,Female,51,Udaipur,Yes,Pooja,Morning,242,113,129
+O00040,C084,E02,2025-06-08,21:09,UPI,Takeaway,June,Sunday,2025,True,82,1011,2,Cheesecake,Dessert,107,150,Ananya Joshi,Female,51,Udaipur,Yes,Pooja,Morning,300,214,86
+O00041,C087,E05,2025-06-05,11:56,UPI,Takeaway,June,Thursday,2025,False,83,1016,1,Burger,Food,105,180,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,180,105,75
+O00041,C087,E05,2025-06-05,11:56,UPI,Takeaway,June,Thursday,2025,False,84,1014,3,Paneer Sandwich,Food,99,192,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,576,297,279
+O00041,C087,E05,2025-06-05,11:56,UPI,Takeaway,June,Thursday,2025,False,85,1009,1,Lemon Tea,Tea,41,108,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,108,41,67
+O00042,C081,E03,2025-02-13,01:43,Card,Dine In,February,Thursday,2025,False,86,1004,3,Latte,Coffee,58,115,Aarav Meena,Male,25,Udaipur,Yes,Rahul,Morning,345,174,171
+O00042,C081,E03,2025-02-13,01:43,Card,Dine In,February,Thursday,2025,False,87,1013,3,Veg Sandwich,Food,113,242,Aarav Meena,Male,25,Udaipur,Yes,Rahul,Morning,726,339,387
+O00043,C013,E04,2025-06-09,04:21,UPI,Takeaway,June,Monday,2025,False,88,1002,2,Americano,Coffee,33,167,Yash Gupta,Female,41,Ajmer,Yes,Sneha,Evening,334,66,268
+O00044,C008,E03,2025-05-26,06:24,UPI,Takeaway,May,Monday,2025,False,89,1008,3,Green Tea,Tea,34,77,Simran Joshi,Male,28,Udaipur,No,Rahul,Morning,231,102,129
+O00045,C073,E02,2025-03-17,08:16,UPI,Dine In,March,Monday,2025,False,90,1013,1,Veg Sandwich,Food,113,242,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,242,113,129
+O00045,C073,E02,2025-03-17,08:16,UPI,Dine In,March,Monday,2025,False,91,1010,2,Brownie,Dessert,59,163,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,326,118,208
+O00045,C073,E02,2025-03-17,08:16,UPI,Dine In,March,Monday,2025,False,92,1011,3,Cheesecake,Dessert,107,150,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,450,321,129
+O00046,C030,E04,2025-01-27,09:17,UPI,Takeaway,January,Monday,2025,False,93,1001,2,Espresso,Coffee,111,165,Neha Sharma,Male,35,Udaipur,Yes,Sneha,Evening,330,222,108
+O00046,C030,E04,2025-01-27,09:17,UPI,Takeaway,January,Monday,2025,False,94,1015,2,Pasta,Food,58,155,Neha Sharma,Male,35,Udaipur,Yes,Sneha,Evening,310,116,194
+O00047,C070,E02,2025-05-04,16:31,UPI,Takeaway,May,Sunday,2025,True,95,1010,3,Brownie,Dessert,59,163,Neha Meena,Female,25,Kota,No,Pooja,Morning,489,177,312
+O00047,C070,E02,2025-05-04,16:31,UPI,Takeaway,May,Sunday,2025,True,96,1011,2,Cheesecake,Dessert,107,150,Neha Meena,Female,25,Kota,No,Pooja,Morning,300,214,86
+O00047,C070,E02,2025-05-04,16:31,UPI,Takeaway,May,Sunday,2025,True,97,1007,2,Masala Tea,Tea,105,199,Neha Meena,Female,25,Kota,No,Pooja,Morning,398,210,188
+O00048,C039,E02,2025-06-04,05:11,Card,Takeaway,June,Wednesday,2025,False,98,1008,2,Green Tea,Tea,34,77,Ishita Singh,Female,36,Udaipur,No,Pooja,Morning,154,68,86
+O00049,C046,E05,2025-04-15,10:46,UPI,Takeaway,April,Tuesday,2025,False,99,1013,2,Veg Sandwich,Food,113,242,Priya Joshi,Female,47,Kota,Yes,Karan,Morning,484,226,258
+O00050,C073,E01,2025-01-02,19:22,Card,Takeaway,January,Thursday,2025,False,100,1008,2,Green Tea,Tea,34,77,Ishita Meena,Male,37,Kota,Yes,Amit,Morning,154,68,86
+O00050,C073,E01,2025-01-02,19:22,Card,Takeaway,January,Thursday,2025,False,101,1010,1,Brownie,Dessert,59,163,Ishita Meena,Male,37,Kota,Yes,Amit,Morning,163,59,104
+O00051,C025,E05,2025-04-27,05:25,UPI,Dine In,April,Sunday,2025,True,102,1004,3,Latte,Coffee,58,115,Simran Meena,Female,31,Alwar,Yes,Karan,Morning,345,174,171
+O00051,C025,E05,2025-04-27,05:25,UPI,Dine In,April,Sunday,2025,True,103,1015,1,Pasta,Food,58,155,Simran Meena,Female,31,Alwar,Yes,Karan,Morning,155,58,97
+O00051,C025,E05,2025-04-27,05:25,UPI,Dine In,April,Sunday,2025,True,104,1011,2,Cheesecake,Dessert,107,150,Simran Meena,Female,31,Alwar,Yes,Karan,Morning,300,214,86
+O00052,C057,E01,2025-05-24,21:29,UPI,Dine In,May,Saturday,2025,True,105,1010,2,Brownie,Dessert,59,163,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,326,118,208
+O00053,C054,E02,2025-05-17,09:47,UPI,Takeaway,May,Saturday,2025,True,106,1009,2,Lemon Tea,Tea,41,108,Vikas Sharma,Male,39,Ajmer,No,Pooja,Morning,216,82,134
+O00053,C054,E02,2025-05-17,09:47,UPI,Takeaway,May,Saturday,2025,True,107,1014,2,Paneer Sandwich,Food,99,192,Vikas Sharma,Male,39,Ajmer,No,Pooja,Morning,384,198,186
+O00053,C054,E02,2025-05-17,09:47,UPI,Takeaway,May,Saturday,2025,True,108,1003,2,Cappuccino,Coffee,65,136,Vikas Sharma,Male,39,Ajmer,No,Pooja,Morning,272,130,142
+O00054,C044,E01,2025-05-17,05:46,UPI,Dine In,May,Saturday,2025,True,109,1008,3,Green Tea,Tea,34,77,Yash Sharma,Female,55,Alwar,No,Amit,Morning,231,102,129
+O00055,C087,E04,2025-05-13,04:09,Card,Takeaway,May,Tuesday,2025,False,110,1013,1,Veg Sandwich,Food,113,242,Ishita Joshi,Male,31,Jaipur,No,Sneha,Evening,242,113,129
+O00056,C069,E01,2025-02-18,11:26,UPI,Takeaway,February,Tuesday,2025,False,111,1013,2,Veg Sandwich,Food,113,242,Aarav Meena,Male,41,Udaipur,Yes,Amit,Morning,484,226,258
+O00056,C069,E01,2025-02-18,11:26,UPI,Takeaway,February,Tuesday,2025,False,112,1014,1,Paneer Sandwich,Food,99,192,Aarav Meena,Male,41,Udaipur,Yes,Amit,Morning,192,99,93
+O00056,C069,E01,2025-02-18,11:26,UPI,Takeaway,February,Tuesday,2025,False,113,1011,3,Cheesecake,Dessert,107,150,Aarav Meena,Male,41,Udaipur,Yes,Amit,Morning,450,321,129
+O00057,C061,E01,2025-02-12,21:35,UPI,Takeaway,February,Wednesday,2025,False,114,1008,3,Green Tea,Tea,34,77,Ananya Singh,Male,24,Udaipur,Yes,Amit,Morning,231,102,129
+O00057,C061,E01,2025-02-12,21:35,UPI,Takeaway,February,Wednesday,2025,False,115,1011,2,Cheesecake,Dessert,107,150,Ananya Singh,Male,24,Udaipur,Yes,Amit,Morning,300,214,86
+O00057,C061,E01,2025-02-12,21:35,UPI,Takeaway,February,Wednesday,2025,False,116,1002,3,Americano,Coffee,33,167,Ananya Singh,Male,24,Udaipur,Yes,Amit,Morning,501,99,402
+O00058,C084,E04,2025-02-25,08:17,UPI,Dine In,February,Tuesday,2025,False,117,1010,2,Brownie,Dessert,59,163,Ananya Joshi,Female,51,Udaipur,Yes,Sneha,Evening,326,118,208
+O00059,C013,E02,2025-01-22,11:20,Card,Dine In,January,Wednesday,2025,False,118,1015,3,Pasta,Food,58,155,Yash Gupta,Female,41,Ajmer,Yes,Pooja,Morning,465,174,291
+O00059,C013,E02,2025-01-22,11:20,Card,Dine In,January,Wednesday,2025,False,119,1006,3,Flat White,Coffee,99,150,Yash Gupta,Female,41,Ajmer,Yes,Pooja,Morning,450,297,153
+O00060,C070,E04,2025-05-08,02:59,UPI,Dine In,May,Thursday,2025,False,120,1004,2,Latte,Coffee,58,115,Neha Meena,Female,25,Kota,No,Sneha,Evening,230,116,114
+O00060,C070,E04,2025-05-08,02:59,UPI,Dine In,May,Thursday,2025,False,121,1014,3,Paneer Sandwich,Food,99,192,Neha Meena,Female,25,Kota,No,Sneha,Evening,576,297,279
+O00061,C036,E01,2025-03-16,15:05,Cash,Dine In,March,Sunday,2025,True,122,1015,2,Pasta,Food,58,155,Rohan Gupta,Male,21,Alwar,Yes,Amit,Morning,310,116,194
+O00061,C036,E01,2025-03-16,15:05,Cash,Dine In,March,Sunday,2025,True,123,1004,1,Latte,Coffee,58,115,Rohan Gupta,Male,21,Alwar,Yes,Amit,Morning,115,58,57
+O00062,C088,E03,2025-06-28,21:44,UPI,Takeaway,June,Saturday,2025,True,124,1013,2,Veg Sandwich,Food,113,242,Ishita Singh,Female,44,Jaipur,Yes,Rahul,Morning,484,226,258
+O00063,C016,E04,2025-02-04,21:17,UPI,Dine In,February,Tuesday,2025,False,125,1001,2,Espresso,Coffee,111,165,Yash Gupta,Female,53,Jaipur,Yes,Sneha,Evening,330,222,108
+O00063,C016,E04,2025-02-04,21:17,UPI,Dine In,February,Tuesday,2025,False,126,1016,1,Burger,Food,105,180,Yash Gupta,Female,53,Jaipur,Yes,Sneha,Evening,180,105,75
+O00063,C016,E04,2025-02-04,21:17,UPI,Dine In,February,Tuesday,2025,False,127,1013,1,Veg Sandwich,Food,113,242,Yash Gupta,Female,53,Jaipur,Yes,Sneha,Evening,242,113,129
+O00064,C073,E02,2025-05-24,14:21,UPI,Dine In,May,Saturday,2025,True,128,1007,1,Masala Tea,Tea,105,199,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,199,105,94
+O00064,C073,E02,2025-05-24,14:21,UPI,Dine In,May,Saturday,2025,True,129,1014,2,Paneer Sandwich,Food,99,192,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,384,198,186
+O00064,C073,E02,2025-05-24,14:21,UPI,Dine In,May,Saturday,2025,True,130,1015,1,Pasta,Food,58,155,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,155,58,97
+O00065,C077,E01,2025-05-24,21:38,UPI,Dine In,May,Saturday,2025,True,131,1009,1,Lemon Tea,Tea,41,108,Ananya Verma,Male,19,Jaipur,Yes,Amit,Morning,108,41,67
+O00066,C085,E01,2025-01-21,08:16,UPI,Takeaway,January,Tuesday,2025,False,132,1011,1,Cheesecake,Dessert,107,150,Vikas Gupta,Male,36,Ajmer,No,Amit,Morning,150,107,43
+O00067,C034,E01,2025-02-02,01:17,UPI,Takeaway,February,Sunday,2025,True,133,1004,2,Latte,Coffee,58,115,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,230,116,114
+O00067,C034,E01,2025-02-02,01:17,UPI,Takeaway,February,Sunday,2025,True,134,1012,2,Muffin,Dessert,101,166,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,332,202,130
+O00067,C034,E01,2025-02-02,01:17,UPI,Takeaway,February,Sunday,2025,True,135,1002,2,Americano,Coffee,33,167,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,334,66,268
+O00068,C076,E01,2025-04-04,18:22,UPI,Dine In,April,Friday,2025,False,136,1002,3,Americano,Coffee,33,167,Simran Joshi,Female,23,Ajmer,No,Amit,Morning,501,99,402
+O00068,C076,E01,2025-04-04,18:22,UPI,Dine In,April,Friday,2025,False,137,1012,3,Muffin,Dessert,101,166,Simran Joshi,Female,23,Ajmer,No,Amit,Morning,498,303,195
+O00068,C076,E01,2025-04-04,18:22,UPI,Dine In,April,Friday,2025,False,138,1013,2,Veg Sandwich,Food,113,242,Simran Joshi,Female,23,Ajmer,No,Amit,Morning,484,226,258
+O00069,C083,E01,2025-03-25,17:13,UPI,Takeaway,March,Tuesday,2025,False,139,1014,1,Paneer Sandwich,Food,99,192,Simran Gupta,Male,48,Udaipur,No,Amit,Morning,192,99,93
+O00069,C083,E01,2025-03-25,17:13,UPI,Takeaway,March,Tuesday,2025,False,140,1011,2,Cheesecake,Dessert,107,150,Simran Gupta,Male,48,Udaipur,No,Amit,Morning,300,214,86
+O00070,C057,E01,2025-05-11,00:31,Card,Takeaway,May,Sunday,2025,True,141,1005,2,Mocha,Coffee,43,169,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,338,86,252
+O00070,C057,E01,2025-05-11,00:31,Card,Takeaway,May,Sunday,2025,True,142,1002,3,Americano,Coffee,33,167,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,501,99,402
+O00070,C057,E01,2025-05-11,00:31,Card,Takeaway,May,Sunday,2025,True,143,1003,3,Cappuccino,Coffee,65,136,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,408,195,213
+O00071,C071,E03,2025-04-17,21:29,UPI,Takeaway,April,Thursday,2025,False,144,1014,3,Paneer Sandwich,Food,99,192,Ishita Singh,Female,36,Alwar,Yes,Rahul,Morning,576,297,279
+O00071,C071,E03,2025-04-17,21:29,UPI,Takeaway,April,Thursday,2025,False,145,1002,1,Americano,Coffee,33,167,Ishita Singh,Female,36,Alwar,Yes,Rahul,Morning,167,33,134
+O00072,C084,E05,2025-06-05,13:54,Cash,Dine In,June,Thursday,2025,False,146,1015,1,Pasta,Food,58,155,Ananya Joshi,Female,51,Udaipur,Yes,Karan,Morning,155,58,97
+O00072,C084,E05,2025-06-05,13:54,Cash,Dine In,June,Thursday,2025,False,147,1016,2,Burger,Food,105,180,Ananya Joshi,Female,51,Udaipur,Yes,Karan,Morning,360,210,150
+O00073,C059,E04,2025-03-04,00:48,UPI,Dine In,March,Tuesday,2025,False,148,1014,3,Paneer Sandwich,Food,99,192,Rohan Singh,Female,27,Ajmer,Yes,Sneha,Evening,576,297,279
+O00073,C059,E04,2025-03-04,00:48,UPI,Dine In,March,Tuesday,2025,False,149,1006,2,Flat White,Coffee,99,150,Rohan Singh,Female,27,Ajmer,Yes,Sneha,Evening,300,198,102
+O00074,C020,E04,2025-03-10,11:20,UPI,Dine In,March,Monday,2025,False,150,1014,1,Paneer Sandwich,Food,99,192,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,192,99,93
+O00075,C095,E03,2025-05-16,21:09,Cash,Dine In,May,Friday,2025,False,151,1011,2,Cheesecake,Dessert,107,150,Aarav Singh,Female,38,Ajmer,No,Rahul,Morning,300,214,86
+O00075,C095,E03,2025-05-16,21:09,Cash,Dine In,May,Friday,2025,False,152,1016,2,Burger,Food,105,180,Aarav Singh,Female,38,Ajmer,No,Rahul,Morning,360,210,150
+O00075,C095,E03,2025-05-16,21:09,Cash,Dine In,May,Friday,2025,False,153,1002,3,Americano,Coffee,33,167,Aarav Singh,Female,38,Ajmer,No,Rahul,Morning,501,99,402
+O00076,C097,E04,2025-06-21,15:51,Card,Dine In,June,Saturday,2025,True,154,1010,1,Brownie,Dessert,59,163,Rohan Gupta,Male,52,Jaipur,No,Sneha,Evening,163,59,104
+O00076,C097,E04,2025-06-21,15:51,Card,Dine In,June,Saturday,2025,True,155,1006,3,Flat White,Coffee,99,150,Rohan Gupta,Male,52,Jaipur,No,Sneha,Evening,450,297,153
+O00077,C028,E02,2025-04-03,16:55,Cash,Dine In,April,Thursday,2025,False,156,1012,3,Muffin,Dessert,101,166,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,498,303,195
+O00078,C015,E03,2025-03-09,05:53,UPI,Takeaway,March,Sunday,2025,True,157,1001,3,Espresso,Coffee,111,165,Priya Joshi,Female,22,Udaipur,No,Rahul,Morning,495,333,162
+O00078,C015,E03,2025-03-09,05:53,UPI,Takeaway,March,Sunday,2025,True,158,1010,2,Brownie,Dessert,59,163,Priya Joshi,Female,22,Udaipur,No,Rahul,Morning,326,118,208
+O00078,C015,E03,2025-03-09,05:53,UPI,Takeaway,March,Sunday,2025,True,159,1011,1,Cheesecake,Dessert,107,150,Priya Joshi,Female,22,Udaipur,No,Rahul,Morning,150,107,43
+O00079,C035,E03,2025-02-03,04:14,Card,Takeaway,February,Monday,2025,False,160,1006,1,Flat White,Coffee,99,150,Priya Gupta,Male,35,Udaipur,Yes,Rahul,Morning,150,99,51
+O00080,C085,E04,2025-04-14,10:17,UPI,Dine In,April,Monday,2025,False,161,1007,2,Masala Tea,Tea,105,199,Vikas Gupta,Male,36,Ajmer,No,Sneha,Evening,398,210,188
+O00081,C059,E03,2025-03-18,18:16,UPI,Takeaway,March,Tuesday,2025,False,162,1011,3,Cheesecake,Dessert,107,150,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,450,321,129
+O00081,C059,E03,2025-03-18,18:16,UPI,Takeaway,March,Tuesday,2025,False,163,1013,1,Veg Sandwich,Food,113,242,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,242,113,129
+O00081,C059,E03,2025-03-18,18:16,UPI,Takeaway,March,Tuesday,2025,False,164,1010,1,Brownie,Dessert,59,163,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,163,59,104
+O00082,C021,E05,2025-01-29,15:44,UPI,Dine In,January,Wednesday,2025,False,165,1015,2,Pasta,Food,58,155,Yash Singh,Female,19,Jaipur,No,Karan,Morning,310,116,194
+O00082,C021,E05,2025-01-29,15:44,UPI,Dine In,January,Wednesday,2025,False,166,1011,2,Cheesecake,Dessert,107,150,Yash Singh,Female,19,Jaipur,No,Karan,Morning,300,214,86
+O00083,C057,E04,2025-04-21,20:21,UPI,Dine In,April,Monday,2025,False,167,1014,2,Paneer Sandwich,Food,99,192,Yash Meena,Male,45,Ajmer,Yes,Sneha,Evening,384,198,186
+O00083,C057,E04,2025-04-21,20:21,UPI,Dine In,April,Monday,2025,False,168,1002,3,Americano,Coffee,33,167,Yash Meena,Male,45,Ajmer,Yes,Sneha,Evening,501,99,402
+O00084,C076,E04,2025-05-04,20:21,UPI,Takeaway,May,Sunday,2025,True,169,1008,2,Green Tea,Tea,34,77,Simran Joshi,Female,23,Ajmer,No,Sneha,Evening,154,68,86
+O00085,C077,E01,2025-06-29,13:06,UPI,Takeaway,June,Sunday,2025,True,170,1005,2,Mocha,Coffee,43,169,Ananya Verma,Male,19,Jaipur,Yes,Amit,Morning,338,86,252
+O00086,C042,E01,2025-02-23,00:36,UPI,Takeaway,February,Sunday,2025,True,171,1005,2,Mocha,Coffee,43,169,Aarav Meena,Male,29,Jaipur,Yes,Amit,Morning,338,86,252
+O00087,C091,E02,2025-04-08,06:53,UPI,Takeaway,April,Tuesday,2025,False,172,1013,3,Veg Sandwich,Food,113,242,Kabir Verma,Female,45,Udaipur,Yes,Pooja,Morning,726,339,387
+O00088,C056,E01,2025-01-09,00:49,UPI,Dine In,January,Thursday,2025,False,173,1014,2,Paneer Sandwich,Food,99,192,Rohan Sharma,Male,52,Jaipur,No,Amit,Morning,384,198,186
+O00088,C056,E01,2025-01-09,00:49,UPI,Dine In,January,Thursday,2025,False,174,1010,3,Brownie,Dessert,59,163,Rohan Sharma,Male,52,Jaipur,No,Amit,Morning,489,177,312
+O00089,C054,E03,2025-04-27,20:49,UPI,Dine In,April,Sunday,2025,True,175,1006,3,Flat White,Coffee,99,150,Vikas Sharma,Male,39,Ajmer,No,Rahul,Morning,450,297,153
+O00089,C054,E03,2025-04-27,20:49,UPI,Dine In,April,Sunday,2025,True,176,1013,2,Veg Sandwich,Food,113,242,Vikas Sharma,Male,39,Ajmer,No,Rahul,Morning,484,226,258
+O00090,C089,E03,2025-06-01,19:10,UPI,Dine In,June,Sunday,2025,True,177,1014,3,Paneer Sandwich,Food,99,192,Ishita Gupta,Male,54,Udaipur,No,Rahul,Morning,576,297,279
+O00091,C068,E01,2025-03-15,05:35,UPI,Takeaway,March,Saturday,2025,True,178,1011,1,Cheesecake,Dessert,107,150,Ishita Meena,Male,34,Jaipur,No,Amit,Morning,150,107,43
+O00091,C068,E01,2025-03-15,05:35,UPI,Takeaway,March,Saturday,2025,True,179,1004,1,Latte,Coffee,58,115,Ishita Meena,Male,34,Jaipur,No,Amit,Morning,115,58,57
+O00091,C068,E01,2025-03-15,05:35,UPI,Takeaway,March,Saturday,2025,True,180,1006,3,Flat White,Coffee,99,150,Ishita Meena,Male,34,Jaipur,No,Amit,Morning,450,297,153
+O00092,C015,E05,2025-04-26,14:36,UPI,Takeaway,April,Saturday,2025,True,181,1005,1,Mocha,Coffee,43,169,Priya Joshi,Female,22,Udaipur,No,Karan,Morning,169,43,126
+O00092,C015,E05,2025-04-26,14:36,UPI,Takeaway,April,Saturday,2025,True,182,1004,1,Latte,Coffee,58,115,Priya Joshi,Female,22,Udaipur,No,Karan,Morning,115,58,57
+O00093,C026,E02,2025-02-16,22:20,UPI,Dine In,February,Sunday,2025,True,183,1016,2,Burger,Food,105,180,Vikas Gupta,Female,46,Alwar,No,Pooja,Morning,360,210,150
+O00094,C073,E05,2025-05-18,16:13,UPI,Takeaway,May,Sunday,2025,True,184,1011,1,Cheesecake,Dessert,107,150,Ishita Meena,Male,37,Kota,Yes,Karan,Morning,150,107,43
+O00094,C073,E05,2025-05-18,16:13,UPI,Takeaway,May,Sunday,2025,True,185,1003,2,Cappuccino,Coffee,65,136,Ishita Meena,Male,37,Kota,Yes,Karan,Morning,272,130,142
+O00094,C073,E05,2025-05-18,16:13,UPI,Takeaway,May,Sunday,2025,True,186,1008,2,Green Tea,Tea,34,77,Ishita Meena,Male,37,Kota,Yes,Karan,Morning,154,68,86
+O00095,C039,E03,2025-04-26,06:33,UPI,Takeaway,April,Saturday,2025,True,187,1003,2,Cappuccino,Coffee,65,136,Ishita Singh,Female,36,Udaipur,No,Rahul,Morning,272,130,142
+O00095,C039,E03,2025-04-26,06:33,UPI,Takeaway,April,Saturday,2025,True,188,1005,1,Mocha,Coffee,43,169,Ishita Singh,Female,36,Udaipur,No,Rahul,Morning,169,43,126
+O00095,C039,E03,2025-04-26,06:33,UPI,Takeaway,April,Saturday,2025,True,189,1008,1,Green Tea,Tea,34,77,Ishita Singh,Female,36,Udaipur,No,Rahul,Morning,77,34,43
+O00096,C037,E01,2025-03-09,11:02,UPI,Dine In,March,Sunday,2025,True,190,1013,3,Veg Sandwich,Food,113,242,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,726,339,387
+O00096,C037,E01,2025-03-09,11:02,UPI,Dine In,March,Sunday,2025,True,191,1008,3,Green Tea,Tea,34,77,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,231,102,129
+O00096,C037,E01,2025-03-09,11:02,UPI,Dine In,March,Sunday,2025,True,192,1010,1,Brownie,Dessert,59,163,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,163,59,104
+O00097,C074,E02,2025-03-24,04:54,UPI,Takeaway,March,Monday,2025,False,193,1005,1,Mocha,Coffee,43,169,Ishita Meena,Female,47,Udaipur,No,Pooja,Morning,169,43,126
+O00097,C074,E02,2025-03-24,04:54,UPI,Takeaway,March,Monday,2025,False,194,1001,2,Espresso,Coffee,111,165,Ishita Meena,Female,47,Udaipur,No,Pooja,Morning,330,222,108
+O00097,C074,E02,2025-03-24,04:54,UPI,Takeaway,March,Monday,2025,False,195,1008,3,Green Tea,Tea,34,77,Ishita Meena,Female,47,Udaipur,No,Pooja,Morning,231,102,129
+O00098,C065,E02,2025-01-16,16:26,UPI,Takeaway,January,Thursday,2025,False,196,1006,2,Flat White,Coffee,99,150,Simran Singh,Male,25,Kota,Yes,Pooja,Morning,300,198,102
+O00098,C065,E02,2025-01-16,16:26,UPI,Takeaway,January,Thursday,2025,False,197,1016,2,Burger,Food,105,180,Simran Singh,Male,25,Kota,Yes,Pooja,Morning,360,210,150
+O00099,C053,E03,2025-03-12,20:38,Cash,Dine In,March,Wednesday,2025,False,198,1011,1,Cheesecake,Dessert,107,150,Simran Gupta,Female,21,Jaipur,No,Rahul,Morning,150,107,43
+O00099,C053,E03,2025-03-12,20:38,Cash,Dine In,March,Wednesday,2025,False,199,1002,3,Americano,Coffee,33,167,Simran Gupta,Female,21,Jaipur,No,Rahul,Morning,501,99,402
+O00099,C053,E03,2025-03-12,20:38,Cash,Dine In,March,Wednesday,2025,False,200,1006,3,Flat White,Coffee,99,150,Simran Gupta,Female,21,Jaipur,No,Rahul,Morning,450,297,153
+O00100,C037,E03,2025-03-12,16:55,Cash,Dine In,March,Wednesday,2025,False,201,1003,3,Cappuccino,Coffee,65,136,Rohan Verma,Male,44,Udaipur,No,Rahul,Morning,408,195,213
+O00100,C037,E03,2025-03-12,16:55,Cash,Dine In,March,Wednesday,2025,False,202,1010,1,Brownie,Dessert,59,163,Rohan Verma,Male,44,Udaipur,No,Rahul,Morning,163,59,104
+O00101,C045,E03,2025-06-17,05:19,Card,Takeaway,June,Tuesday,2025,False,203,1003,2,Cappuccino,Coffee,65,136,Vikas Verma,Female,33,Kota,No,Rahul,Morning,272,130,142
+O00102,C049,E03,2025-04-13,01:58,Cash,Dine In,April,Sunday,2025,True,204,1014,1,Paneer Sandwich,Food,99,192,Neha Singh,Male,46,Alwar,No,Rahul,Morning,192,99,93
+O00102,C049,E03,2025-04-13,01:58,Cash,Dine In,April,Sunday,2025,True,205,1009,2,Lemon Tea,Tea,41,108,Neha Singh,Male,46,Alwar,No,Rahul,Morning,216,82,134
+O00102,C049,E03,2025-04-13,01:58,Cash,Dine In,April,Sunday,2025,True,206,1006,2,Flat White,Coffee,99,150,Neha Singh,Male,46,Alwar,No,Rahul,Morning,300,198,102
+O00103,C028,E03,2025-02-03,03:34,Card,Takeaway,February,Monday,2025,False,207,1008,1,Green Tea,Tea,34,77,Yash Meena,Male,55,Ajmer,Yes,Rahul,Morning,77,34,43
+O00104,C010,E03,2025-01-29,12:57,Cash,Dine In,January,Wednesday,2025,False,208,1002,3,Americano,Coffee,33,167,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,501,99,402
+O00104,C010,E03,2025-01-29,12:57,Cash,Dine In,January,Wednesday,2025,False,209,1011,1,Cheesecake,Dessert,107,150,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,150,107,43
+O00104,C010,E03,2025-01-29,12:57,Cash,Dine In,January,Wednesday,2025,False,210,1006,3,Flat White,Coffee,99,150,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,450,297,153
+O00105,C020,E02,2025-03-10,21:54,UPI,Dine In,March,Monday,2025,False,211,1015,2,Pasta,Food,58,155,Priya Singh,Male,52,Alwar,Yes,Pooja,Morning,310,116,194
+O00105,C020,E02,2025-03-10,21:54,UPI,Dine In,March,Monday,2025,False,212,1001,3,Espresso,Coffee,111,165,Priya Singh,Male,52,Alwar,Yes,Pooja,Morning,495,333,162
+O00105,C020,E02,2025-03-10,21:54,UPI,Dine In,March,Monday,2025,False,213,1007,3,Masala Tea,Tea,105,199,Priya Singh,Male,52,Alwar,Yes,Pooja,Morning,597,315,282
+O00106,C057,E05,2025-02-13,13:47,UPI,Takeaway,February,Thursday,2025,False,214,1008,2,Green Tea,Tea,34,77,Yash Meena,Male,45,Ajmer,Yes,Karan,Morning,154,68,86
+O00107,C061,E02,2025-06-26,02:45,UPI,Takeaway,June,Thursday,2025,False,215,1010,2,Brownie,Dessert,59,163,Ananya Singh,Male,24,Udaipur,Yes,Pooja,Morning,326,118,208
+O00107,C061,E02,2025-06-26,02:45,UPI,Takeaway,June,Thursday,2025,False,216,1013,3,Veg Sandwich,Food,113,242,Ananya Singh,Male,24,Udaipur,Yes,Pooja,Morning,726,339,387
+O00108,C054,E02,2025-04-07,08:30,Cash,Dine In,April,Monday,2025,False,217,1002,2,Americano,Coffee,33,167,Vikas Sharma,Male,39,Ajmer,No,Pooja,Morning,334,66,268
+O00108,C054,E02,2025-04-07,08:30,Cash,Dine In,April,Monday,2025,False,218,1011,2,Cheesecake,Dessert,107,150,Vikas Sharma,Male,39,Ajmer,No,Pooja,Morning,300,214,86
+O00109,C014,E05,2025-04-12,06:49,Card,Takeaway,April,Saturday,2025,True,219,1006,2,Flat White,Coffee,99,150,Simran Gupta,Male,21,Jaipur,Yes,Karan,Morning,300,198,102
+O00110,C066,E02,2025-03-24,03:06,Cash,Dine In,March,Monday,2025,False,220,1015,2,Pasta,Food,58,155,Yash Singh,Male,24,Alwar,No,Pooja,Morning,310,116,194
+O00111,C004,E04,2025-06-19,17:17,UPI,Takeaway,June,Thursday,2025,False,221,1013,1,Veg Sandwich,Food,113,242,Ishita Sharma,Female,41,Alwar,Yes,Sneha,Evening,242,113,129
+O00112,C029,E01,2025-03-10,14:01,UPI,Dine In,March,Monday,2025,False,222,1011,1,Cheesecake,Dessert,107,150,Rohan Joshi,Male,32,Jaipur,Yes,Amit,Morning,150,107,43
+O00112,C029,E01,2025-03-10,14:01,UPI,Dine In,March,Monday,2025,False,223,1013,1,Veg Sandwich,Food,113,242,Rohan Joshi,Male,32,Jaipur,Yes,Amit,Morning,242,113,129
+O00112,C029,E01,2025-03-10,14:01,UPI,Dine In,March,Monday,2025,False,224,1003,2,Cappuccino,Coffee,65,136,Rohan Joshi,Male,32,Jaipur,Yes,Amit,Morning,272,130,142
+O00113,C061,E02,2025-06-17,08:09,Cash,Takeaway,June,Tuesday,2025,False,225,1001,1,Espresso,Coffee,111,165,Ananya Singh,Male,24,Udaipur,Yes,Pooja,Morning,165,111,54
+O00113,C061,E02,2025-06-17,08:09,Cash,Takeaway,June,Tuesday,2025,False,226,1015,1,Pasta,Food,58,155,Ananya Singh,Male,24,Udaipur,Yes,Pooja,Morning,155,58,97
+O00114,C028,E02,2025-02-16,22:08,UPI,Takeaway,February,Sunday,2025,True,227,1010,1,Brownie,Dessert,59,163,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,163,59,104
+O00115,C016,E01,2025-02-25,03:44,UPI,Takeaway,February,Tuesday,2025,False,228,1004,2,Latte,Coffee,58,115,Yash Gupta,Female,53,Jaipur,Yes,Amit,Morning,230,116,114
+O00116,C069,E01,2025-04-19,23:11,UPI,Dine In,April,Saturday,2025,True,229,1005,1,Mocha,Coffee,43,169,Aarav Meena,Male,41,Udaipur,Yes,Amit,Morning,169,43,126
+O00116,C069,E01,2025-04-19,23:11,UPI,Dine In,April,Saturday,2025,True,230,1016,3,Burger,Food,105,180,Aarav Meena,Male,41,Udaipur,Yes,Amit,Morning,540,315,225
+O00116,C069,E01,2025-04-19,23:11,UPI,Dine In,April,Saturday,2025,True,231,1007,2,Masala Tea,Tea,105,199,Aarav Meena,Male,41,Udaipur,Yes,Amit,Morning,398,210,188
+O00117,C074,E04,2025-02-14,03:02,UPI,Dine In,February,Friday,2025,False,232,1012,3,Muffin,Dessert,101,166,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,498,303,195
+O00117,C074,E04,2025-02-14,03:02,UPI,Dine In,February,Friday,2025,False,233,1002,3,Americano,Coffee,33,167,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,501,99,402
+O00117,C074,E04,2025-02-14,03:02,UPI,Dine In,February,Friday,2025,False,234,1009,3,Lemon Tea,Tea,41,108,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,324,123,201
+O00118,C003,E04,2025-04-12,05:07,Card,Dine In,April,Saturday,2025,True,235,1013,3,Veg Sandwich,Food,113,242,Neha Singh,Female,20,Udaipur,Yes,Sneha,Evening,726,339,387
+O00118,C003,E04,2025-04-12,05:07,Card,Dine In,April,Saturday,2025,True,236,1006,1,Flat White,Coffee,99,150,Neha Singh,Female,20,Udaipur,Yes,Sneha,Evening,150,99,51
+O00118,C003,E04,2025-04-12,05:07,Card,Dine In,April,Saturday,2025,True,237,1005,2,Mocha,Coffee,43,169,Neha Singh,Female,20,Udaipur,Yes,Sneha,Evening,338,86,252
+O00119,C009,E03,2025-05-24,21:05,UPI,Dine In,May,Saturday,2025,True,238,1011,2,Cheesecake,Dessert,107,150,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,300,214,86
+O00119,C009,E03,2025-05-24,21:05,UPI,Dine In,May,Saturday,2025,True,239,1003,3,Cappuccino,Coffee,65,136,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,408,195,213
+O00119,C009,E03,2025-05-24,21:05,UPI,Dine In,May,Saturday,2025,True,240,1001,2,Espresso,Coffee,111,165,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,330,222,108
+O00120,C083,E02,2025-05-29,10:16,Cash,Takeaway,May,Thursday,2025,False,241,1016,1,Burger,Food,105,180,Simran Gupta,Male,48,Udaipur,No,Pooja,Morning,180,105,75
+O00120,C083,E02,2025-05-29,10:16,Cash,Takeaway,May,Thursday,2025,False,242,1011,1,Cheesecake,Dessert,107,150,Simran Gupta,Male,48,Udaipur,No,Pooja,Morning,150,107,43
+O00120,C083,E02,2025-05-29,10:16,Cash,Takeaway,May,Thursday,2025,False,243,1003,3,Cappuccino,Coffee,65,136,Simran Gupta,Male,48,Udaipur,No,Pooja,Morning,408,195,213
+O00121,C059,E01,2025-05-22,15:13,UPI,Dine In,May,Thursday,2025,False,244,1002,2,Americano,Coffee,33,167,Rohan Singh,Female,27,Ajmer,Yes,Amit,Morning,334,66,268
+O00122,C040,E05,2025-06-20,05:57,UPI,Takeaway,June,Friday,2025,False,245,1002,3,Americano,Coffee,33,167,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,501,99,402
+O00122,C040,E05,2025-06-20,05:57,UPI,Takeaway,June,Friday,2025,False,246,1013,1,Veg Sandwich,Food,113,242,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,242,113,129
+O00123,C046,E01,2025-02-22,10:02,Card,Takeaway,February,Saturday,2025,True,247,1004,2,Latte,Coffee,58,115,Priya Joshi,Female,47,Kota,Yes,Amit,Morning,230,116,114
+O00123,C046,E01,2025-02-22,10:02,Card,Takeaway,February,Saturday,2025,True,248,1013,2,Veg Sandwich,Food,113,242,Priya Joshi,Female,47,Kota,Yes,Amit,Morning,484,226,258
+O00124,C052,E04,2025-06-12,06:13,Card,Takeaway,June,Thursday,2025,False,249,1006,3,Flat White,Coffee,99,150,Vikas Singh,Male,39,Ajmer,No,Sneha,Evening,450,297,153
+O00124,C052,E04,2025-06-12,06:13,Card,Takeaway,June,Thursday,2025,False,250,1008,2,Green Tea,Tea,34,77,Vikas Singh,Male,39,Ajmer,No,Sneha,Evening,154,68,86
+O00125,C067,E03,2025-03-09,04:57,Cash,Takeaway,March,Sunday,2025,True,251,1014,3,Paneer Sandwich,Food,99,192,Neha Joshi,Female,45,Alwar,Yes,Rahul,Morning,576,297,279
+O00126,C024,E05,2025-05-31,00:51,UPI,Dine In,May,Saturday,2025,True,252,1011,3,Cheesecake,Dessert,107,150,Priya Joshi,Female,53,Ajmer,No,Karan,Morning,450,321,129
+O00127,C040,E04,2025-02-24,03:40,UPI,Takeaway,February,Monday,2025,False,253,1015,2,Pasta,Food,58,155,Priya Verma,Female,31,Jaipur,Yes,Sneha,Evening,310,116,194
+O00128,C006,E03,2025-03-23,17:32,UPI,Takeaway,March,Sunday,2025,True,254,1002,3,Americano,Coffee,33,167,Rohan Gupta,Female,47,Kota,Yes,Rahul,Morning,501,99,402
+O00128,C006,E03,2025-03-23,17:32,UPI,Takeaway,March,Sunday,2025,True,255,1016,3,Burger,Food,105,180,Rohan Gupta,Female,47,Kota,Yes,Rahul,Morning,540,315,225
+O00129,C047,E05,2025-03-16,06:45,Cash,Dine In,March,Sunday,2025,True,256,1005,3,Mocha,Coffee,43,169,Aarav Gupta,Male,22,Alwar,Yes,Karan,Morning,507,129,378
+O00130,C057,E01,2025-05-04,18:36,UPI,Dine In,May,Sunday,2025,True,257,1012,3,Muffin,Dessert,101,166,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,498,303,195
+O00130,C057,E01,2025-05-04,18:36,UPI,Dine In,May,Sunday,2025,True,258,1006,1,Flat White,Coffee,99,150,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,150,99,51
+O00130,C057,E01,2025-05-04,18:36,UPI,Dine In,May,Sunday,2025,True,259,1007,3,Masala Tea,Tea,105,199,Yash Meena,Male,45,Ajmer,Yes,Amit,Morning,597,315,282
+O00131,C087,E04,2025-01-29,06:22,Card,Takeaway,January,Wednesday,2025,False,260,1003,1,Cappuccino,Coffee,65,136,Ishita Joshi,Male,31,Jaipur,No,Sneha,Evening,136,65,71
+O00131,C087,E04,2025-01-29,06:22,Card,Takeaway,January,Wednesday,2025,False,261,1010,3,Brownie,Dessert,59,163,Ishita Joshi,Male,31,Jaipur,No,Sneha,Evening,489,177,312
+O00132,C051,E03,2025-03-09,03:13,UPI,Dine In,March,Sunday,2025,True,262,1001,3,Espresso,Coffee,111,165,Priya Singh,Male,24,Alwar,Yes,Rahul,Morning,495,333,162
+O00133,C064,E05,2025-02-04,04:51,UPI,Dine In,February,Tuesday,2025,False,263,1009,2,Lemon Tea,Tea,41,108,Vikas Sharma,Female,40,Alwar,No,Karan,Morning,216,82,134
+O00133,C064,E05,2025-02-04,04:51,UPI,Dine In,February,Tuesday,2025,False,264,1012,1,Muffin,Dessert,101,166,Vikas Sharma,Female,40,Alwar,No,Karan,Morning,166,101,65
+O00134,C037,E04,2025-04-22,17:19,UPI,Dine In,April,Tuesday,2025,False,265,1015,1,Pasta,Food,58,155,Rohan Verma,Male,44,Udaipur,No,Sneha,Evening,155,58,97
+O00135,C092,E04,2025-06-13,22:23,Card,Takeaway,June,Friday,2025,False,266,1012,3,Muffin,Dessert,101,166,Ishita Singh,Female,28,Udaipur,Yes,Sneha,Evening,498,303,195
+O00135,C092,E04,2025-06-13,22:23,Card,Takeaway,June,Friday,2025,False,267,1016,3,Burger,Food,105,180,Ishita Singh,Female,28,Udaipur,Yes,Sneha,Evening,540,315,225
+O00135,C092,E04,2025-06-13,22:23,Card,Takeaway,June,Friday,2025,False,268,1002,2,Americano,Coffee,33,167,Ishita Singh,Female,28,Udaipur,Yes,Sneha,Evening,334,66,268
+O00136,C039,E02,2025-06-12,14:17,Cash,Dine In,June,Thursday,2025,False,269,1008,1,Green Tea,Tea,34,77,Ishita Singh,Female,36,Udaipur,No,Pooja,Morning,77,34,43
+O00136,C039,E02,2025-06-12,14:17,Cash,Dine In,June,Thursday,2025,False,270,1002,1,Americano,Coffee,33,167,Ishita Singh,Female,36,Udaipur,No,Pooja,Morning,167,33,134
+O00137,C064,E01,2025-02-13,10:18,UPI,Takeaway,February,Thursday,2025,False,271,1005,1,Mocha,Coffee,43,169,Vikas Sharma,Female,40,Alwar,No,Amit,Morning,169,43,126
+O00137,C064,E01,2025-02-13,10:18,UPI,Takeaway,February,Thursday,2025,False,272,1010,1,Brownie,Dessert,59,163,Vikas Sharma,Female,40,Alwar,No,Amit,Morning,163,59,104
+O00138,C051,E04,2025-02-26,15:18,UPI,Takeaway,February,Wednesday,2025,False,273,1003,3,Cappuccino,Coffee,65,136,Priya Singh,Male,24,Alwar,Yes,Sneha,Evening,408,195,213
+O00138,C051,E04,2025-02-26,15:18,UPI,Takeaway,February,Wednesday,2025,False,274,1016,1,Burger,Food,105,180,Priya Singh,Male,24,Alwar,Yes,Sneha,Evening,180,105,75
+O00138,C051,E04,2025-02-26,15:18,UPI,Takeaway,February,Wednesday,2025,False,275,1006,2,Flat White,Coffee,99,150,Priya Singh,Male,24,Alwar,Yes,Sneha,Evening,300,198,102
+O00139,C088,E05,2025-03-27,03:15,UPI,Dine In,March,Thursday,2025,False,276,1014,3,Paneer Sandwich,Food,99,192,Ishita Singh,Female,44,Jaipur,Yes,Karan,Morning,576,297,279
+O00140,C008,E01,2025-06-16,02:57,UPI,Takeaway,June,Monday,2025,False,277,1006,2,Flat White,Coffee,99,150,Simran Joshi,Male,28,Udaipur,No,Amit,Morning,300,198,102
+O00141,C091,E02,2025-06-20,11:55,UPI,Takeaway,June,Friday,2025,False,278,1009,1,Lemon Tea,Tea,41,108,Kabir Verma,Female,45,Udaipur,Yes,Pooja,Morning,108,41,67
+O00142,C071,E03,2025-04-26,22:36,UPI,Takeaway,April,Saturday,2025,True,279,1003,1,Cappuccino,Coffee,65,136,Ishita Singh,Female,36,Alwar,Yes,Rahul,Morning,136,65,71
+O00142,C071,E03,2025-04-26,22:36,UPI,Takeaway,April,Saturday,2025,True,280,1009,3,Lemon Tea,Tea,41,108,Ishita Singh,Female,36,Alwar,Yes,Rahul,Morning,324,123,201
+O00142,C071,E03,2025-04-26,22:36,UPI,Takeaway,April,Saturday,2025,True,281,1011,3,Cheesecake,Dessert,107,150,Ishita Singh,Female,36,Alwar,Yes,Rahul,Morning,450,321,129
+O00143,C022,E05,2025-01-29,09:41,Cash,Takeaway,January,Wednesday,2025,False,282,1002,1,Americano,Coffee,33,167,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,167,33,134
+O00143,C022,E05,2025-01-29,09:41,Cash,Takeaway,January,Wednesday,2025,False,283,1014,1,Paneer Sandwich,Food,99,192,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,192,99,93
+O00143,C022,E05,2025-01-29,09:41,Cash,Takeaway,January,Wednesday,2025,False,284,1015,1,Pasta,Food,58,155,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,155,58,97
+O00144,C083,E05,2025-06-23,00:15,UPI,Dine In,June,Monday,2025,False,285,1014,1,Paneer Sandwich,Food,99,192,Simran Gupta,Male,48,Udaipur,No,Karan,Morning,192,99,93
+O00144,C083,E05,2025-06-23,00:15,UPI,Dine In,June,Monday,2025,False,286,1010,2,Brownie,Dessert,59,163,Simran Gupta,Male,48,Udaipur,No,Karan,Morning,326,118,208
+O00144,C083,E05,2025-06-23,00:15,UPI,Dine In,June,Monday,2025,False,287,1011,3,Cheesecake,Dessert,107,150,Simran Gupta,Male,48,Udaipur,No,Karan,Morning,450,321,129
+O00145,C038,E03,2025-04-10,15:39,UPI,Takeaway,April,Thursday,2025,False,288,1015,3,Pasta,Food,58,155,Ananya Gupta,Male,28,Udaipur,Yes,Rahul,Morning,465,174,291
+O00145,C038,E03,2025-04-10,15:39,UPI,Takeaway,April,Thursday,2025,False,289,1002,1,Americano,Coffee,33,167,Ananya Gupta,Male,28,Udaipur,Yes,Rahul,Morning,167,33,134
+O00146,C057,E04,2025-01-30,02:39,UPI,Dine In,January,Thursday,2025,False,290,1005,3,Mocha,Coffee,43,169,Yash Meena,Male,45,Ajmer,Yes,Sneha,Evening,507,129,378
+O00146,C057,E04,2025-01-30,02:39,UPI,Dine In,January,Thursday,2025,False,291,1006,2,Flat White,Coffee,99,150,Yash Meena,Male,45,Ajmer,Yes,Sneha,Evening,300,198,102
+O00147,C045,E04,2025-05-14,23:46,UPI,Takeaway,May,Wednesday,2025,False,292,1004,2,Latte,Coffee,58,115,Vikas Verma,Female,33,Kota,No,Sneha,Evening,230,116,114
+O00147,C045,E04,2025-05-14,23:46,UPI,Takeaway,May,Wednesday,2025,False,293,1006,1,Flat White,Coffee,99,150,Vikas Verma,Female,33,Kota,No,Sneha,Evening,150,99,51
+O00147,C045,E04,2025-05-14,23:46,UPI,Takeaway,May,Wednesday,2025,False,294,1016,2,Burger,Food,105,180,Vikas Verma,Female,33,Kota,No,Sneha,Evening,360,210,150
+O00148,C032,E02,2025-03-24,04:18,UPI,Takeaway,March,Monday,2025,False,295,1014,1,Paneer Sandwich,Food,99,192,Ananya Sharma,Male,45,Kota,No,Pooja,Morning,192,99,93
+O00148,C032,E02,2025-03-24,04:18,UPI,Takeaway,March,Monday,2025,False,296,1004,2,Latte,Coffee,58,115,Ananya Sharma,Male,45,Kota,No,Pooja,Morning,230,116,114
+O00149,C074,E03,2025-06-20,07:37,UPI,Dine In,June,Friday,2025,False,297,1015,2,Pasta,Food,58,155,Ishita Meena,Female,47,Udaipur,No,Rahul,Morning,310,116,194
+O00149,C074,E03,2025-06-20,07:37,UPI,Dine In,June,Friday,2025,False,298,1008,2,Green Tea,Tea,34,77,Ishita Meena,Female,47,Udaipur,No,Rahul,Morning,154,68,86
+O00150,C012,E04,2025-01-05,13:15,UPI,Dine In,January,Sunday,2025,True,299,1012,1,Muffin,Dessert,101,166,Kabir Verma,Female,26,Ajmer,No,Sneha,Evening,166,101,65
+O00151,C037,E04,2025-01-10,12:48,UPI,Takeaway,January,Friday,2025,False,300,1001,1,Espresso,Coffee,111,165,Rohan Verma,Male,44,Udaipur,No,Sneha,Evening,165,111,54
+O00151,C037,E04,2025-01-10,12:48,UPI,Takeaway,January,Friday,2025,False,301,1014,2,Paneer Sandwich,Food,99,192,Rohan Verma,Male,44,Udaipur,No,Sneha,Evening,384,198,186
+O00152,C034,E03,2025-01-25,17:10,Cash,Takeaway,January,Saturday,2025,True,302,1013,1,Veg Sandwich,Food,113,242,Neha Sharma,Male,30,Ajmer,No,Rahul,Morning,242,113,129
+O00153,C072,E02,2025-04-15,03:35,UPI,Takeaway,April,Tuesday,2025,False,303,1013,3,Veg Sandwich,Food,113,242,Ananya Gupta,Female,29,Alwar,No,Pooja,Morning,726,339,387
+O00154,C098,E05,2025-03-24,07:37,UPI,Dine In,March,Monday,2025,False,304,1004,2,Latte,Coffee,58,115,Ananya Joshi,Male,20,Jaipur,Yes,Karan,Morning,230,116,114
+O00155,C044,E05,2025-03-10,06:31,Card,Dine In,March,Monday,2025,False,305,1013,3,Veg Sandwich,Food,113,242,Yash Sharma,Female,55,Alwar,No,Karan,Morning,726,339,387
+O00156,C006,E01,2025-01-08,15:52,UPI,Takeaway,January,Wednesday,2025,False,306,1015,3,Pasta,Food,58,155,Rohan Gupta,Female,47,Kota,Yes,Amit,Morning,465,174,291
+O00156,C006,E01,2025-01-08,15:52,UPI,Takeaway,January,Wednesday,2025,False,307,1003,3,Cappuccino,Coffee,65,136,Rohan Gupta,Female,47,Kota,Yes,Amit,Morning,408,195,213
+O00157,C042,E05,2025-01-26,18:42,UPI,Takeaway,January,Sunday,2025,True,308,1010,3,Brownie,Dessert,59,163,Aarav Meena,Male,29,Jaipur,Yes,Karan,Morning,489,177,312
+O00157,C042,E05,2025-01-26,18:42,UPI,Takeaway,January,Sunday,2025,True,309,1016,3,Burger,Food,105,180,Aarav Meena,Male,29,Jaipur,Yes,Karan,Morning,540,315,225
+O00157,C042,E05,2025-01-26,18:42,UPI,Takeaway,January,Sunday,2025,True,310,1006,3,Flat White,Coffee,99,150,Aarav Meena,Male,29,Jaipur,Yes,Karan,Morning,450,297,153
+O00158,C091,E05,2025-03-31,12:10,UPI,Dine In,March,Monday,2025,False,311,1011,1,Cheesecake,Dessert,107,150,Kabir Verma,Female,45,Udaipur,Yes,Karan,Morning,150,107,43
+O00158,C091,E05,2025-03-31,12:10,UPI,Dine In,March,Monday,2025,False,312,1016,2,Burger,Food,105,180,Kabir Verma,Female,45,Udaipur,Yes,Karan,Morning,360,210,150
+O00159,C040,E01,2025-04-17,14:14,UPI,Takeaway,April,Thursday,2025,False,313,1008,3,Green Tea,Tea,34,77,Priya Verma,Female,31,Jaipur,Yes,Amit,Morning,231,102,129
+O00159,C040,E01,2025-04-17,14:14,UPI,Takeaway,April,Thursday,2025,False,314,1012,2,Muffin,Dessert,101,166,Priya Verma,Female,31,Jaipur,Yes,Amit,Morning,332,202,130
+O00159,C040,E01,2025-04-17,14:14,UPI,Takeaway,April,Thursday,2025,False,315,1001,1,Espresso,Coffee,111,165,Priya Verma,Female,31,Jaipur,Yes,Amit,Morning,165,111,54
+O00160,C081,E05,2025-04-06,18:24,Cash,Takeaway,April,Sunday,2025,True,316,1008,1,Green Tea,Tea,34,77,Aarav Meena,Male,25,Udaipur,Yes,Karan,Morning,77,34,43
+O00161,C090,E01,2025-04-15,13:35,UPI,Takeaway,April,Tuesday,2025,False,317,1014,2,Paneer Sandwich,Food,99,192,Aarav Singh,Female,42,Udaipur,Yes,Amit,Morning,384,198,186
+O00161,C090,E01,2025-04-15,13:35,UPI,Takeaway,April,Tuesday,2025,False,318,1003,3,Cappuccino,Coffee,65,136,Aarav Singh,Female,42,Udaipur,Yes,Amit,Morning,408,195,213
+O00162,C053,E05,2025-02-07,10:48,Cash,Takeaway,February,Friday,2025,False,319,1002,3,Americano,Coffee,33,167,Simran Gupta,Female,21,Jaipur,No,Karan,Morning,501,99,402
+O00162,C053,E05,2025-02-07,10:48,Cash,Takeaway,February,Friday,2025,False,320,1012,1,Muffin,Dessert,101,166,Simran Gupta,Female,21,Jaipur,No,Karan,Morning,166,101,65
+O00162,C053,E05,2025-02-07,10:48,Cash,Takeaway,February,Friday,2025,False,321,1003,3,Cappuccino,Coffee,65,136,Simran Gupta,Female,21,Jaipur,No,Karan,Morning,408,195,213
+O00163,C085,E04,2025-03-01,12:09,UPI,Takeaway,March,Saturday,2025,True,322,1015,3,Pasta,Food,58,155,Vikas Gupta,Male,36,Ajmer,No,Sneha,Evening,465,174,291
+O00164,C070,E03,2025-03-04,15:38,Cash,Takeaway,March,Tuesday,2025,False,323,1016,2,Burger,Food,105,180,Neha Meena,Female,25,Kota,No,Rahul,Morning,360,210,150
+O00164,C070,E03,2025-03-04,15:38,Cash,Takeaway,March,Tuesday,2025,False,324,1004,3,Latte,Coffee,58,115,Neha Meena,Female,25,Kota,No,Rahul,Morning,345,174,171
+O00164,C070,E03,2025-03-04,15:38,Cash,Takeaway,March,Tuesday,2025,False,325,1015,2,Pasta,Food,58,155,Neha Meena,Female,25,Kota,No,Rahul,Morning,310,116,194
+O00165,C039,E03,2025-02-11,06:27,Cash,Takeaway,February,Tuesday,2025,False,326,1016,3,Burger,Food,105,180,Ishita Singh,Female,36,Udaipur,No,Rahul,Morning,540,315,225
+O00165,C039,E03,2025-02-11,06:27,Cash,Takeaway,February,Tuesday,2025,False,327,1006,3,Flat White,Coffee,99,150,Ishita Singh,Female,36,Udaipur,No,Rahul,Morning,450,297,153
+O00166,C037,E01,2025-02-20,02:45,UPI,Takeaway,February,Thursday,2025,False,328,1012,1,Muffin,Dessert,101,166,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,166,101,65
+O00166,C037,E01,2025-02-20,02:45,UPI,Takeaway,February,Thursday,2025,False,329,1013,2,Veg Sandwich,Food,113,242,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,484,226,258
+O00167,C037,E01,2025-01-08,23:47,UPI,Takeaway,January,Wednesday,2025,False,330,1009,1,Lemon Tea,Tea,41,108,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,108,41,67
+O00167,C037,E01,2025-01-08,23:47,UPI,Takeaway,January,Wednesday,2025,False,331,1012,1,Muffin,Dessert,101,166,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,166,101,65
+O00167,C037,E01,2025-01-08,23:47,UPI,Takeaway,January,Wednesday,2025,False,332,1008,3,Green Tea,Tea,34,77,Rohan Verma,Male,44,Udaipur,No,Amit,Morning,231,102,129
+O00168,C072,E03,2025-02-19,16:35,UPI,Dine In,February,Wednesday,2025,False,333,1002,3,Americano,Coffee,33,167,Ananya Gupta,Female,29,Alwar,No,Rahul,Morning,501,99,402
+O00169,C068,E02,2025-06-15,02:48,UPI,Dine In,June,Sunday,2025,True,334,1014,2,Paneer Sandwich,Food,99,192,Ishita Meena,Male,34,Jaipur,No,Pooja,Morning,384,198,186
+O00170,C061,E01,2025-05-11,22:11,Cash,Dine In,May,Sunday,2025,True,335,1006,2,Flat White,Coffee,99,150,Ananya Singh,Male,24,Udaipur,Yes,Amit,Morning,300,198,102
+O00171,C061,E04,2025-04-30,04:31,Cash,Takeaway,April,Wednesday,2025,False,336,1010,1,Brownie,Dessert,59,163,Ananya Singh,Male,24,Udaipur,Yes,Sneha,Evening,163,59,104
+O00171,C061,E04,2025-04-30,04:31,Cash,Takeaway,April,Wednesday,2025,False,337,1011,1,Cheesecake,Dessert,107,150,Ananya Singh,Male,24,Udaipur,Yes,Sneha,Evening,150,107,43
+O00172,C074,E02,2025-04-30,01:56,UPI,Dine In,April,Wednesday,2025,False,338,1014,1,Paneer Sandwich,Food,99,192,Ishita Meena,Female,47,Udaipur,No,Pooja,Morning,192,99,93
+O00173,C005,E04,2025-06-20,08:22,Cash,Dine In,June,Friday,2025,False,339,1010,1,Brownie,Dessert,59,163,Rohan Sharma,Male,36,Jaipur,Yes,Sneha,Evening,163,59,104
+O00173,C005,E04,2025-06-20,08:22,Cash,Dine In,June,Friday,2025,False,340,1015,2,Pasta,Food,58,155,Rohan Sharma,Male,36,Jaipur,Yes,Sneha,Evening,310,116,194
+O00173,C005,E04,2025-06-20,08:22,Cash,Dine In,June,Friday,2025,False,341,1001,3,Espresso,Coffee,111,165,Rohan Sharma,Male,36,Jaipur,Yes,Sneha,Evening,495,333,162
+O00174,C014,E03,2025-04-21,01:35,UPI,Takeaway,April,Monday,2025,False,342,1015,2,Pasta,Food,58,155,Simran Gupta,Male,21,Jaipur,Yes,Rahul,Morning,310,116,194
+O00175,C015,E03,2025-02-05,10:24,UPI,Takeaway,February,Wednesday,2025,False,343,1009,1,Lemon Tea,Tea,41,108,Priya Joshi,Female,22,Udaipur,No,Rahul,Morning,108,41,67
+O00175,C015,E03,2025-02-05,10:24,UPI,Takeaway,February,Wednesday,2025,False,344,1012,3,Muffin,Dessert,101,166,Priya Joshi,Female,22,Udaipur,No,Rahul,Morning,498,303,195
+O00175,C015,E03,2025-02-05,10:24,UPI,Takeaway,February,Wednesday,2025,False,345,1003,2,Cappuccino,Coffee,65,136,Priya Joshi,Female,22,Udaipur,No,Rahul,Morning,272,130,142
+O00176,C038,E05,2025-05-25,06:54,Cash,Dine In,May,Sunday,2025,True,346,1013,2,Veg Sandwich,Food,113,242,Ananya Gupta,Male,28,Udaipur,Yes,Karan,Morning,484,226,258
+O00177,C042,E01,2025-04-05,03:17,UPI,Dine In,April,Saturday,2025,True,347,1005,2,Mocha,Coffee,43,169,Aarav Meena,Male,29,Jaipur,Yes,Amit,Morning,338,86,252
+O00178,C032,E01,2025-03-01,05:50,UPI,Dine In,March,Saturday,2025,True,348,1009,2,Lemon Tea,Tea,41,108,Ananya Sharma,Male,45,Kota,No,Amit,Morning,216,82,134
+O00178,C032,E01,2025-03-01,05:50,UPI,Dine In,March,Saturday,2025,True,349,1006,3,Flat White,Coffee,99,150,Ananya Sharma,Male,45,Kota,No,Amit,Morning,450,297,153
+O00179,C074,E01,2025-05-12,22:19,UPI,Takeaway,May,Monday,2025,False,350,1008,1,Green Tea,Tea,34,77,Ishita Meena,Female,47,Udaipur,No,Amit,Morning,77,34,43
+O00179,C074,E01,2025-05-12,22:19,UPI,Takeaway,May,Monday,2025,False,351,1001,2,Espresso,Coffee,111,165,Ishita Meena,Female,47,Udaipur,No,Amit,Morning,330,222,108
+O00179,C074,E01,2025-05-12,22:19,UPI,Takeaway,May,Monday,2025,False,352,1011,2,Cheesecake,Dessert,107,150,Ishita Meena,Female,47,Udaipur,No,Amit,Morning,300,214,86
+O00180,C052,E05,2025-01-30,09:48,Card,Takeaway,January,Thursday,2025,False,353,1004,2,Latte,Coffee,58,115,Vikas Singh,Male,39,Ajmer,No,Karan,Morning,230,116,114
+O00180,C052,E05,2025-01-30,09:48,Card,Takeaway,January,Thursday,2025,False,354,1011,3,Cheesecake,Dessert,107,150,Vikas Singh,Male,39,Ajmer,No,Karan,Morning,450,321,129
+O00180,C052,E05,2025-01-30,09:48,Card,Takeaway,January,Thursday,2025,False,355,1005,1,Mocha,Coffee,43,169,Vikas Singh,Male,39,Ajmer,No,Karan,Morning,169,43,126
+O00181,C018,E04,2025-02-10,05:23,UPI,Takeaway,February,Monday,2025,False,356,1016,3,Burger,Food,105,180,Priya Gupta,Male,34,Alwar,Yes,Sneha,Evening,540,315,225
+O00181,C018,E04,2025-02-10,05:23,UPI,Takeaway,February,Monday,2025,False,357,1013,3,Veg Sandwich,Food,113,242,Priya Gupta,Male,34,Alwar,Yes,Sneha,Evening,726,339,387
+O00182,C028,E02,2025-05-31,15:07,Cash,Dine In,May,Saturday,2025,True,358,1015,2,Pasta,Food,58,155,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,310,116,194
+O00182,C028,E02,2025-05-31,15:07,Cash,Dine In,May,Saturday,2025,True,359,1009,1,Lemon Tea,Tea,41,108,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,108,41,67
+O00182,C028,E02,2025-05-31,15:07,Cash,Dine In,May,Saturday,2025,True,360,1012,3,Muffin,Dessert,101,166,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,498,303,195
+O00183,C008,E05,2025-01-21,18:14,Card,Dine In,January,Tuesday,2025,False,361,1005,3,Mocha,Coffee,43,169,Simran Joshi,Male,28,Udaipur,No,Karan,Morning,507,129,378
+O00183,C008,E05,2025-01-21,18:14,Card,Dine In,January,Tuesday,2025,False,362,1003,2,Cappuccino,Coffee,65,136,Simran Joshi,Male,28,Udaipur,No,Karan,Morning,272,130,142
+O00183,C008,E05,2025-01-21,18:14,Card,Dine In,January,Tuesday,2025,False,363,1006,1,Flat White,Coffee,99,150,Simran Joshi,Male,28,Udaipur,No,Karan,Morning,150,99,51
+O00184,C027,E05,2025-05-05,04:15,UPI,Takeaway,May,Monday,2025,False,364,1015,1,Pasta,Food,58,155,Rohan Verma,Male,22,Kota,Yes,Karan,Morning,155,58,97
+O00185,C054,E04,2025-04-04,18:24,UPI,Takeaway,April,Friday,2025,False,365,1010,2,Brownie,Dessert,59,163,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,326,118,208
+O00185,C054,E04,2025-04-04,18:24,UPI,Takeaway,April,Friday,2025,False,366,1012,2,Muffin,Dessert,101,166,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,332,202,130
+O00185,C054,E04,2025-04-04,18:24,UPI,Takeaway,April,Friday,2025,False,367,1001,1,Espresso,Coffee,111,165,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,165,111,54
+O00186,C028,E05,2025-05-17,02:28,UPI,Takeaway,May,Saturday,2025,True,368,1003,1,Cappuccino,Coffee,65,136,Yash Meena,Male,55,Ajmer,Yes,Karan,Morning,136,65,71
+O00186,C028,E05,2025-05-17,02:28,UPI,Takeaway,May,Saturday,2025,True,369,1009,1,Lemon Tea,Tea,41,108,Yash Meena,Male,55,Ajmer,Yes,Karan,Morning,108,41,67
+O00187,C061,E01,2025-06-29,20:29,UPI,Dine In,June,Sunday,2025,True,370,1014,2,Paneer Sandwich,Food,99,192,Ananya Singh,Male,24,Udaipur,Yes,Amit,Morning,384,198,186
+O00188,C049,E04,2025-06-12,14:17,Card,Takeaway,June,Thursday,2025,False,371,1003,3,Cappuccino,Coffee,65,136,Neha Singh,Male,46,Alwar,No,Sneha,Evening,408,195,213
+O00188,C049,E04,2025-06-12,14:17,Card,Takeaway,June,Thursday,2025,False,372,1011,3,Cheesecake,Dessert,107,150,Neha Singh,Male,46,Alwar,No,Sneha,Evening,450,321,129
+O00189,C084,E03,2025-01-25,13:02,UPI,Takeaway,January,Saturday,2025,True,373,1005,1,Mocha,Coffee,43,169,Ananya Joshi,Female,51,Udaipur,Yes,Rahul,Morning,169,43,126
+O00189,C084,E03,2025-01-25,13:02,UPI,Takeaway,January,Saturday,2025,True,374,1012,1,Muffin,Dessert,101,166,Ananya Joshi,Female,51,Udaipur,Yes,Rahul,Morning,166,101,65
+O00189,C084,E03,2025-01-25,13:02,UPI,Takeaway,January,Saturday,2025,True,375,1004,2,Latte,Coffee,58,115,Ananya Joshi,Female,51,Udaipur,Yes,Rahul,Morning,230,116,114
+O00190,C087,E05,2025-03-26,14:53,UPI,Takeaway,March,Wednesday,2025,False,376,1008,2,Green Tea,Tea,34,77,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,154,68,86
+O00191,C020,E03,2025-03-05,08:23,UPI,Dine In,March,Wednesday,2025,False,377,1014,3,Paneer Sandwich,Food,99,192,Priya Singh,Male,52,Alwar,Yes,Rahul,Morning,576,297,279
+O00192,C003,E02,2025-05-20,18:56,UPI,Dine In,May,Tuesday,2025,False,378,1002,3,Americano,Coffee,33,167,Neha Singh,Female,20,Udaipur,Yes,Pooja,Morning,501,99,402
+O00192,C003,E02,2025-05-20,18:56,UPI,Dine In,May,Tuesday,2025,False,379,1008,3,Green Tea,Tea,34,77,Neha Singh,Female,20,Udaipur,Yes,Pooja,Morning,231,102,129
+O00192,C003,E02,2025-05-20,18:56,UPI,Dine In,May,Tuesday,2025,False,380,1010,1,Brownie,Dessert,59,163,Neha Singh,Female,20,Udaipur,Yes,Pooja,Morning,163,59,104
+O00193,C095,E01,2025-02-14,21:15,UPI,Dine In,February,Friday,2025,False,381,1007,1,Masala Tea,Tea,105,199,Aarav Singh,Female,38,Ajmer,No,Amit,Morning,199,105,94
+O00193,C095,E01,2025-02-14,21:15,UPI,Dine In,February,Friday,2025,False,382,1013,1,Veg Sandwich,Food,113,242,Aarav Singh,Female,38,Ajmer,No,Amit,Morning,242,113,129
+O00193,C095,E01,2025-02-14,21:15,UPI,Dine In,February,Friday,2025,False,383,1014,3,Paneer Sandwich,Food,99,192,Aarav Singh,Female,38,Ajmer,No,Amit,Morning,576,297,279
+O00194,C030,E05,2025-02-22,23:48,UPI,Takeaway,February,Saturday,2025,True,384,1010,1,Brownie,Dessert,59,163,Neha Sharma,Male,35,Udaipur,Yes,Karan,Morning,163,59,104
+O00195,C085,E05,2025-06-29,18:34,UPI,Takeaway,June,Sunday,2025,True,385,1002,3,Americano,Coffee,33,167,Vikas Gupta,Male,36,Ajmer,No,Karan,Morning,501,99,402
+O00195,C085,E05,2025-06-29,18:34,UPI,Takeaway,June,Sunday,2025,True,386,1009,3,Lemon Tea,Tea,41,108,Vikas Gupta,Male,36,Ajmer,No,Karan,Morning,324,123,201
+O00196,C023,E04,2025-06-16,06:44,UPI,Dine In,June,Monday,2025,False,387,1013,3,Veg Sandwich,Food,113,242,Rohan Joshi,Female,22,Alwar,Yes,Sneha,Evening,726,339,387
+O00196,C023,E04,2025-06-16,06:44,UPI,Dine In,June,Monday,2025,False,388,1016,2,Burger,Food,105,180,Rohan Joshi,Female,22,Alwar,Yes,Sneha,Evening,360,210,150
+O00197,C054,E04,2025-05-08,02:13,UPI,Takeaway,May,Thursday,2025,False,389,1016,1,Burger,Food,105,180,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,180,105,75
+O00198,C029,E03,2025-06-04,22:49,Card,Dine In,June,Wednesday,2025,False,390,1002,2,Americano,Coffee,33,167,Rohan Joshi,Male,32,Jaipur,Yes,Rahul,Morning,334,66,268
+O00198,C029,E03,2025-06-04,22:49,Card,Dine In,June,Wednesday,2025,False,391,1009,2,Lemon Tea,Tea,41,108,Rohan Joshi,Male,32,Jaipur,Yes,Rahul,Morning,216,82,134
+O00199,C068,E02,2025-04-12,18:49,UPI,Takeaway,April,Saturday,2025,True,392,1011,3,Cheesecake,Dessert,107,150,Ishita Meena,Male,34,Jaipur,No,Pooja,Morning,450,321,129
+O00200,C058,E03,2025-01-15,17:27,UPI,Dine In,January,Wednesday,2025,False,393,1009,2,Lemon Tea,Tea,41,108,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,216,82,134
+O00201,C078,E05,2025-05-03,23:19,UPI,Dine In,May,Saturday,2025,True,394,1007,2,Masala Tea,Tea,105,199,Kabir Meena,Male,47,Udaipur,Yes,Karan,Morning,398,210,188
+O00202,C043,E03,2025-02-08,08:39,Card,Dine In,February,Saturday,2025,True,395,1007,3,Masala Tea,Tea,105,199,Ananya Gupta,Male,54,Ajmer,Yes,Rahul,Morning,597,315,282
+O00203,C096,E04,2025-01-22,16:33,Card,Dine In,January,Wednesday,2025,False,396,1008,2,Green Tea,Tea,34,77,Neha Singh,Female,35,Udaipur,No,Sneha,Evening,154,68,86
+O00203,C096,E04,2025-01-22,16:33,Card,Dine In,January,Wednesday,2025,False,397,1009,2,Lemon Tea,Tea,41,108,Neha Singh,Female,35,Udaipur,No,Sneha,Evening,216,82,134
+O00204,C060,E05,2025-03-11,15:08,UPI,Takeaway,March,Tuesday,2025,False,398,1012,2,Muffin,Dessert,101,166,Priya Gupta,Male,29,Kota,No,Karan,Morning,332,202,130
+O00204,C060,E05,2025-03-11,15:08,UPI,Takeaway,March,Tuesday,2025,False,399,1009,2,Lemon Tea,Tea,41,108,Priya Gupta,Male,29,Kota,No,Karan,Morning,216,82,134
+O00205,C093,E04,2025-01-19,06:49,Cash,Takeaway,January,Sunday,2025,True,400,1012,2,Muffin,Dessert,101,166,Yash Meena,Male,43,Alwar,Yes,Sneha,Evening,332,202,130
+O00206,C006,E05,2025-03-17,16:29,Card,Dine In,March,Monday,2025,False,401,1009,3,Lemon Tea,Tea,41,108,Rohan Gupta,Female,47,Kota,Yes,Karan,Morning,324,123,201
+O00207,C075,E05,2025-06-20,12:01,Cash,Takeaway,June,Friday,2025,False,402,1007,2,Masala Tea,Tea,105,199,Ananya Meena,Female,28,Jaipur,No,Karan,Morning,398,210,188
+O00208,C049,E05,2025-02-12,04:58,Cash,Takeaway,February,Wednesday,2025,False,403,1011,2,Cheesecake,Dessert,107,150,Neha Singh,Male,46,Alwar,No,Karan,Morning,300,214,86
+O00208,C049,E05,2025-02-12,04:58,Cash,Takeaway,February,Wednesday,2025,False,404,1005,3,Mocha,Coffee,43,169,Neha Singh,Male,46,Alwar,No,Karan,Morning,507,129,378
+O00208,C049,E05,2025-02-12,04:58,Cash,Takeaway,February,Wednesday,2025,False,405,1013,3,Veg Sandwich,Food,113,242,Neha Singh,Male,46,Alwar,No,Karan,Morning,726,339,387
+O00209,C063,E04,2025-05-15,23:20,UPI,Takeaway,May,Thursday,2025,False,406,1005,3,Mocha,Coffee,43,169,Ananya Verma,Male,30,Udaipur,No,Sneha,Evening,507,129,378
+O00210,C063,E02,2025-04-10,19:53,Card,Dine In,April,Thursday,2025,False,407,1002,1,Americano,Coffee,33,167,Ananya Verma,Male,30,Udaipur,No,Pooja,Morning,167,33,134
+O00210,C063,E02,2025-04-10,19:53,Card,Dine In,April,Thursday,2025,False,408,1014,3,Paneer Sandwich,Food,99,192,Ananya Verma,Male,30,Udaipur,No,Pooja,Morning,576,297,279
+O00210,C063,E02,2025-04-10,19:53,Card,Dine In,April,Thursday,2025,False,409,1015,1,Pasta,Food,58,155,Ananya Verma,Male,30,Udaipur,No,Pooja,Morning,155,58,97
+O00211,C001,E04,2025-05-20,11:26,UPI,Dine In,May,Tuesday,2025,False,410,1005,1,Mocha,Coffee,43,169,Aarav Verma,Female,39,Kota,Yes,Sneha,Evening,169,43,126
+O00212,C065,E04,2025-02-10,03:36,UPI,Takeaway,February,Monday,2025,False,411,1016,3,Burger,Food,105,180,Simran Singh,Male,25,Kota,Yes,Sneha,Evening,540,315,225
+O00212,C065,E04,2025-02-10,03:36,UPI,Takeaway,February,Monday,2025,False,412,1001,3,Espresso,Coffee,111,165,Simran Singh,Male,25,Kota,Yes,Sneha,Evening,495,333,162
+O00212,C065,E04,2025-02-10,03:36,UPI,Takeaway,February,Monday,2025,False,413,1015,2,Pasta,Food,58,155,Simran Singh,Male,25,Kota,Yes,Sneha,Evening,310,116,194
+O00213,C003,E05,2025-01-03,11:46,Cash,Takeaway,January,Friday,2025,False,414,1014,1,Paneer Sandwich,Food,99,192,Neha Singh,Female,20,Udaipur,Yes,Karan,Morning,192,99,93
+O00214,C013,E05,2025-01-20,19:33,UPI,Dine In,January,Monday,2025,False,415,1009,2,Lemon Tea,Tea,41,108,Yash Gupta,Female,41,Ajmer,Yes,Karan,Morning,216,82,134
+O00214,C013,E05,2025-01-20,19:33,UPI,Dine In,January,Monday,2025,False,416,1014,2,Paneer Sandwich,Food,99,192,Yash Gupta,Female,41,Ajmer,Yes,Karan,Morning,384,198,186
+O00214,C013,E05,2025-01-20,19:33,UPI,Dine In,January,Monday,2025,False,417,1006,1,Flat White,Coffee,99,150,Yash Gupta,Female,41,Ajmer,Yes,Karan,Morning,150,99,51
+O00215,C052,E04,2025-03-10,05:53,UPI,Dine In,March,Monday,2025,False,418,1003,3,Cappuccino,Coffee,65,136,Vikas Singh,Male,39,Ajmer,No,Sneha,Evening,408,195,213
+O00215,C052,E04,2025-03-10,05:53,UPI,Dine In,March,Monday,2025,False,419,1011,1,Cheesecake,Dessert,107,150,Vikas Singh,Male,39,Ajmer,No,Sneha,Evening,150,107,43
+O00216,C052,E04,2025-01-18,08:30,UPI,Takeaway,January,Saturday,2025,True,420,1001,3,Espresso,Coffee,111,165,Vikas Singh,Male,39,Ajmer,No,Sneha,Evening,495,333,162
+O00217,C011,E04,2025-02-01,12:47,Cash,Takeaway,February,Saturday,2025,True,421,1004,1,Latte,Coffee,58,115,Yash Joshi,Female,31,Udaipur,No,Sneha,Evening,115,58,57
+O00217,C011,E04,2025-02-01,12:47,Cash,Takeaway,February,Saturday,2025,True,422,1015,1,Pasta,Food,58,155,Yash Joshi,Female,31,Udaipur,No,Sneha,Evening,155,58,97
+O00217,C011,E04,2025-02-01,12:47,Cash,Takeaway,February,Saturday,2025,True,423,1009,1,Lemon Tea,Tea,41,108,Yash Joshi,Female,31,Udaipur,No,Sneha,Evening,108,41,67
+O00218,C089,E05,2025-06-14,09:43,UPI,Dine In,June,Saturday,2025,True,424,1009,3,Lemon Tea,Tea,41,108,Ishita Gupta,Male,54,Udaipur,No,Karan,Morning,324,123,201
+O00219,C085,E01,2025-04-13,22:00,UPI,Takeaway,April,Sunday,2025,True,425,1007,3,Masala Tea,Tea,105,199,Vikas Gupta,Male,36,Ajmer,No,Amit,Morning,597,315,282
+O00220,C097,E04,2025-01-27,13:58,Card,Takeaway,January,Monday,2025,False,426,1008,3,Green Tea,Tea,34,77,Rohan Gupta,Male,52,Jaipur,No,Sneha,Evening,231,102,129
+O00221,C050,E05,2025-06-02,06:38,UPI,Dine In,June,Monday,2025,False,427,1003,2,Cappuccino,Coffee,65,136,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,272,130,142
+O00221,C050,E05,2025-06-02,06:38,UPI,Dine In,June,Monday,2025,False,428,1009,1,Lemon Tea,Tea,41,108,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,108,41,67
+O00221,C050,E05,2025-06-02,06:38,UPI,Dine In,June,Monday,2025,False,429,1012,1,Muffin,Dessert,101,166,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,166,101,65
+O00222,C030,E01,2025-03-21,21:40,UPI,Takeaway,March,Friday,2025,False,430,1001,2,Espresso,Coffee,111,165,Neha Sharma,Male,35,Udaipur,Yes,Amit,Morning,330,222,108
+O00222,C030,E01,2025-03-21,21:40,UPI,Takeaway,March,Friday,2025,False,431,1011,2,Cheesecake,Dessert,107,150,Neha Sharma,Male,35,Udaipur,Yes,Amit,Morning,300,214,86
+O00223,C030,E03,2025-03-31,15:28,UPI,Takeaway,March,Monday,2025,False,432,1006,3,Flat White,Coffee,99,150,Neha Sharma,Male,35,Udaipur,Yes,Rahul,Morning,450,297,153
+O00223,C030,E03,2025-03-31,15:28,UPI,Takeaway,March,Monday,2025,False,433,1011,3,Cheesecake,Dessert,107,150,Neha Sharma,Male,35,Udaipur,Yes,Rahul,Morning,450,321,129
+O00224,C011,E05,2025-03-11,12:33,UPI,Dine In,March,Tuesday,2025,False,434,1003,1,Cappuccino,Coffee,65,136,Yash Joshi,Female,31,Udaipur,No,Karan,Morning,136,65,71
+O00224,C011,E05,2025-03-11,12:33,UPI,Dine In,March,Tuesday,2025,False,435,1002,2,Americano,Coffee,33,167,Yash Joshi,Female,31,Udaipur,No,Karan,Morning,334,66,268
+O00224,C011,E05,2025-03-11,12:33,UPI,Dine In,March,Tuesday,2025,False,436,1005,3,Mocha,Coffee,43,169,Yash Joshi,Female,31,Udaipur,No,Karan,Morning,507,129,378
+O00225,C082,E02,2025-05-24,00:52,Cash,Takeaway,May,Saturday,2025,True,437,1004,1,Latte,Coffee,58,115,Kabir Joshi,Female,46,Alwar,No,Pooja,Morning,115,58,57
+O00225,C082,E02,2025-05-24,00:52,Cash,Takeaway,May,Saturday,2025,True,438,1002,2,Americano,Coffee,33,167,Kabir Joshi,Female,46,Alwar,No,Pooja,Morning,334,66,268
+O00226,C047,E03,2025-03-23,07:04,UPI,Dine In,March,Sunday,2025,True,439,1014,2,Paneer Sandwich,Food,99,192,Aarav Gupta,Male,22,Alwar,Yes,Rahul,Morning,384,198,186
+O00227,C072,E05,2025-04-12,17:30,UPI,Dine In,April,Saturday,2025,True,440,1012,3,Muffin,Dessert,101,166,Ananya Gupta,Female,29,Alwar,No,Karan,Morning,498,303,195
+O00228,C077,E05,2025-01-18,06:36,Cash,Takeaway,January,Saturday,2025,True,441,1010,2,Brownie,Dessert,59,163,Ananya Verma,Male,19,Jaipur,Yes,Karan,Morning,326,118,208
+O00229,C100,E01,2025-03-12,22:19,Cash,Dine In,March,Wednesday,2025,False,442,1006,1,Flat White,Coffee,99,150,Rohan Meena,Male,47,Kota,No,Amit,Morning,150,99,51
+O00229,C100,E01,2025-03-12,22:19,Cash,Dine In,March,Wednesday,2025,False,443,1011,1,Cheesecake,Dessert,107,150,Rohan Meena,Male,47,Kota,No,Amit,Morning,150,107,43
+O00229,C100,E01,2025-03-12,22:19,Cash,Dine In,March,Wednesday,2025,False,444,1007,2,Masala Tea,Tea,105,199,Rohan Meena,Male,47,Kota,No,Amit,Morning,398,210,188
+O00230,C035,E04,2025-02-25,03:39,UPI,Dine In,February,Tuesday,2025,False,445,1009,2,Lemon Tea,Tea,41,108,Priya Gupta,Male,35,Udaipur,Yes,Sneha,Evening,216,82,134
+O00230,C035,E04,2025-02-25,03:39,UPI,Dine In,February,Tuesday,2025,False,446,1007,2,Masala Tea,Tea,105,199,Priya Gupta,Male,35,Udaipur,Yes,Sneha,Evening,398,210,188
+O00231,C010,E03,2025-05-23,19:31,UPI,Dine In,May,Friday,2025,False,447,1016,1,Burger,Food,105,180,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,180,105,75
+O00231,C010,E03,2025-05-23,19:31,UPI,Dine In,May,Friday,2025,False,448,1010,2,Brownie,Dessert,59,163,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,326,118,208
+O00231,C010,E03,2025-05-23,19:31,UPI,Dine In,May,Friday,2025,False,449,1015,1,Pasta,Food,58,155,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,155,58,97
+O00232,C039,E01,2025-01-25,23:57,Card,Takeaway,January,Saturday,2025,True,450,1013,2,Veg Sandwich,Food,113,242,Ishita Singh,Female,36,Udaipur,No,Amit,Morning,484,226,258
+O00232,C039,E01,2025-01-25,23:57,Card,Takeaway,January,Saturday,2025,True,451,1016,2,Burger,Food,105,180,Ishita Singh,Female,36,Udaipur,No,Amit,Morning,360,210,150
+O00232,C039,E01,2025-01-25,23:57,Card,Takeaway,January,Saturday,2025,True,452,1014,2,Paneer Sandwich,Food,99,192,Ishita Singh,Female,36,Udaipur,No,Amit,Morning,384,198,186
+O00233,C084,E05,2025-03-20,17:23,UPI,Takeaway,March,Thursday,2025,False,453,1007,1,Masala Tea,Tea,105,199,Ananya Joshi,Female,51,Udaipur,Yes,Karan,Morning,199,105,94
+O00233,C084,E05,2025-03-20,17:23,UPI,Takeaway,March,Thursday,2025,False,454,1008,2,Green Tea,Tea,34,77,Ananya Joshi,Female,51,Udaipur,Yes,Karan,Morning,154,68,86
+O00233,C084,E05,2025-03-20,17:23,UPI,Takeaway,March,Thursday,2025,False,455,1006,2,Flat White,Coffee,99,150,Ananya Joshi,Female,51,Udaipur,Yes,Karan,Morning,300,198,102
+O00234,C095,E04,2025-02-23,09:21,Card,Dine In,February,Sunday,2025,True,456,1013,2,Veg Sandwich,Food,113,242,Aarav Singh,Female,38,Ajmer,No,Sneha,Evening,484,226,258
+O00234,C095,E04,2025-02-23,09:21,Card,Dine In,February,Sunday,2025,True,457,1005,2,Mocha,Coffee,43,169,Aarav Singh,Female,38,Ajmer,No,Sneha,Evening,338,86,252
+O00235,C073,E02,2025-01-22,01:35,UPI,Dine In,January,Wednesday,2025,False,458,1001,3,Espresso,Coffee,111,165,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,495,333,162
+O00235,C073,E02,2025-01-22,01:35,UPI,Dine In,January,Wednesday,2025,False,459,1012,1,Muffin,Dessert,101,166,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,166,101,65
+O00235,C073,E02,2025-01-22,01:35,UPI,Dine In,January,Wednesday,2025,False,460,1008,2,Green Tea,Tea,34,77,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,154,68,86
+O00236,C038,E01,2025-05-26,13:08,Cash,Takeaway,May,Monday,2025,False,461,1016,2,Burger,Food,105,180,Ananya Gupta,Male,28,Udaipur,Yes,Amit,Morning,360,210,150
+O00236,C038,E01,2025-05-26,13:08,Cash,Takeaway,May,Monday,2025,False,462,1003,1,Cappuccino,Coffee,65,136,Ananya Gupta,Male,28,Udaipur,Yes,Amit,Morning,136,65,71
+O00236,C038,E01,2025-05-26,13:08,Cash,Takeaway,May,Monday,2025,False,463,1011,2,Cheesecake,Dessert,107,150,Ananya Gupta,Male,28,Udaipur,Yes,Amit,Morning,300,214,86
+O00237,C020,E04,2025-05-01,05:44,Cash,Dine In,May,Thursday,2025,False,464,1016,2,Burger,Food,105,180,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,360,210,150
+O00237,C020,E04,2025-05-01,05:44,Cash,Dine In,May,Thursday,2025,False,465,1010,3,Brownie,Dessert,59,163,Priya Singh,Male,52,Alwar,Yes,Sneha,Evening,489,177,312
+O00238,C089,E04,2025-04-03,13:25,UPI,Takeaway,April,Thursday,2025,False,466,1003,1,Cappuccino,Coffee,65,136,Ishita Gupta,Male,54,Udaipur,No,Sneha,Evening,136,65,71
+O00238,C089,E04,2025-04-03,13:25,UPI,Takeaway,April,Thursday,2025,False,467,1002,3,Americano,Coffee,33,167,Ishita Gupta,Male,54,Udaipur,No,Sneha,Evening,501,99,402
+O00238,C089,E04,2025-04-03,13:25,UPI,Takeaway,April,Thursday,2025,False,468,1013,3,Veg Sandwich,Food,113,242,Ishita Gupta,Male,54,Udaipur,No,Sneha,Evening,726,339,387
+O00239,C022,E05,2025-03-06,23:03,UPI,Takeaway,March,Thursday,2025,False,469,1014,1,Paneer Sandwich,Food,99,192,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,192,99,93
+O00239,C022,E05,2025-03-06,23:03,UPI,Takeaway,March,Thursday,2025,False,470,1002,1,Americano,Coffee,33,167,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,167,33,134
+O00240,C029,E05,2025-02-17,10:26,Cash,Dine In,February,Monday,2025,False,471,1012,2,Muffin,Dessert,101,166,Rohan Joshi,Male,32,Jaipur,Yes,Karan,Morning,332,202,130
+O00240,C029,E05,2025-02-17,10:26,Cash,Dine In,February,Monday,2025,False,472,1007,3,Masala Tea,Tea,105,199,Rohan Joshi,Male,32,Jaipur,Yes,Karan,Morning,597,315,282
+O00241,C089,E05,2025-04-18,11:35,UPI,Dine In,April,Friday,2025,False,473,1004,2,Latte,Coffee,58,115,Ishita Gupta,Male,54,Udaipur,No,Karan,Morning,230,116,114
+O00241,C089,E05,2025-04-18,11:35,UPI,Dine In,April,Friday,2025,False,474,1005,1,Mocha,Coffee,43,169,Ishita Gupta,Male,54,Udaipur,No,Karan,Morning,169,43,126
+O00242,C094,E02,2025-01-22,11:06,UPI,Takeaway,January,Wednesday,2025,False,475,1007,2,Masala Tea,Tea,105,199,Rohan Joshi,Female,26,Udaipur,Yes,Pooja,Morning,398,210,188
+O00242,C094,E02,2025-01-22,11:06,UPI,Takeaway,January,Wednesday,2025,False,476,1009,2,Lemon Tea,Tea,41,108,Rohan Joshi,Female,26,Udaipur,Yes,Pooja,Morning,216,82,134
+O00243,C013,E04,2025-03-29,00:23,Cash,Takeaway,March,Saturday,2025,True,477,1003,1,Cappuccino,Coffee,65,136,Yash Gupta,Female,41,Ajmer,Yes,Sneha,Evening,136,65,71
+O00243,C013,E04,2025-03-29,00:23,Cash,Takeaway,March,Saturday,2025,True,478,1005,3,Mocha,Coffee,43,169,Yash Gupta,Female,41,Ajmer,Yes,Sneha,Evening,507,129,378
+O00244,C003,E03,2025-01-22,06:48,UPI,Dine In,January,Wednesday,2025,False,479,1008,3,Green Tea,Tea,34,77,Neha Singh,Female,20,Udaipur,Yes,Rahul,Morning,231,102,129
+O00244,C003,E03,2025-01-22,06:48,UPI,Dine In,January,Wednesday,2025,False,480,1009,1,Lemon Tea,Tea,41,108,Neha Singh,Female,20,Udaipur,Yes,Rahul,Morning,108,41,67
+O00244,C003,E03,2025-01-22,06:48,UPI,Dine In,January,Wednesday,2025,False,481,1003,2,Cappuccino,Coffee,65,136,Neha Singh,Female,20,Udaipur,Yes,Rahul,Morning,272,130,142
+O00245,C055,E04,2025-04-13,06:01,UPI,Takeaway,April,Sunday,2025,True,482,1006,3,Flat White,Coffee,99,150,Priya Joshi,Female,53,Udaipur,Yes,Sneha,Evening,450,297,153
+O00245,C055,E04,2025-04-13,06:01,UPI,Takeaway,April,Sunday,2025,True,483,1003,2,Cappuccino,Coffee,65,136,Priya Joshi,Female,53,Udaipur,Yes,Sneha,Evening,272,130,142
+O00245,C055,E04,2025-04-13,06:01,UPI,Takeaway,April,Sunday,2025,True,484,1011,2,Cheesecake,Dessert,107,150,Priya Joshi,Female,53,Udaipur,Yes,Sneha,Evening,300,214,86
+O00246,C095,E05,2025-01-06,15:32,Card,Takeaway,January,Monday,2025,False,485,1014,3,Paneer Sandwich,Food,99,192,Aarav Singh,Female,38,Ajmer,No,Karan,Morning,576,297,279
+O00246,C095,E05,2025-01-06,15:32,Card,Takeaway,January,Monday,2025,False,486,1007,1,Masala Tea,Tea,105,199,Aarav Singh,Female,38,Ajmer,No,Karan,Morning,199,105,94
+O00246,C095,E05,2025-01-06,15:32,Card,Takeaway,January,Monday,2025,False,487,1001,1,Espresso,Coffee,111,165,Aarav Singh,Female,38,Ajmer,No,Karan,Morning,165,111,54
+O00247,C097,E01,2025-02-21,00:06,UPI,Dine In,February,Friday,2025,False,488,1011,2,Cheesecake,Dessert,107,150,Rohan Gupta,Male,52,Jaipur,No,Amit,Morning,300,214,86
+O00247,C097,E01,2025-02-21,00:06,UPI,Dine In,February,Friday,2025,False,489,1004,1,Latte,Coffee,58,115,Rohan Gupta,Male,52,Jaipur,No,Amit,Morning,115,58,57
+O00248,C086,E04,2025-02-18,02:14,UPI,Takeaway,February,Tuesday,2025,False,490,1013,3,Veg Sandwich,Food,113,242,Neha Singh,Male,26,Ajmer,Yes,Sneha,Evening,726,339,387
+O00248,C086,E04,2025-02-18,02:14,UPI,Takeaway,February,Tuesday,2025,False,491,1010,1,Brownie,Dessert,59,163,Neha Singh,Male,26,Ajmer,Yes,Sneha,Evening,163,59,104
+O00248,C086,E04,2025-02-18,02:14,UPI,Takeaway,February,Tuesday,2025,False,492,1007,2,Masala Tea,Tea,105,199,Neha Singh,Male,26,Ajmer,Yes,Sneha,Evening,398,210,188
+O00249,C059,E05,2025-03-06,09:50,UPI,Takeaway,March,Thursday,2025,False,493,1003,2,Cappuccino,Coffee,65,136,Rohan Singh,Female,27,Ajmer,Yes,Karan,Morning,272,130,142
+O00249,C059,E05,2025-03-06,09:50,UPI,Takeaway,March,Thursday,2025,False,494,1011,1,Cheesecake,Dessert,107,150,Rohan Singh,Female,27,Ajmer,Yes,Karan,Morning,150,107,43
+O00249,C059,E05,2025-03-06,09:50,UPI,Takeaway,March,Thursday,2025,False,495,1016,1,Burger,Food,105,180,Rohan Singh,Female,27,Ajmer,Yes,Karan,Morning,180,105,75
+O00250,C015,E02,2025-02-25,22:13,UPI,Dine In,February,Tuesday,2025,False,496,1013,1,Veg Sandwich,Food,113,242,Priya Joshi,Female,22,Udaipur,No,Pooja,Morning,242,113,129
+O00250,C015,E02,2025-02-25,22:13,UPI,Dine In,February,Tuesday,2025,False,497,1007,3,Masala Tea,Tea,105,199,Priya Joshi,Female,22,Udaipur,No,Pooja,Morning,597,315,282
+O00250,C015,E02,2025-02-25,22:13,UPI,Dine In,February,Tuesday,2025,False,498,1010,2,Brownie,Dessert,59,163,Priya Joshi,Female,22,Udaipur,No,Pooja,Morning,326,118,208
+O00251,C024,E04,2025-03-19,08:17,UPI,Dine In,March,Wednesday,2025,False,499,1006,1,Flat White,Coffee,99,150,Priya Joshi,Female,53,Ajmer,No,Sneha,Evening,150,99,51
+O00251,C024,E04,2025-03-19,08:17,UPI,Dine In,March,Wednesday,2025,False,500,1008,1,Green Tea,Tea,34,77,Priya Joshi,Female,53,Ajmer,No,Sneha,Evening,77,34,43
+O00251,C024,E04,2025-03-19,08:17,UPI,Dine In,March,Wednesday,2025,False,501,1005,2,Mocha,Coffee,43,169,Priya Joshi,Female,53,Ajmer,No,Sneha,Evening,338,86,252
+O00252,C058,E05,2025-06-03,14:41,UPI,Takeaway,June,Tuesday,2025,False,502,1016,1,Burger,Food,105,180,Vikas Singh,Male,40,Ajmer,Yes,Karan,Morning,180,105,75
+O00253,C050,E05,2025-02-05,20:31,UPI,Takeaway,February,Wednesday,2025,False,503,1016,3,Burger,Food,105,180,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,540,315,225
+O00253,C050,E05,2025-02-05,20:31,UPI,Takeaway,February,Wednesday,2025,False,504,1007,2,Masala Tea,Tea,105,199,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,398,210,188
+O00254,C022,E01,2025-03-31,07:09,UPI,Dine In,March,Monday,2025,False,505,1002,1,Americano,Coffee,33,167,Vikas Verma,Male,33,Alwar,Yes,Amit,Morning,167,33,134
+O00254,C022,E01,2025-03-31,07:09,UPI,Dine In,March,Monday,2025,False,506,1005,3,Mocha,Coffee,43,169,Vikas Verma,Male,33,Alwar,Yes,Amit,Morning,507,129,378
+O00255,C022,E04,2025-02-22,21:13,UPI,Takeaway,February,Saturday,2025,True,507,1004,2,Latte,Coffee,58,115,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,230,116,114
+O00255,C022,E04,2025-02-22,21:13,UPI,Takeaway,February,Saturday,2025,True,508,1010,3,Brownie,Dessert,59,163,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,489,177,312
+O00255,C022,E04,2025-02-22,21:13,UPI,Takeaway,February,Saturday,2025,True,509,1002,2,Americano,Coffee,33,167,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,334,66,268
+O00256,C097,E01,2025-04-10,00:13,Cash,Takeaway,April,Thursday,2025,False,510,1007,3,Masala Tea,Tea,105,199,Rohan Gupta,Male,52,Jaipur,No,Amit,Morning,597,315,282
+O00256,C097,E01,2025-04-10,00:13,Cash,Takeaway,April,Thursday,2025,False,511,1016,3,Burger,Food,105,180,Rohan Gupta,Male,52,Jaipur,No,Amit,Morning,540,315,225
+O00256,C097,E01,2025-04-10,00:13,Cash,Takeaway,April,Thursday,2025,False,512,1002,1,Americano,Coffee,33,167,Rohan Gupta,Male,52,Jaipur,No,Amit,Morning,167,33,134
+O00257,C005,E04,2025-02-24,12:42,UPI,Dine In,February,Monday,2025,False,513,1004,1,Latte,Coffee,58,115,Rohan Sharma,Male,36,Jaipur,Yes,Sneha,Evening,115,58,57
+O00257,C005,E04,2025-02-24,12:42,UPI,Dine In,February,Monday,2025,False,514,1013,1,Veg Sandwich,Food,113,242,Rohan Sharma,Male,36,Jaipur,Yes,Sneha,Evening,242,113,129
+O00258,C095,E05,2025-05-28,22:00,Cash,Takeaway,May,Wednesday,2025,False,515,1005,1,Mocha,Coffee,43,169,Aarav Singh,Female,38,Ajmer,No,Karan,Morning,169,43,126
+O00259,C027,E01,2025-05-29,10:21,UPI,Takeaway,May,Thursday,2025,False,516,1006,2,Flat White,Coffee,99,150,Rohan Verma,Male,22,Kota,Yes,Amit,Morning,300,198,102
+O00259,C027,E01,2025-05-29,10:21,UPI,Takeaway,May,Thursday,2025,False,517,1016,2,Burger,Food,105,180,Rohan Verma,Male,22,Kota,Yes,Amit,Morning,360,210,150
+O00259,C027,E01,2025-05-29,10:21,UPI,Takeaway,May,Thursday,2025,False,518,1012,3,Muffin,Dessert,101,166,Rohan Verma,Male,22,Kota,Yes,Amit,Morning,498,303,195
+O00260,C066,E01,2025-02-19,00:02,UPI,Takeaway,February,Wednesday,2025,False,519,1009,3,Lemon Tea,Tea,41,108,Yash Singh,Male,24,Alwar,No,Amit,Morning,324,123,201
+O00261,C090,E02,2025-01-24,10:22,UPI,Takeaway,January,Friday,2025,False,520,1013,2,Veg Sandwich,Food,113,242,Aarav Singh,Female,42,Udaipur,Yes,Pooja,Morning,484,226,258
+O00262,C074,E03,2025-01-27,05:09,UPI,Takeaway,January,Monday,2025,False,521,1003,1,Cappuccino,Coffee,65,136,Ishita Meena,Female,47,Udaipur,No,Rahul,Morning,136,65,71
+O00262,C074,E03,2025-01-27,05:09,UPI,Takeaway,January,Monday,2025,False,522,1011,2,Cheesecake,Dessert,107,150,Ishita Meena,Female,47,Udaipur,No,Rahul,Morning,300,214,86
+O00263,C096,E03,2025-04-05,04:44,Cash,Takeaway,April,Saturday,2025,True,523,1016,3,Burger,Food,105,180,Neha Singh,Female,35,Udaipur,No,Rahul,Morning,540,315,225
+O00263,C096,E03,2025-04-05,04:44,Cash,Takeaway,April,Saturday,2025,True,524,1006,1,Flat White,Coffee,99,150,Neha Singh,Female,35,Udaipur,No,Rahul,Morning,150,99,51
+O00264,C100,E01,2025-06-08,12:18,Cash,Takeaway,June,Sunday,2025,True,525,1012,3,Muffin,Dessert,101,166,Rohan Meena,Male,47,Kota,No,Amit,Morning,498,303,195
+O00264,C100,E01,2025-06-08,12:18,Cash,Takeaway,June,Sunday,2025,True,526,1014,2,Paneer Sandwich,Food,99,192,Rohan Meena,Male,47,Kota,No,Amit,Morning,384,198,186
+O00264,C100,E01,2025-06-08,12:18,Cash,Takeaway,June,Sunday,2025,True,527,1002,1,Americano,Coffee,33,167,Rohan Meena,Male,47,Kota,No,Amit,Morning,167,33,134
+O00265,C055,E02,2025-06-26,13:49,UPI,Takeaway,June,Thursday,2025,False,528,1011,3,Cheesecake,Dessert,107,150,Priya Joshi,Female,53,Udaipur,Yes,Pooja,Morning,450,321,129
+O00265,C055,E02,2025-06-26,13:49,UPI,Takeaway,June,Thursday,2025,False,529,1009,1,Lemon Tea,Tea,41,108,Priya Joshi,Female,53,Udaipur,Yes,Pooja,Morning,108,41,67
+O00266,C063,E03,2025-04-14,09:30,Card,Dine In,April,Monday,2025,False,530,1004,3,Latte,Coffee,58,115,Ananya Verma,Male,30,Udaipur,No,Rahul,Morning,345,174,171
+O00267,C059,E01,2025-05-24,00:51,UPI,Dine In,May,Saturday,2025,True,531,1015,2,Pasta,Food,58,155,Rohan Singh,Female,27,Ajmer,Yes,Amit,Morning,310,116,194
+O00267,C059,E01,2025-05-24,00:51,UPI,Dine In,May,Saturday,2025,True,532,1001,1,Espresso,Coffee,111,165,Rohan Singh,Female,27,Ajmer,Yes,Amit,Morning,165,111,54
+O00268,C017,E03,2025-05-06,16:30,UPI,Takeaway,May,Tuesday,2025,False,533,1012,2,Muffin,Dessert,101,166,Simran Singh,Female,25,Kota,No,Rahul,Morning,332,202,130
+O00269,C048,E02,2025-01-16,08:06,UPI,Takeaway,January,Thursday,2025,False,534,1008,1,Green Tea,Tea,34,77,Simran Singh,Male,40,Jaipur,Yes,Pooja,Morning,77,34,43
+O00269,C048,E02,2025-01-16,08:06,UPI,Takeaway,January,Thursday,2025,False,535,1007,3,Masala Tea,Tea,105,199,Simran Singh,Male,40,Jaipur,Yes,Pooja,Morning,597,315,282
+O00269,C048,E02,2025-01-16,08:06,UPI,Takeaway,January,Thursday,2025,False,536,1011,1,Cheesecake,Dessert,107,150,Simran Singh,Male,40,Jaipur,Yes,Pooja,Morning,150,107,43
+O00270,C028,E04,2025-01-01,12:44,UPI,Dine In,January,Wednesday,2025,False,537,1015,3,Pasta,Food,58,155,Yash Meena,Male,55,Ajmer,Yes,Sneha,Evening,465,174,291
+O00270,C028,E04,2025-01-01,12:44,UPI,Dine In,January,Wednesday,2025,False,538,1001,2,Espresso,Coffee,111,165,Yash Meena,Male,55,Ajmer,Yes,Sneha,Evening,330,222,108
+O00270,C028,E04,2025-01-01,12:44,UPI,Dine In,January,Wednesday,2025,False,539,1016,1,Burger,Food,105,180,Yash Meena,Male,55,Ajmer,Yes,Sneha,Evening,180,105,75
+O00271,C055,E02,2025-06-30,05:18,UPI,Dine In,June,Monday,2025,False,540,1003,1,Cappuccino,Coffee,65,136,Priya Joshi,Female,53,Udaipur,Yes,Pooja,Morning,136,65,71
+O00271,C055,E02,2025-06-30,05:18,UPI,Dine In,June,Monday,2025,False,541,1012,1,Muffin,Dessert,101,166,Priya Joshi,Female,53,Udaipur,Yes,Pooja,Morning,166,101,65
+O00272,C048,E03,2025-02-27,09:03,UPI,Dine In,February,Thursday,2025,False,542,1005,3,Mocha,Coffee,43,169,Simran Singh,Male,40,Jaipur,Yes,Rahul,Morning,507,129,378
+O00272,C048,E03,2025-02-27,09:03,UPI,Dine In,February,Thursday,2025,False,543,1002,1,Americano,Coffee,33,167,Simran Singh,Male,40,Jaipur,Yes,Rahul,Morning,167,33,134
+O00272,C048,E03,2025-02-27,09:03,UPI,Dine In,February,Thursday,2025,False,544,1009,3,Lemon Tea,Tea,41,108,Simran Singh,Male,40,Jaipur,Yes,Rahul,Morning,324,123,201
+O00273,C022,E04,2025-04-29,15:58,UPI,Dine In,April,Tuesday,2025,False,545,1005,3,Mocha,Coffee,43,169,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,507,129,378
+O00273,C022,E04,2025-04-29,15:58,UPI,Dine In,April,Tuesday,2025,False,546,1015,3,Pasta,Food,58,155,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,465,174,291
+O00273,C022,E04,2025-04-29,15:58,UPI,Dine In,April,Tuesday,2025,False,547,1007,2,Masala Tea,Tea,105,199,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,398,210,188
+O00274,C028,E01,2025-06-06,21:14,Card,Dine In,June,Friday,2025,False,548,1013,2,Veg Sandwich,Food,113,242,Yash Meena,Male,55,Ajmer,Yes,Amit,Morning,484,226,258
+O00275,C055,E03,2025-06-25,16:29,Cash,Dine In,June,Wednesday,2025,False,549,1003,3,Cappuccino,Coffee,65,136,Priya Joshi,Female,53,Udaipur,Yes,Rahul,Morning,408,195,213
+O00275,C055,E03,2025-06-25,16:29,Cash,Dine In,June,Wednesday,2025,False,550,1004,3,Latte,Coffee,58,115,Priya Joshi,Female,53,Udaipur,Yes,Rahul,Morning,345,174,171
+O00276,C093,E05,2025-04-20,13:28,UPI,Dine In,April,Sunday,2025,True,551,1010,3,Brownie,Dessert,59,163,Yash Meena,Male,43,Alwar,Yes,Karan,Morning,489,177,312
+O00276,C093,E05,2025-04-20,13:28,UPI,Dine In,April,Sunday,2025,True,552,1004,3,Latte,Coffee,58,115,Yash Meena,Male,43,Alwar,Yes,Karan,Morning,345,174,171
+O00276,C093,E05,2025-04-20,13:28,UPI,Dine In,April,Sunday,2025,True,553,1009,1,Lemon Tea,Tea,41,108,Yash Meena,Male,43,Alwar,Yes,Karan,Morning,108,41,67
+O00277,C051,E03,2025-05-17,11:22,UPI,Dine In,May,Saturday,2025,True,554,1013,1,Veg Sandwich,Food,113,242,Priya Singh,Male,24,Alwar,Yes,Rahul,Morning,242,113,129
+O00277,C051,E03,2025-05-17,11:22,UPI,Dine In,May,Saturday,2025,True,555,1002,2,Americano,Coffee,33,167,Priya Singh,Male,24,Alwar,Yes,Rahul,Morning,334,66,268
+O00278,C077,E01,2025-04-27,11:49,UPI,Dine In,April,Sunday,2025,True,556,1011,2,Cheesecake,Dessert,107,150,Ananya Verma,Male,19,Jaipur,Yes,Amit,Morning,300,214,86
+O00278,C077,E01,2025-04-27,11:49,UPI,Dine In,April,Sunday,2025,True,557,1003,3,Cappuccino,Coffee,65,136,Ananya Verma,Male,19,Jaipur,Yes,Amit,Morning,408,195,213
+O00279,C047,E05,2025-03-18,22:46,Cash,Takeaway,March,Tuesday,2025,False,558,1001,3,Espresso,Coffee,111,165,Aarav Gupta,Male,22,Alwar,Yes,Karan,Morning,495,333,162
+O00280,C002,E03,2025-01-13,15:03,UPI,Dine In,January,Monday,2025,False,559,1010,3,Brownie,Dessert,59,163,Ananya Singh,Male,23,Udaipur,Yes,Rahul,Morning,489,177,312
+O00280,C002,E03,2025-01-13,15:03,UPI,Dine In,January,Monday,2025,False,560,1011,3,Cheesecake,Dessert,107,150,Ananya Singh,Male,23,Udaipur,Yes,Rahul,Morning,450,321,129
+O00281,C054,E04,2025-05-20,23:33,Cash,Dine In,May,Tuesday,2025,False,561,1005,2,Mocha,Coffee,43,169,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,338,86,252
+O00281,C054,E04,2025-05-20,23:33,Cash,Dine In,May,Tuesday,2025,False,562,1016,1,Burger,Food,105,180,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,180,105,75
+O00281,C054,E04,2025-05-20,23:33,Cash,Dine In,May,Tuesday,2025,False,563,1002,3,Americano,Coffee,33,167,Vikas Sharma,Male,39,Ajmer,No,Sneha,Evening,501,99,402
+O00282,C027,E02,2025-06-17,23:34,UPI,Takeaway,June,Tuesday,2025,False,564,1003,2,Cappuccino,Coffee,65,136,Rohan Verma,Male,22,Kota,Yes,Pooja,Morning,272,130,142
+O00282,C027,E02,2025-06-17,23:34,UPI,Takeaway,June,Tuesday,2025,False,565,1005,3,Mocha,Coffee,43,169,Rohan Verma,Male,22,Kota,Yes,Pooja,Morning,507,129,378
+O00282,C027,E02,2025-06-17,23:34,UPI,Takeaway,June,Tuesday,2025,False,566,1012,1,Muffin,Dessert,101,166,Rohan Verma,Male,22,Kota,Yes,Pooja,Morning,166,101,65
+O00283,C032,E01,2025-01-11,20:59,Card,Dine In,January,Saturday,2025,True,567,1002,3,Americano,Coffee,33,167,Ananya Sharma,Male,45,Kota,No,Amit,Morning,501,99,402
+O00283,C032,E01,2025-01-11,20:59,Card,Dine In,January,Saturday,2025,True,568,1005,3,Mocha,Coffee,43,169,Ananya Sharma,Male,45,Kota,No,Amit,Morning,507,129,378
+O00284,C095,E02,2025-05-01,03:04,UPI,Dine In,May,Thursday,2025,False,569,1001,2,Espresso,Coffee,111,165,Aarav Singh,Female,38,Ajmer,No,Pooja,Morning,330,222,108
+O00284,C095,E02,2025-05-01,03:04,UPI,Dine In,May,Thursday,2025,False,570,1003,3,Cappuccino,Coffee,65,136,Aarav Singh,Female,38,Ajmer,No,Pooja,Morning,408,195,213
+O00284,C095,E02,2025-05-01,03:04,UPI,Dine In,May,Thursday,2025,False,571,1008,3,Green Tea,Tea,34,77,Aarav Singh,Female,38,Ajmer,No,Pooja,Morning,231,102,129
+O00285,C093,E03,2025-05-23,20:55,UPI,Dine In,May,Friday,2025,False,572,1009,1,Lemon Tea,Tea,41,108,Yash Meena,Male,43,Alwar,Yes,Rahul,Morning,108,41,67
+O00285,C093,E03,2025-05-23,20:55,UPI,Dine In,May,Friday,2025,False,573,1012,2,Muffin,Dessert,101,166,Yash Meena,Male,43,Alwar,Yes,Rahul,Morning,332,202,130
+O00285,C093,E03,2025-05-23,20:55,UPI,Dine In,May,Friday,2025,False,574,1002,2,Americano,Coffee,33,167,Yash Meena,Male,43,Alwar,Yes,Rahul,Morning,334,66,268
+O00286,C068,E01,2025-02-19,20:18,UPI,Dine In,February,Wednesday,2025,False,575,1015,2,Pasta,Food,58,155,Ishita Meena,Male,34,Jaipur,No,Amit,Morning,310,116,194
+O00286,C068,E01,2025-02-19,20:18,UPI,Dine In,February,Wednesday,2025,False,576,1009,1,Lemon Tea,Tea,41,108,Ishita Meena,Male,34,Jaipur,No,Amit,Morning,108,41,67
+O00287,C073,E02,2025-04-02,06:49,UPI,Takeaway,April,Wednesday,2025,False,577,1004,1,Latte,Coffee,58,115,Ishita Meena,Male,37,Kota,Yes,Pooja,Morning,115,58,57
+O00288,C066,E01,2025-05-16,04:31,UPI,Dine In,May,Friday,2025,False,578,1002,2,Americano,Coffee,33,167,Yash Singh,Male,24,Alwar,No,Amit,Morning,334,66,268
+O00289,C050,E02,2025-03-08,14:14,UPI,Dine In,March,Saturday,2025,True,579,1014,1,Paneer Sandwich,Food,99,192,Yash Joshi,Male,53,Kota,Yes,Pooja,Morning,192,99,93
+O00289,C050,E02,2025-03-08,14:14,UPI,Dine In,March,Saturday,2025,True,580,1004,2,Latte,Coffee,58,115,Yash Joshi,Male,53,Kota,Yes,Pooja,Morning,230,116,114
+O00289,C050,E02,2025-03-08,14:14,UPI,Dine In,March,Saturday,2025,True,581,1006,3,Flat White,Coffee,99,150,Yash Joshi,Male,53,Kota,Yes,Pooja,Morning,450,297,153
+O00290,C035,E01,2025-02-28,13:49,UPI,Dine In,February,Friday,2025,False,582,1002,3,Americano,Coffee,33,167,Priya Gupta,Male,35,Udaipur,Yes,Amit,Morning,501,99,402
+O00290,C035,E01,2025-02-28,13:49,UPI,Dine In,February,Friday,2025,False,583,1003,1,Cappuccino,Coffee,65,136,Priya Gupta,Male,35,Udaipur,Yes,Amit,Morning,136,65,71
+O00290,C035,E01,2025-02-28,13:49,UPI,Dine In,February,Friday,2025,False,584,1004,2,Latte,Coffee,58,115,Priya Gupta,Male,35,Udaipur,Yes,Amit,Morning,230,116,114
+O00291,C060,E03,2025-01-13,21:08,Cash,Takeaway,January,Monday,2025,False,585,1003,2,Cappuccino,Coffee,65,136,Priya Gupta,Male,29,Kota,No,Rahul,Morning,272,130,142
+O00291,C060,E03,2025-01-13,21:08,Cash,Takeaway,January,Monday,2025,False,586,1009,1,Lemon Tea,Tea,41,108,Priya Gupta,Male,29,Kota,No,Rahul,Morning,108,41,67
+O00292,C026,E03,2025-03-09,11:49,UPI,Takeaway,March,Sunday,2025,True,587,1008,3,Green Tea,Tea,34,77,Vikas Gupta,Female,46,Alwar,No,Rahul,Morning,231,102,129
+O00292,C026,E03,2025-03-09,11:49,UPI,Takeaway,March,Sunday,2025,True,588,1016,2,Burger,Food,105,180,Vikas Gupta,Female,46,Alwar,No,Rahul,Morning,360,210,150
+O00292,C026,E03,2025-03-09,11:49,UPI,Takeaway,March,Sunday,2025,True,589,1006,1,Flat White,Coffee,99,150,Vikas Gupta,Female,46,Alwar,No,Rahul,Morning,150,99,51
+O00293,C070,E02,2025-05-14,16:10,UPI,Takeaway,May,Wednesday,2025,False,590,1008,3,Green Tea,Tea,34,77,Neha Meena,Female,25,Kota,No,Pooja,Morning,231,102,129
+O00294,C082,E01,2025-03-05,09:32,Card,Dine In,March,Wednesday,2025,False,591,1013,3,Veg Sandwich,Food,113,242,Kabir Joshi,Female,46,Alwar,No,Amit,Morning,726,339,387
+O00294,C082,E01,2025-03-05,09:32,Card,Dine In,March,Wednesday,2025,False,592,1014,2,Paneer Sandwich,Food,99,192,Kabir Joshi,Female,46,Alwar,No,Amit,Morning,384,198,186
+O00294,C082,E01,2025-03-05,09:32,Card,Dine In,March,Wednesday,2025,False,593,1012,1,Muffin,Dessert,101,166,Kabir Joshi,Female,46,Alwar,No,Amit,Morning,166,101,65
+O00295,C068,E02,2025-02-07,16:30,UPI,Dine In,February,Friday,2025,False,594,1009,1,Lemon Tea,Tea,41,108,Ishita Meena,Male,34,Jaipur,No,Pooja,Morning,108,41,67
+O00296,C030,E05,2025-01-09,07:48,UPI,Takeaway,January,Thursday,2025,False,595,1003,1,Cappuccino,Coffee,65,136,Neha Sharma,Male,35,Udaipur,Yes,Karan,Morning,136,65,71
+O00296,C030,E05,2025-01-09,07:48,UPI,Takeaway,January,Thursday,2025,False,596,1010,3,Brownie,Dessert,59,163,Neha Sharma,Male,35,Udaipur,Yes,Karan,Morning,489,177,312
+O00297,C082,E04,2025-01-25,15:19,UPI,Dine In,January,Saturday,2025,True,597,1005,2,Mocha,Coffee,43,169,Kabir Joshi,Female,46,Alwar,No,Sneha,Evening,338,86,252
+O00297,C082,E04,2025-01-25,15:19,UPI,Dine In,January,Saturday,2025,True,598,1004,2,Latte,Coffee,58,115,Kabir Joshi,Female,46,Alwar,No,Sneha,Evening,230,116,114
+O00298,C041,E04,2025-06-05,05:41,Cash,Takeaway,June,Thursday,2025,False,599,1015,1,Pasta,Food,58,155,Neha Sharma,Male,55,Udaipur,Yes,Sneha,Evening,155,58,97
+O00298,C041,E04,2025-06-05,05:41,Cash,Takeaway,June,Thursday,2025,False,600,1005,1,Mocha,Coffee,43,169,Neha Sharma,Male,55,Udaipur,Yes,Sneha,Evening,169,43,126
+O00299,C026,E02,2025-06-22,02:27,Cash,Dine In,June,Sunday,2025,True,601,1004,1,Latte,Coffee,58,115,Vikas Gupta,Female,46,Alwar,No,Pooja,Morning,115,58,57
+O00300,C060,E03,2025-03-24,04:11,UPI,Takeaway,March,Monday,2025,False,602,1015,2,Pasta,Food,58,155,Priya Gupta,Male,29,Kota,No,Rahul,Morning,310,116,194
+O00301,C034,E01,2025-03-26,16:23,UPI,Takeaway,March,Wednesday,2025,False,603,1002,2,Americano,Coffee,33,167,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,334,66,268
+O00301,C034,E01,2025-03-26,16:23,UPI,Takeaway,March,Wednesday,2025,False,604,1004,1,Latte,Coffee,58,115,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,115,58,57
+O00301,C034,E01,2025-03-26,16:23,UPI,Takeaway,March,Wednesday,2025,False,605,1014,1,Paneer Sandwich,Food,99,192,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,192,99,93
+O00302,C032,E03,2025-05-10,19:05,UPI,Dine In,May,Saturday,2025,True,606,1010,1,Brownie,Dessert,59,163,Ananya Sharma,Male,45,Kota,No,Rahul,Morning,163,59,104
+O00302,C032,E03,2025-05-10,19:05,UPI,Dine In,May,Saturday,2025,True,607,1005,1,Mocha,Coffee,43,169,Ananya Sharma,Male,45,Kota,No,Rahul,Morning,169,43,126
+O00302,C032,E03,2025-05-10,19:05,UPI,Dine In,May,Saturday,2025,True,608,1014,2,Paneer Sandwich,Food,99,192,Ananya Sharma,Male,45,Kota,No,Rahul,Morning,384,198,186
+O00303,C058,E05,2025-06-05,21:48,Cash,Dine In,June,Thursday,2025,False,609,1015,1,Pasta,Food,58,155,Vikas Singh,Male,40,Ajmer,Yes,Karan,Morning,155,58,97
+O00304,C018,E01,2025-05-27,16:16,UPI,Dine In,May,Tuesday,2025,False,610,1007,2,Masala Tea,Tea,105,199,Priya Gupta,Male,34,Alwar,Yes,Amit,Morning,398,210,188
+O00305,C088,E01,2025-03-10,02:20,UPI,Takeaway,March,Monday,2025,False,611,1001,1,Espresso,Coffee,111,165,Ishita Singh,Female,44,Jaipur,Yes,Amit,Morning,165,111,54
+O00306,C083,E04,2025-02-06,07:59,Cash,Dine In,February,Thursday,2025,False,612,1004,2,Latte,Coffee,58,115,Simran Gupta,Male,48,Udaipur,No,Sneha,Evening,230,116,114
+O00306,C083,E04,2025-02-06,07:59,Cash,Dine In,February,Thursday,2025,False,613,1001,1,Espresso,Coffee,111,165,Simran Gupta,Male,48,Udaipur,No,Sneha,Evening,165,111,54
+O00307,C074,E04,2025-01-31,21:57,Cash,Takeaway,January,Friday,2025,False,614,1001,3,Espresso,Coffee,111,165,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,495,333,162
+O00307,C074,E04,2025-01-31,21:57,Cash,Takeaway,January,Friday,2025,False,615,1007,2,Masala Tea,Tea,105,199,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,398,210,188
+O00308,C046,E02,2025-02-01,19:00,Card,Takeaway,February,Saturday,2025,True,616,1015,1,Pasta,Food,58,155,Priya Joshi,Female,47,Kota,Yes,Pooja,Morning,155,58,97
+O00308,C046,E02,2025-02-01,19:00,Card,Takeaway,February,Saturday,2025,True,617,1016,1,Burger,Food,105,180,Priya Joshi,Female,47,Kota,Yes,Pooja,Morning,180,105,75
+O00309,C080,E05,2025-04-23,03:04,UPI,Takeaway,April,Wednesday,2025,False,618,1014,3,Paneer Sandwich,Food,99,192,Rohan Gupta,Male,29,Alwar,No,Karan,Morning,576,297,279
+O00309,C080,E05,2025-04-23,03:04,UPI,Takeaway,April,Wednesday,2025,False,619,1015,2,Pasta,Food,58,155,Rohan Gupta,Male,29,Alwar,No,Karan,Morning,310,116,194
+O00310,C012,E03,2025-01-12,10:25,UPI,Takeaway,January,Sunday,2025,True,620,1008,3,Green Tea,Tea,34,77,Kabir Verma,Female,26,Ajmer,No,Rahul,Morning,231,102,129
+O00311,C070,E01,2025-05-27,08:43,Card,Takeaway,May,Tuesday,2025,False,621,1016,3,Burger,Food,105,180,Neha Meena,Female,25,Kota,No,Amit,Morning,540,315,225
+O00311,C070,E01,2025-05-27,08:43,Card,Takeaway,May,Tuesday,2025,False,622,1006,3,Flat White,Coffee,99,150,Neha Meena,Female,25,Kota,No,Amit,Morning,450,297,153
+O00312,C050,E03,2025-02-28,21:06,UPI,Takeaway,February,Friday,2025,False,623,1008,2,Green Tea,Tea,34,77,Yash Joshi,Male,53,Kota,Yes,Rahul,Morning,154,68,86
+O00312,C050,E03,2025-02-28,21:06,UPI,Takeaway,February,Friday,2025,False,624,1001,1,Espresso,Coffee,111,165,Yash Joshi,Male,53,Kota,Yes,Rahul,Morning,165,111,54
+O00312,C050,E03,2025-02-28,21:06,UPI,Takeaway,February,Friday,2025,False,625,1013,2,Veg Sandwich,Food,113,242,Yash Joshi,Male,53,Kota,Yes,Rahul,Morning,484,226,258
+O00313,C046,E05,2025-04-07,17:07,Card,Dine In,April,Monday,2025,False,626,1008,3,Green Tea,Tea,34,77,Priya Joshi,Female,47,Kota,Yes,Karan,Morning,231,102,129
+O00314,C035,E05,2025-02-14,05:36,Cash,Dine In,February,Friday,2025,False,627,1013,2,Veg Sandwich,Food,113,242,Priya Gupta,Male,35,Udaipur,Yes,Karan,Morning,484,226,258
+O00315,C023,E02,2025-06-20,13:58,UPI,Takeaway,June,Friday,2025,False,628,1012,1,Muffin,Dessert,101,166,Rohan Joshi,Female,22,Alwar,Yes,Pooja,Morning,166,101,65
+O00315,C023,E02,2025-06-20,13:58,UPI,Takeaway,June,Friday,2025,False,629,1015,3,Pasta,Food,58,155,Rohan Joshi,Female,22,Alwar,Yes,Pooja,Morning,465,174,291
+O00315,C023,E02,2025-06-20,13:58,UPI,Takeaway,June,Friday,2025,False,630,1010,3,Brownie,Dessert,59,163,Rohan Joshi,Female,22,Alwar,Yes,Pooja,Morning,489,177,312
+O00316,C073,E05,2025-03-06,08:31,UPI,Dine In,March,Thursday,2025,False,631,1010,2,Brownie,Dessert,59,163,Ishita Meena,Male,37,Kota,Yes,Karan,Morning,326,118,208
+O00316,C073,E05,2025-03-06,08:31,UPI,Dine In,March,Thursday,2025,False,632,1003,1,Cappuccino,Coffee,65,136,Ishita Meena,Male,37,Kota,Yes,Karan,Morning,136,65,71
+O00317,C008,E02,2025-01-17,18:20,UPI,Dine In,January,Friday,2025,False,633,1016,3,Burger,Food,105,180,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,540,315,225
+O00317,C008,E02,2025-01-17,18:20,UPI,Dine In,January,Friday,2025,False,634,1001,1,Espresso,Coffee,111,165,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,165,111,54
+O00317,C008,E02,2025-01-17,18:20,UPI,Dine In,January,Friday,2025,False,635,1006,1,Flat White,Coffee,99,150,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,150,99,51
+O00318,C092,E02,2025-03-04,08:47,Card,Takeaway,March,Tuesday,2025,False,636,1001,1,Espresso,Coffee,111,165,Ishita Singh,Female,28,Udaipur,Yes,Pooja,Morning,165,111,54
+O00319,C091,E02,2025-04-18,02:56,Cash,Takeaway,April,Friday,2025,False,637,1012,3,Muffin,Dessert,101,166,Kabir Verma,Female,45,Udaipur,Yes,Pooja,Morning,498,303,195
+O00320,C085,E04,2025-06-21,19:19,UPI,Takeaway,June,Saturday,2025,True,638,1011,1,Cheesecake,Dessert,107,150,Vikas Gupta,Male,36,Ajmer,No,Sneha,Evening,150,107,43
+O00320,C085,E04,2025-06-21,19:19,UPI,Takeaway,June,Saturday,2025,True,639,1003,3,Cappuccino,Coffee,65,136,Vikas Gupta,Male,36,Ajmer,No,Sneha,Evening,408,195,213
+O00321,C056,E04,2025-06-23,00:54,UPI,Dine In,June,Monday,2025,False,640,1012,3,Muffin,Dessert,101,166,Rohan Sharma,Male,52,Jaipur,No,Sneha,Evening,498,303,195
+O00321,C056,E04,2025-06-23,00:54,UPI,Dine In,June,Monday,2025,False,641,1004,1,Latte,Coffee,58,115,Rohan Sharma,Male,52,Jaipur,No,Sneha,Evening,115,58,57
+O00321,C056,E04,2025-06-23,00:54,UPI,Dine In,June,Monday,2025,False,642,1011,2,Cheesecake,Dessert,107,150,Rohan Sharma,Male,52,Jaipur,No,Sneha,Evening,300,214,86
+O00322,C094,E03,2025-02-26,04:31,UPI,Dine In,February,Wednesday,2025,False,643,1013,3,Veg Sandwich,Food,113,242,Rohan Joshi,Female,26,Udaipur,Yes,Rahul,Morning,726,339,387
+O00322,C094,E03,2025-02-26,04:31,UPI,Dine In,February,Wednesday,2025,False,644,1014,1,Paneer Sandwich,Food,99,192,Rohan Joshi,Female,26,Udaipur,Yes,Rahul,Morning,192,99,93
+O00322,C094,E03,2025-02-26,04:31,UPI,Dine In,February,Wednesday,2025,False,645,1016,1,Burger,Food,105,180,Rohan Joshi,Female,26,Udaipur,Yes,Rahul,Morning,180,105,75
+O00323,C041,E05,2025-04-20,23:52,UPI,Dine In,April,Sunday,2025,True,646,1005,3,Mocha,Coffee,43,169,Neha Sharma,Male,55,Udaipur,Yes,Karan,Morning,507,129,378
+O00323,C041,E05,2025-04-20,23:52,UPI,Dine In,April,Sunday,2025,True,647,1006,1,Flat White,Coffee,99,150,Neha Sharma,Male,55,Udaipur,Yes,Karan,Morning,150,99,51
+O00324,C045,E03,2025-02-13,15:49,UPI,Dine In,February,Thursday,2025,False,648,1011,2,Cheesecake,Dessert,107,150,Vikas Verma,Female,33,Kota,No,Rahul,Morning,300,214,86
+O00324,C045,E03,2025-02-13,15:49,UPI,Dine In,February,Thursday,2025,False,649,1008,1,Green Tea,Tea,34,77,Vikas Verma,Female,33,Kota,No,Rahul,Morning,77,34,43
+O00324,C045,E03,2025-02-13,15:49,UPI,Dine In,February,Thursday,2025,False,650,1001,1,Espresso,Coffee,111,165,Vikas Verma,Female,33,Kota,No,Rahul,Morning,165,111,54
+O00325,C009,E03,2025-05-07,12:31,UPI,Dine In,May,Wednesday,2025,False,651,1001,2,Espresso,Coffee,111,165,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,330,222,108
+O00325,C009,E03,2025-05-07,12:31,UPI,Dine In,May,Wednesday,2025,False,652,1016,3,Burger,Food,105,180,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,540,315,225
+O00325,C009,E03,2025-05-07,12:31,UPI,Dine In,May,Wednesday,2025,False,653,1007,2,Masala Tea,Tea,105,199,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,398,210,188
+O00326,C022,E04,2025-06-26,18:04,UPI,Takeaway,June,Thursday,2025,False,654,1013,2,Veg Sandwich,Food,113,242,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,484,226,258
+O00326,C022,E04,2025-06-26,18:04,UPI,Takeaway,June,Thursday,2025,False,655,1002,3,Americano,Coffee,33,167,Vikas Verma,Male,33,Alwar,Yes,Sneha,Evening,501,99,402
+O00327,C098,E02,2025-04-29,20:07,UPI,Dine In,April,Tuesday,2025,False,656,1010,1,Brownie,Dessert,59,163,Ananya Joshi,Male,20,Jaipur,Yes,Pooja,Morning,163,59,104
+O00328,C034,E01,2025-02-28,08:29,UPI,Dine In,February,Friday,2025,False,657,1006,1,Flat White,Coffee,99,150,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,150,99,51
+O00328,C034,E01,2025-02-28,08:29,UPI,Dine In,February,Friday,2025,False,658,1012,3,Muffin,Dessert,101,166,Neha Sharma,Male,30,Ajmer,No,Amit,Morning,498,303,195
+O00329,C012,E03,2025-06-21,18:56,UPI,Takeaway,June,Saturday,2025,True,659,1001,1,Espresso,Coffee,111,165,Kabir Verma,Female,26,Ajmer,No,Rahul,Morning,165,111,54
+O00329,C012,E03,2025-06-21,18:56,UPI,Takeaway,June,Saturday,2025,True,660,1007,3,Masala Tea,Tea,105,199,Kabir Verma,Female,26,Ajmer,No,Rahul,Morning,597,315,282
+O00329,C012,E03,2025-06-21,18:56,UPI,Takeaway,June,Saturday,2025,True,661,1011,2,Cheesecake,Dessert,107,150,Kabir Verma,Female,26,Ajmer,No,Rahul,Morning,300,214,86
+O00330,C007,E01,2025-01-29,22:23,UPI,Dine In,January,Wednesday,2025,False,662,1009,2,Lemon Tea,Tea,41,108,Neha Singh,Male,35,Jaipur,Yes,Amit,Morning,216,82,134
+O00330,C007,E01,2025-01-29,22:23,UPI,Dine In,January,Wednesday,2025,False,663,1011,2,Cheesecake,Dessert,107,150,Neha Singh,Male,35,Jaipur,Yes,Amit,Morning,300,214,86
+O00331,C013,E01,2025-02-13,13:51,UPI,Takeaway,February,Thursday,2025,False,664,1002,2,Americano,Coffee,33,167,Yash Gupta,Female,41,Ajmer,Yes,Amit,Morning,334,66,268
+O00332,C055,E01,2025-01-02,00:40,UPI,Takeaway,January,Thursday,2025,False,665,1004,1,Latte,Coffee,58,115,Priya Joshi,Female,53,Udaipur,Yes,Amit,Morning,115,58,57
+O00333,C022,E03,2025-02-08,00:11,Card,Takeaway,February,Saturday,2025,True,666,1010,2,Brownie,Dessert,59,163,Vikas Verma,Male,33,Alwar,Yes,Rahul,Morning,326,118,208
+O00334,C063,E03,2025-03-28,01:35,UPI,Takeaway,March,Friday,2025,False,667,1012,2,Muffin,Dessert,101,166,Ananya Verma,Male,30,Udaipur,No,Rahul,Morning,332,202,130
+O00335,C024,E04,2025-03-09,13:56,UPI,Takeaway,March,Sunday,2025,True,668,1009,2,Lemon Tea,Tea,41,108,Priya Joshi,Female,53,Ajmer,No,Sneha,Evening,216,82,134
+O00335,C024,E04,2025-03-09,13:56,UPI,Takeaway,March,Sunday,2025,True,669,1004,3,Latte,Coffee,58,115,Priya Joshi,Female,53,Ajmer,No,Sneha,Evening,345,174,171
+O00336,C020,E01,2025-01-12,13:18,UPI,Takeaway,January,Sunday,2025,True,670,1014,1,Paneer Sandwich,Food,99,192,Priya Singh,Male,52,Alwar,Yes,Amit,Morning,192,99,93
+O00336,C020,E01,2025-01-12,13:18,UPI,Takeaway,January,Sunday,2025,True,671,1013,3,Veg Sandwich,Food,113,242,Priya Singh,Male,52,Alwar,Yes,Amit,Morning,726,339,387
+O00336,C020,E01,2025-01-12,13:18,UPI,Takeaway,January,Sunday,2025,True,672,1010,1,Brownie,Dessert,59,163,Priya Singh,Male,52,Alwar,Yes,Amit,Morning,163,59,104
+O00337,C050,E05,2025-06-03,09:29,UPI,Takeaway,June,Tuesday,2025,False,673,1008,1,Green Tea,Tea,34,77,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,77,34,43
+O00337,C050,E05,2025-06-03,09:29,UPI,Takeaway,June,Tuesday,2025,False,674,1016,2,Burger,Food,105,180,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,360,210,150
+O00337,C050,E05,2025-06-03,09:29,UPI,Takeaway,June,Tuesday,2025,False,675,1005,3,Mocha,Coffee,43,169,Yash Joshi,Male,53,Kota,Yes,Karan,Morning,507,129,378
+O00338,C065,E05,2025-01-07,15:43,Card,Dine In,January,Tuesday,2025,False,676,1015,1,Pasta,Food,58,155,Simran Singh,Male,25,Kota,Yes,Karan,Morning,155,58,97
+O00339,C022,E02,2025-06-23,02:30,Cash,Dine In,June,Monday,2025,False,677,1014,1,Paneer Sandwich,Food,99,192,Vikas Verma,Male,33,Alwar,Yes,Pooja,Morning,192,99,93
+O00340,C088,E04,2025-06-30,05:51,UPI,Dine In,June,Monday,2025,False,678,1009,1,Lemon Tea,Tea,41,108,Ishita Singh,Female,44,Jaipur,Yes,Sneha,Evening,108,41,67
+O00340,C088,E04,2025-06-30,05:51,UPI,Dine In,June,Monday,2025,False,679,1006,1,Flat White,Coffee,99,150,Ishita Singh,Female,44,Jaipur,Yes,Sneha,Evening,150,99,51
+O00340,C088,E04,2025-06-30,05:51,UPI,Dine In,June,Monday,2025,False,680,1012,2,Muffin,Dessert,101,166,Ishita Singh,Female,44,Jaipur,Yes,Sneha,Evening,332,202,130
+O00341,C051,E05,2025-04-12,14:47,UPI,Takeaway,April,Saturday,2025,True,681,1015,1,Pasta,Food,58,155,Priya Singh,Male,24,Alwar,Yes,Karan,Morning,155,58,97
+O00341,C051,E05,2025-04-12,14:47,UPI,Takeaway,April,Saturday,2025,True,682,1016,3,Burger,Food,105,180,Priya Singh,Male,24,Alwar,Yes,Karan,Morning,540,315,225
+O00341,C051,E05,2025-04-12,14:47,UPI,Takeaway,April,Saturday,2025,True,683,1014,3,Paneer Sandwich,Food,99,192,Priya Singh,Male,24,Alwar,Yes,Karan,Morning,576,297,279
+O00342,C067,E04,2025-04-18,07:09,UPI,Dine In,April,Friday,2025,False,684,1004,1,Latte,Coffee,58,115,Neha Joshi,Female,45,Alwar,Yes,Sneha,Evening,115,58,57
+O00343,C100,E01,2025-04-13,18:24,Cash,Takeaway,April,Sunday,2025,True,685,1009,3,Lemon Tea,Tea,41,108,Rohan Meena,Male,47,Kota,No,Amit,Morning,324,123,201
+O00343,C100,E01,2025-04-13,18:24,Cash,Takeaway,April,Sunday,2025,True,686,1007,2,Masala Tea,Tea,105,199,Rohan Meena,Male,47,Kota,No,Amit,Morning,398,210,188
+O00344,C078,E04,2025-04-15,11:12,UPI,Takeaway,April,Tuesday,2025,False,687,1005,3,Mocha,Coffee,43,169,Kabir Meena,Male,47,Udaipur,Yes,Sneha,Evening,507,129,378
+O00344,C078,E04,2025-04-15,11:12,UPI,Takeaway,April,Tuesday,2025,False,688,1010,3,Brownie,Dessert,59,163,Kabir Meena,Male,47,Udaipur,Yes,Sneha,Evening,489,177,312
+O00345,C052,E01,2025-05-07,14:39,UPI,Takeaway,May,Wednesday,2025,False,689,1008,2,Green Tea,Tea,34,77,Vikas Singh,Male,39,Ajmer,No,Amit,Morning,154,68,86
+O00345,C052,E01,2025-05-07,14:39,UPI,Takeaway,May,Wednesday,2025,False,690,1001,2,Espresso,Coffee,111,165,Vikas Singh,Male,39,Ajmer,No,Amit,Morning,330,222,108
+O00345,C052,E01,2025-05-07,14:39,UPI,Takeaway,May,Wednesday,2025,False,691,1012,2,Muffin,Dessert,101,166,Vikas Singh,Male,39,Ajmer,No,Amit,Morning,332,202,130
+O00346,C044,E03,2025-01-05,00:23,UPI,Takeaway,January,Sunday,2025,True,692,1004,1,Latte,Coffee,58,115,Yash Sharma,Female,55,Alwar,No,Rahul,Morning,115,58,57
+O00346,C044,E03,2025-01-05,00:23,UPI,Takeaway,January,Sunday,2025,True,693,1014,2,Paneer Sandwich,Food,99,192,Yash Sharma,Female,55,Alwar,No,Rahul,Morning,384,198,186
+O00346,C044,E03,2025-01-05,00:23,UPI,Takeaway,January,Sunday,2025,True,694,1016,3,Burger,Food,105,180,Yash Sharma,Female,55,Alwar,No,Rahul,Morning,540,315,225
+O00347,C100,E03,2025-03-22,23:58,UPI,Takeaway,March,Saturday,2025,True,695,1003,1,Cappuccino,Coffee,65,136,Rohan Meena,Male,47,Kota,No,Rahul,Morning,136,65,71
+O00347,C100,E03,2025-03-22,23:58,UPI,Takeaway,March,Saturday,2025,True,696,1004,2,Latte,Coffee,58,115,Rohan Meena,Male,47,Kota,No,Rahul,Morning,230,116,114
+O00347,C100,E03,2025-03-22,23:58,UPI,Takeaway,March,Saturday,2025,True,697,1008,3,Green Tea,Tea,34,77,Rohan Meena,Male,47,Kota,No,Rahul,Morning,231,102,129
+O00348,C098,E05,2025-03-30,12:38,Card,Dine In,March,Sunday,2025,True,698,1006,3,Flat White,Coffee,99,150,Ananya Joshi,Male,20,Jaipur,Yes,Karan,Morning,450,297,153
+O00348,C098,E05,2025-03-30,12:38,Card,Dine In,March,Sunday,2025,True,699,1002,3,Americano,Coffee,33,167,Ananya Joshi,Male,20,Jaipur,Yes,Karan,Morning,501,99,402
+O00348,C098,E05,2025-03-30,12:38,Card,Dine In,March,Sunday,2025,True,700,1005,2,Mocha,Coffee,43,169,Ananya Joshi,Male,20,Jaipur,Yes,Karan,Morning,338,86,252
+O00349,C100,E05,2025-01-26,00:39,Card,Dine In,January,Sunday,2025,True,701,1007,1,Masala Tea,Tea,105,199,Rohan Meena,Male,47,Kota,No,Karan,Morning,199,105,94
+O00350,C008,E02,2025-06-02,16:48,UPI,Dine In,June,Monday,2025,False,702,1007,2,Masala Tea,Tea,105,199,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,398,210,188
+O00350,C008,E02,2025-06-02,16:48,UPI,Dine In,June,Monday,2025,False,703,1005,2,Mocha,Coffee,43,169,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,338,86,252
+O00351,C051,E01,2025-04-03,06:55,Cash,Dine In,April,Thursday,2025,False,704,1016,2,Burger,Food,105,180,Priya Singh,Male,24,Alwar,Yes,Amit,Morning,360,210,150
+O00351,C051,E01,2025-04-03,06:55,Cash,Dine In,April,Thursday,2025,False,705,1010,1,Brownie,Dessert,59,163,Priya Singh,Male,24,Alwar,Yes,Amit,Morning,163,59,104
+O00352,C061,E05,2025-06-25,04:34,UPI,Takeaway,June,Wednesday,2025,False,706,1009,3,Lemon Tea,Tea,41,108,Ananya Singh,Male,24,Udaipur,Yes,Karan,Morning,324,123,201
+O00353,C089,E01,2025-06-01,14:07,UPI,Takeaway,June,Sunday,2025,True,707,1006,3,Flat White,Coffee,99,150,Ishita Gupta,Male,54,Udaipur,No,Amit,Morning,450,297,153
+O00354,C028,E02,2025-05-23,07:07,UPI,Dine In,May,Friday,2025,False,708,1014,1,Paneer Sandwich,Food,99,192,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,192,99,93
+O00354,C028,E02,2025-05-23,07:07,UPI,Dine In,May,Friday,2025,False,709,1009,3,Lemon Tea,Tea,41,108,Yash Meena,Male,55,Ajmer,Yes,Pooja,Morning,324,123,201
+O00355,C061,E02,2025-01-02,22:52,UPI,Dine In,January,Thursday,2025,False,710,1009,3,Lemon Tea,Tea,41,108,Ananya Singh,Male,24,Udaipur,Yes,Pooja,Morning,324,123,201
+O00356,C040,E03,2025-05-27,21:28,UPI,Takeaway,May,Tuesday,2025,False,711,1015,1,Pasta,Food,58,155,Priya Verma,Female,31,Jaipur,Yes,Rahul,Morning,155,58,97
+O00356,C040,E03,2025-05-27,21:28,UPI,Takeaway,May,Tuesday,2025,False,712,1005,2,Mocha,Coffee,43,169,Priya Verma,Female,31,Jaipur,Yes,Rahul,Morning,338,86,252
+O00357,C087,E05,2025-02-25,08:05,Cash,Takeaway,February,Tuesday,2025,False,713,1004,3,Latte,Coffee,58,115,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,345,174,171
+O00357,C087,E05,2025-02-25,08:05,Cash,Takeaway,February,Tuesday,2025,False,714,1001,2,Espresso,Coffee,111,165,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,330,222,108
+O00357,C087,E05,2025-02-25,08:05,Cash,Takeaway,February,Tuesday,2025,False,715,1009,3,Lemon Tea,Tea,41,108,Ishita Joshi,Male,31,Jaipur,No,Karan,Morning,324,123,201
+O00358,C077,E05,2025-04-29,04:16,UPI,Dine In,April,Tuesday,2025,False,716,1003,2,Cappuccino,Coffee,65,136,Ananya Verma,Male,19,Jaipur,Yes,Karan,Morning,272,130,142
+O00358,C077,E05,2025-04-29,04:16,UPI,Dine In,April,Tuesday,2025,False,717,1006,3,Flat White,Coffee,99,150,Ananya Verma,Male,19,Jaipur,Yes,Karan,Morning,450,297,153
+O00359,C036,E03,2025-03-01,12:32,Cash,Takeaway,March,Saturday,2025,True,718,1005,3,Mocha,Coffee,43,169,Rohan Gupta,Male,21,Alwar,Yes,Rahul,Morning,507,129,378
+O00360,C031,E01,2025-05-20,16:24,Cash,Takeaway,May,Tuesday,2025,False,719,1011,3,Cheesecake,Dessert,107,150,Simran Verma,Female,33,Udaipur,No,Amit,Morning,450,321,129
+O00360,C031,E01,2025-05-20,16:24,Cash,Takeaway,May,Tuesday,2025,False,720,1016,1,Burger,Food,105,180,Simran Verma,Female,33,Udaipur,No,Amit,Morning,180,105,75
+O00360,C031,E01,2025-05-20,16:24,Cash,Takeaway,May,Tuesday,2025,False,721,1003,3,Cappuccino,Coffee,65,136,Simran Verma,Female,33,Udaipur,No,Amit,Morning,408,195,213
+O00361,C038,E03,2025-04-01,21:03,Card,Takeaway,April,Tuesday,2025,False,722,1002,3,Americano,Coffee,33,167,Ananya Gupta,Male,28,Udaipur,Yes,Rahul,Morning,501,99,402
+O00361,C038,E03,2025-04-01,21:03,Card,Takeaway,April,Tuesday,2025,False,723,1010,3,Brownie,Dessert,59,163,Ananya Gupta,Male,28,Udaipur,Yes,Rahul,Morning,489,177,312
+O00362,C025,E03,2025-05-29,21:13,Cash,Dine In,May,Thursday,2025,False,724,1016,2,Burger,Food,105,180,Simran Meena,Female,31,Alwar,Yes,Rahul,Morning,360,210,150
+O00362,C025,E03,2025-05-29,21:13,Cash,Dine In,May,Thursday,2025,False,725,1015,3,Pasta,Food,58,155,Simran Meena,Female,31,Alwar,Yes,Rahul,Morning,465,174,291
+O00362,C025,E03,2025-05-29,21:13,Cash,Dine In,May,Thursday,2025,False,726,1011,2,Cheesecake,Dessert,107,150,Simran Meena,Female,31,Alwar,Yes,Rahul,Morning,300,214,86
+O00363,C022,E05,2025-06-04,05:41,UPI,Dine In,June,Wednesday,2025,False,727,1005,2,Mocha,Coffee,43,169,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,338,86,252
+O00363,C022,E05,2025-06-04,05:41,UPI,Dine In,June,Wednesday,2025,False,728,1012,3,Muffin,Dessert,101,166,Vikas Verma,Male,33,Alwar,Yes,Karan,Morning,498,303,195
+O00364,C072,E02,2025-05-28,11:42,Card,Takeaway,May,Wednesday,2025,False,729,1003,1,Cappuccino,Coffee,65,136,Ananya Gupta,Female,29,Alwar,No,Pooja,Morning,136,65,71
+O00364,C072,E02,2025-05-28,11:42,Card,Takeaway,May,Wednesday,2025,False,730,1004,3,Latte,Coffee,58,115,Ananya Gupta,Female,29,Alwar,No,Pooja,Morning,345,174,171
+O00364,C072,E02,2025-05-28,11:42,Card,Takeaway,May,Wednesday,2025,False,731,1006,2,Flat White,Coffee,99,150,Ananya Gupta,Female,29,Alwar,No,Pooja,Morning,300,198,102
+O00365,C043,E03,2025-03-18,21:04,UPI,Takeaway,March,Tuesday,2025,False,732,1004,1,Latte,Coffee,58,115,Ananya Gupta,Male,54,Ajmer,Yes,Rahul,Morning,115,58,57
+O00365,C043,E03,2025-03-18,21:04,UPI,Takeaway,March,Tuesday,2025,False,733,1008,3,Green Tea,Tea,34,77,Ananya Gupta,Male,54,Ajmer,Yes,Rahul,Morning,231,102,129
+O00366,C075,E05,2025-04-17,13:40,UPI,Dine In,April,Thursday,2025,False,734,1004,2,Latte,Coffee,58,115,Ananya Meena,Female,28,Jaipur,No,Karan,Morning,230,116,114
+O00366,C075,E05,2025-04-17,13:40,UPI,Dine In,April,Thursday,2025,False,735,1014,3,Paneer Sandwich,Food,99,192,Ananya Meena,Female,28,Jaipur,No,Karan,Morning,576,297,279
+O00366,C075,E05,2025-04-17,13:40,UPI,Dine In,April,Thursday,2025,False,736,1011,2,Cheesecake,Dessert,107,150,Ananya Meena,Female,28,Jaipur,No,Karan,Morning,300,214,86
+O00367,C007,E02,2025-03-17,12:53,UPI,Dine In,March,Monday,2025,False,737,1014,2,Paneer Sandwich,Food,99,192,Neha Singh,Male,35,Jaipur,Yes,Pooja,Morning,384,198,186
+O00367,C007,E02,2025-03-17,12:53,UPI,Dine In,March,Monday,2025,False,738,1010,1,Brownie,Dessert,59,163,Neha Singh,Male,35,Jaipur,Yes,Pooja,Morning,163,59,104
+O00368,C092,E02,2025-02-27,22:18,Cash,Takeaway,February,Thursday,2025,False,739,1006,3,Flat White,Coffee,99,150,Ishita Singh,Female,28,Udaipur,Yes,Pooja,Morning,450,297,153
+O00368,C092,E02,2025-02-27,22:18,Cash,Takeaway,February,Thursday,2025,False,740,1016,1,Burger,Food,105,180,Ishita Singh,Female,28,Udaipur,Yes,Pooja,Morning,180,105,75
+O00369,C058,E03,2025-01-02,04:35,UPI,Dine In,January,Thursday,2025,False,741,1006,1,Flat White,Coffee,99,150,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,150,99,51
+O00369,C058,E03,2025-01-02,04:35,UPI,Dine In,January,Thursday,2025,False,742,1008,1,Green Tea,Tea,34,77,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,77,34,43
+O00369,C058,E03,2025-01-02,04:35,UPI,Dine In,January,Thursday,2025,False,743,1013,3,Veg Sandwich,Food,113,242,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,726,339,387
+O00370,C082,E04,2025-03-21,06:54,UPI,Takeaway,March,Friday,2025,False,744,1001,3,Espresso,Coffee,111,165,Kabir Joshi,Female,46,Alwar,No,Sneha,Evening,495,333,162
+O00370,C082,E04,2025-03-21,06:54,UPI,Takeaway,March,Friday,2025,False,745,1016,1,Burger,Food,105,180,Kabir Joshi,Female,46,Alwar,No,Sneha,Evening,180,105,75
+O00371,C048,E01,2025-05-14,08:17,Card,Dine In,May,Wednesday,2025,False,746,1001,3,Espresso,Coffee,111,165,Simran Singh,Male,40,Jaipur,Yes,Amit,Morning,495,333,162
+O00372,C032,E02,2025-05-14,21:09,Cash,Takeaway,May,Wednesday,2025,False,747,1005,2,Mocha,Coffee,43,169,Ananya Sharma,Male,45,Kota,No,Pooja,Morning,338,86,252
+O00372,C032,E02,2025-05-14,21:09,Cash,Takeaway,May,Wednesday,2025,False,748,1002,3,Americano,Coffee,33,167,Ananya Sharma,Male,45,Kota,No,Pooja,Morning,501,99,402
+O00373,C040,E02,2025-04-18,11:56,UPI,Dine In,April,Friday,2025,False,749,1010,3,Brownie,Dessert,59,163,Priya Verma,Female,31,Jaipur,Yes,Pooja,Morning,489,177,312
+O00373,C040,E02,2025-04-18,11:56,UPI,Dine In,April,Friday,2025,False,750,1008,3,Green Tea,Tea,34,77,Priya Verma,Female,31,Jaipur,Yes,Pooja,Morning,231,102,129
+O00374,C068,E03,2025-04-19,21:34,UPI,Dine In,April,Saturday,2025,True,751,1016,1,Burger,Food,105,180,Ishita Meena,Male,34,Jaipur,No,Rahul,Morning,180,105,75
+O00374,C068,E03,2025-04-19,21:34,UPI,Dine In,April,Saturday,2025,True,752,1006,1,Flat White,Coffee,99,150,Ishita Meena,Male,34,Jaipur,No,Rahul,Morning,150,99,51
+O00375,C052,E01,2025-06-22,22:14,UPI,Dine In,June,Sunday,2025,True,753,1001,3,Espresso,Coffee,111,165,Vikas Singh,Male,39,Ajmer,No,Amit,Morning,495,333,162
+O00376,C022,E01,2025-04-03,04:46,UPI,Dine In,April,Thursday,2025,False,754,1009,3,Lemon Tea,Tea,41,108,Vikas Verma,Male,33,Alwar,Yes,Amit,Morning,324,123,201
+O00376,C022,E01,2025-04-03,04:46,UPI,Dine In,April,Thursday,2025,False,755,1013,3,Veg Sandwich,Food,113,242,Vikas Verma,Male,33,Alwar,Yes,Amit,Morning,726,339,387
+O00377,C077,E01,2025-01-10,04:16,Cash,Dine In,January,Friday,2025,False,756,1004,2,Latte,Coffee,58,115,Ananya Verma,Male,19,Jaipur,Yes,Amit,Morning,230,116,114
+O00378,C049,E01,2025-03-23,05:14,UPI,Takeaway,March,Sunday,2025,True,757,1005,3,Mocha,Coffee,43,169,Neha Singh,Male,46,Alwar,No,Amit,Morning,507,129,378
+O00378,C049,E01,2025-03-23,05:14,UPI,Takeaway,March,Sunday,2025,True,758,1004,3,Latte,Coffee,58,115,Neha Singh,Male,46,Alwar,No,Amit,Morning,345,174,171
+O00378,C049,E01,2025-03-23,05:14,UPI,Takeaway,March,Sunday,2025,True,759,1012,1,Muffin,Dessert,101,166,Neha Singh,Male,46,Alwar,No,Amit,Morning,166,101,65
+O00379,C054,E01,2025-02-25,03:35,Cash,Takeaway,February,Tuesday,2025,False,760,1005,1,Mocha,Coffee,43,169,Vikas Sharma,Male,39,Ajmer,No,Amit,Morning,169,43,126
+O00379,C054,E01,2025-02-25,03:35,Cash,Takeaway,February,Tuesday,2025,False,761,1007,3,Masala Tea,Tea,105,199,Vikas Sharma,Male,39,Ajmer,No,Amit,Morning,597,315,282
+O00379,C054,E01,2025-02-25,03:35,Cash,Takeaway,February,Tuesday,2025,False,762,1014,3,Paneer Sandwich,Food,99,192,Vikas Sharma,Male,39,Ajmer,No,Amit,Morning,576,297,279
+O00380,C016,E03,2025-04-23,18:45,UPI,Dine In,April,Wednesday,2025,False,763,1007,1,Masala Tea,Tea,105,199,Yash Gupta,Female,53,Jaipur,Yes,Rahul,Morning,199,105,94
+O00380,C016,E03,2025-04-23,18:45,UPI,Dine In,April,Wednesday,2025,False,764,1010,2,Brownie,Dessert,59,163,Yash Gupta,Female,53,Jaipur,Yes,Rahul,Morning,326,118,208
+O00381,C067,E02,2025-06-01,16:52,UPI,Takeaway,June,Sunday,2025,True,765,1006,3,Flat White,Coffee,99,150,Neha Joshi,Female,45,Alwar,Yes,Pooja,Morning,450,297,153
+O00381,C067,E02,2025-06-01,16:52,UPI,Takeaway,June,Sunday,2025,True,766,1001,2,Espresso,Coffee,111,165,Neha Joshi,Female,45,Alwar,Yes,Pooja,Morning,330,222,108
+O00382,C027,E04,2025-06-16,01:24,UPI,Dine In,June,Monday,2025,False,767,1003,1,Cappuccino,Coffee,65,136,Rohan Verma,Male,22,Kota,Yes,Sneha,Evening,136,65,71
+O00383,C074,E04,2025-06-02,09:11,UPI,Dine In,June,Monday,2025,False,768,1003,1,Cappuccino,Coffee,65,136,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,136,65,71
+O00383,C074,E04,2025-06-02,09:11,UPI,Dine In,June,Monday,2025,False,769,1012,2,Muffin,Dessert,101,166,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,332,202,130
+O00383,C074,E04,2025-06-02,09:11,UPI,Dine In,June,Monday,2025,False,770,1015,3,Pasta,Food,58,155,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,465,174,291
+O00384,C059,E03,2025-02-12,09:57,UPI,Dine In,February,Wednesday,2025,False,771,1006,1,Flat White,Coffee,99,150,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,150,99,51
+O00385,C038,E03,2025-06-05,11:31,Cash,Takeaway,June,Thursday,2025,False,772,1004,1,Latte,Coffee,58,115,Ananya Gupta,Male,28,Udaipur,Yes,Rahul,Morning,115,58,57
+O00385,C038,E03,2025-06-05,11:31,Cash,Takeaway,June,Thursday,2025,False,773,1002,1,Americano,Coffee,33,167,Ananya Gupta,Male,28,Udaipur,Yes,Rahul,Morning,167,33,134
+O00386,C018,E02,2025-06-05,10:26,UPI,Takeaway,June,Thursday,2025,False,774,1009,1,Lemon Tea,Tea,41,108,Priya Gupta,Male,34,Alwar,Yes,Pooja,Morning,108,41,67
+O00386,C018,E02,2025-06-05,10:26,UPI,Takeaway,June,Thursday,2025,False,775,1015,2,Pasta,Food,58,155,Priya Gupta,Male,34,Alwar,Yes,Pooja,Morning,310,116,194
+O00386,C018,E02,2025-06-05,10:26,UPI,Takeaway,June,Thursday,2025,False,776,1012,2,Muffin,Dessert,101,166,Priya Gupta,Male,34,Alwar,Yes,Pooja,Morning,332,202,130
+O00387,C015,E04,2025-02-03,14:58,UPI,Takeaway,February,Monday,2025,False,777,1013,2,Veg Sandwich,Food,113,242,Priya Joshi,Female,22,Udaipur,No,Sneha,Evening,484,226,258
+O00387,C015,E04,2025-02-03,14:58,UPI,Takeaway,February,Monday,2025,False,778,1012,2,Muffin,Dessert,101,166,Priya Joshi,Female,22,Udaipur,No,Sneha,Evening,332,202,130
+O00388,C022,E01,2025-04-29,10:51,UPI,Dine In,April,Tuesday,2025,False,779,1004,2,Latte,Coffee,58,115,Vikas Verma,Male,33,Alwar,Yes,Amit,Morning,230,116,114
+O00389,C076,E04,2025-06-16,05:12,Cash,Takeaway,June,Monday,2025,False,780,1013,2,Veg Sandwich,Food,113,242,Simran Joshi,Female,23,Ajmer,No,Sneha,Evening,484,226,258
+O00390,C004,E02,2025-04-22,15:03,UPI,Takeaway,April,Tuesday,2025,False,781,1014,2,Paneer Sandwich,Food,99,192,Ishita Sharma,Female,41,Alwar,Yes,Pooja,Morning,384,198,186
+O00391,C009,E03,2025-01-09,16:51,Cash,Dine In,January,Thursday,2025,False,782,1008,2,Green Tea,Tea,34,77,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,154,68,86
+O00391,C009,E03,2025-01-09,16:51,Cash,Dine In,January,Thursday,2025,False,783,1011,3,Cheesecake,Dessert,107,150,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,450,321,129
+O00391,C009,E03,2025-01-09,16:51,Cash,Dine In,January,Thursday,2025,False,784,1014,3,Paneer Sandwich,Food,99,192,Vikas Joshi,Male,38,Jaipur,Yes,Rahul,Morning,576,297,279
+O00392,C090,E05,2025-05-06,14:58,UPI,Dine In,May,Tuesday,2025,False,785,1012,3,Muffin,Dessert,101,166,Aarav Singh,Female,42,Udaipur,Yes,Karan,Morning,498,303,195
+O00392,C090,E05,2025-05-06,14:58,UPI,Dine In,May,Tuesday,2025,False,786,1011,3,Cheesecake,Dessert,107,150,Aarav Singh,Female,42,Udaipur,Yes,Karan,Morning,450,321,129
+O00393,C020,E05,2025-03-12,09:33,Card,Dine In,March,Wednesday,2025,False,787,1006,3,Flat White,Coffee,99,150,Priya Singh,Male,52,Alwar,Yes,Karan,Morning,450,297,153
+O00394,C061,E04,2025-06-04,20:39,Card,Dine In,June,Wednesday,2025,False,788,1011,2,Cheesecake,Dessert,107,150,Ananya Singh,Male,24,Udaipur,Yes,Sneha,Evening,300,214,86
+O00394,C061,E04,2025-06-04,20:39,Card,Dine In,June,Wednesday,2025,False,789,1004,2,Latte,Coffee,58,115,Ananya Singh,Male,24,Udaipur,Yes,Sneha,Evening,230,116,114
+O00395,C065,E02,2025-01-10,11:59,UPI,Takeaway,January,Friday,2025,False,790,1008,2,Green Tea,Tea,34,77,Simran Singh,Male,25,Kota,Yes,Pooja,Morning,154,68,86
+O00395,C065,E02,2025-01-10,11:59,UPI,Takeaway,January,Friday,2025,False,791,1002,2,Americano,Coffee,33,167,Simran Singh,Male,25,Kota,Yes,Pooja,Morning,334,66,268
+O00396,C074,E04,2025-05-27,04:45,UPI,Takeaway,May,Tuesday,2025,False,792,1011,2,Cheesecake,Dessert,107,150,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,300,214,86
+O00396,C074,E04,2025-05-27,04:45,UPI,Takeaway,May,Tuesday,2025,False,793,1002,3,Americano,Coffee,33,167,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,501,99,402
+O00397,C003,E01,2025-04-30,06:37,UPI,Dine In,April,Wednesday,2025,False,794,1001,3,Espresso,Coffee,111,165,Neha Singh,Female,20,Udaipur,Yes,Amit,Morning,495,333,162
+O00397,C003,E01,2025-04-30,06:37,UPI,Dine In,April,Wednesday,2025,False,795,1014,3,Paneer Sandwich,Food,99,192,Neha Singh,Female,20,Udaipur,Yes,Amit,Morning,576,297,279
+O00397,C003,E01,2025-04-30,06:37,UPI,Dine In,April,Wednesday,2025,False,796,1002,3,Americano,Coffee,33,167,Neha Singh,Female,20,Udaipur,Yes,Amit,Morning,501,99,402
+O00398,C066,E05,2025-02-25,18:48,UPI,Takeaway,February,Tuesday,2025,False,797,1012,1,Muffin,Dessert,101,166,Yash Singh,Male,24,Alwar,No,Karan,Morning,166,101,65
+O00398,C066,E05,2025-02-25,18:48,UPI,Takeaway,February,Tuesday,2025,False,798,1014,1,Paneer Sandwich,Food,99,192,Yash Singh,Male,24,Alwar,No,Karan,Morning,192,99,93
+O00399,C059,E03,2025-06-04,00:52,UPI,Takeaway,June,Wednesday,2025,False,799,1012,1,Muffin,Dessert,101,166,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,166,101,65
+O00399,C059,E03,2025-06-04,00:52,UPI,Takeaway,June,Wednesday,2025,False,800,1016,1,Burger,Food,105,180,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,180,105,75
+O00399,C059,E03,2025-06-04,00:52,UPI,Takeaway,June,Wednesday,2025,False,801,1008,3,Green Tea,Tea,34,77,Rohan Singh,Female,27,Ajmer,Yes,Rahul,Morning,231,102,129
+O00400,C001,E03,2025-02-10,16:49,UPI,Takeaway,February,Monday,2025,False,802,1012,1,Muffin,Dessert,101,166,Aarav Verma,Female,39,Kota,Yes,Rahul,Morning,166,101,65
+O00400,C001,E03,2025-02-10,16:49,UPI,Takeaway,February,Monday,2025,False,803,1016,1,Burger,Food,105,180,Aarav Verma,Female,39,Kota,Yes,Rahul,Morning,180,105,75
+O00400,C001,E03,2025-02-10,16:49,UPI,Takeaway,February,Monday,2025,False,804,1002,2,Americano,Coffee,33,167,Aarav Verma,Female,39,Kota,Yes,Rahul,Morning,334,66,268
+O00401,C092,E04,2025-01-26,21:37,UPI,Dine In,January,Sunday,2025,True,805,1004,2,Latte,Coffee,58,115,Ishita Singh,Female,28,Udaipur,Yes,Sneha,Evening,230,116,114
+O00402,C059,E02,2025-02-09,13:55,Cash,Dine In,February,Sunday,2025,True,806,1002,3,Americano,Coffee,33,167,Rohan Singh,Female,27,Ajmer,Yes,Pooja,Morning,501,99,402
+O00402,C059,E02,2025-02-09,13:55,Cash,Dine In,February,Sunday,2025,True,807,1015,3,Pasta,Food,58,155,Rohan Singh,Female,27,Ajmer,Yes,Pooja,Morning,465,174,291
+O00403,C016,E04,2025-04-18,12:33,UPI,Dine In,April,Friday,2025,False,808,1001,3,Espresso,Coffee,111,165,Yash Gupta,Female,53,Jaipur,Yes,Sneha,Evening,495,333,162
+O00403,C016,E04,2025-04-18,12:33,UPI,Dine In,April,Friday,2025,False,809,1009,1,Lemon Tea,Tea,41,108,Yash Gupta,Female,53,Jaipur,Yes,Sneha,Evening,108,41,67
+O00404,C056,E05,2025-04-12,01:04,UPI,Dine In,April,Saturday,2025,True,810,1006,1,Flat White,Coffee,99,150,Rohan Sharma,Male,52,Jaipur,No,Karan,Morning,150,99,51
+O00404,C056,E05,2025-04-12,01:04,UPI,Dine In,April,Saturday,2025,True,811,1012,1,Muffin,Dessert,101,166,Rohan Sharma,Male,52,Jaipur,No,Karan,Morning,166,101,65
+O00404,C056,E05,2025-04-12,01:04,UPI,Dine In,April,Saturday,2025,True,812,1014,2,Paneer Sandwich,Food,99,192,Rohan Sharma,Male,52,Jaipur,No,Karan,Morning,384,198,186
+O00405,C077,E05,2025-05-01,00:45,Card,Takeaway,May,Thursday,2025,False,813,1008,2,Green Tea,Tea,34,77,Ananya Verma,Male,19,Jaipur,Yes,Karan,Morning,154,68,86
+O00405,C077,E05,2025-05-01,00:45,Card,Takeaway,May,Thursday,2025,False,814,1005,2,Mocha,Coffee,43,169,Ananya Verma,Male,19,Jaipur,Yes,Karan,Morning,338,86,252
+O00406,C038,E04,2025-06-27,00:08,Cash,Dine In,June,Friday,2025,False,815,1010,3,Brownie,Dessert,59,163,Ananya Gupta,Male,28,Udaipur,Yes,Sneha,Evening,489,177,312
+O00406,C038,E04,2025-06-27,00:08,Cash,Dine In,June,Friday,2025,False,816,1014,3,Paneer Sandwich,Food,99,192,Ananya Gupta,Male,28,Udaipur,Yes,Sneha,Evening,576,297,279
+O00407,C041,E05,2025-06-07,00:29,UPI,Dine In,June,Saturday,2025,True,817,1010,3,Brownie,Dessert,59,163,Neha Sharma,Male,55,Udaipur,Yes,Karan,Morning,489,177,312
+O00408,C087,E02,2025-03-05,04:36,Card,Dine In,March,Wednesday,2025,False,818,1011,2,Cheesecake,Dessert,107,150,Ishita Joshi,Male,31,Jaipur,No,Pooja,Morning,300,214,86
+O00408,C087,E02,2025-03-05,04:36,Card,Dine In,March,Wednesday,2025,False,819,1012,3,Muffin,Dessert,101,166,Ishita Joshi,Male,31,Jaipur,No,Pooja,Morning,498,303,195
+O00408,C087,E02,2025-03-05,04:36,Card,Dine In,March,Wednesday,2025,False,820,1002,2,Americano,Coffee,33,167,Ishita Joshi,Male,31,Jaipur,No,Pooja,Morning,334,66,268
+O00409,C074,E04,2025-04-17,10:19,Cash,Takeaway,April,Thursday,2025,False,821,1001,1,Espresso,Coffee,111,165,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,165,111,54
+O00409,C074,E04,2025-04-17,10:19,Cash,Takeaway,April,Thursday,2025,False,822,1009,1,Lemon Tea,Tea,41,108,Ishita Meena,Female,47,Udaipur,No,Sneha,Evening,108,41,67
+O00410,C019,E01,2025-03-11,16:02,Cash,Dine In,March,Tuesday,2025,False,823,1006,3,Flat White,Coffee,99,150,Simran Sharma,Female,50,Alwar,Yes,Amit,Morning,450,297,153
+O00410,C019,E01,2025-03-11,16:02,Cash,Dine In,March,Tuesday,2025,False,824,1005,2,Mocha,Coffee,43,169,Simran Sharma,Female,50,Alwar,Yes,Amit,Morning,338,86,252
+O00411,C008,E03,2025-01-27,23:45,UPI,Dine In,January,Monday,2025,False,825,1015,3,Pasta,Food,58,155,Simran Joshi,Male,28,Udaipur,No,Rahul,Morning,465,174,291
+O00411,C008,E03,2025-01-27,23:45,UPI,Dine In,January,Monday,2025,False,826,1002,3,Americano,Coffee,33,167,Simran Joshi,Male,28,Udaipur,No,Rahul,Morning,501,99,402
+O00412,C072,E02,2025-05-15,22:53,Cash,Takeaway,May,Thursday,2025,False,827,1010,3,Brownie,Dessert,59,163,Ananya Gupta,Female,29,Alwar,No,Pooja,Morning,489,177,312
+O00413,C007,E04,2025-05-02,07:13,UPI,Takeaway,May,Friday,2025,False,828,1002,2,Americano,Coffee,33,167,Neha Singh,Male,35,Jaipur,Yes,Sneha,Evening,334,66,268
+O00413,C007,E04,2025-05-02,07:13,UPI,Takeaway,May,Friday,2025,False,829,1001,1,Espresso,Coffee,111,165,Neha Singh,Male,35,Jaipur,Yes,Sneha,Evening,165,111,54
+O00413,C007,E04,2025-05-02,07:13,UPI,Takeaway,May,Friday,2025,False,830,1012,3,Muffin,Dessert,101,166,Neha Singh,Male,35,Jaipur,Yes,Sneha,Evening,498,303,195
+O00414,C100,E04,2025-06-08,12:03,Cash,Takeaway,June,Sunday,2025,True,831,1007,1,Masala Tea,Tea,105,199,Rohan Meena,Male,47,Kota,No,Sneha,Evening,199,105,94
+O00414,C100,E04,2025-06-08,12:03,Cash,Takeaway,June,Sunday,2025,True,832,1013,2,Veg Sandwich,Food,113,242,Rohan Meena,Male,47,Kota,No,Sneha,Evening,484,226,258
+O00414,C100,E04,2025-06-08,12:03,Cash,Takeaway,June,Sunday,2025,True,833,1012,2,Muffin,Dessert,101,166,Rohan Meena,Male,47,Kota,No,Sneha,Evening,332,202,130
+O00415,C088,E01,2025-02-02,15:11,UPI,Dine In,February,Sunday,2025,True,834,1004,2,Latte,Coffee,58,115,Ishita Singh,Female,44,Jaipur,Yes,Amit,Morning,230,116,114
+O00415,C088,E01,2025-02-02,15:11,UPI,Dine In,February,Sunday,2025,True,835,1007,2,Masala Tea,Tea,105,199,Ishita Singh,Female,44,Jaipur,Yes,Amit,Morning,398,210,188
+O00415,C088,E01,2025-02-02,15:11,UPI,Dine In,February,Sunday,2025,True,836,1001,3,Espresso,Coffee,111,165,Ishita Singh,Female,44,Jaipur,Yes,Amit,Morning,495,333,162
+O00416,C017,E02,2025-02-18,10:28,UPI,Takeaway,February,Tuesday,2025,False,837,1011,2,Cheesecake,Dessert,107,150,Simran Singh,Female,25,Kota,No,Pooja,Morning,300,214,86
+O00417,C020,E01,2025-05-10,12:40,UPI,Takeaway,May,Saturday,2025,True,838,1002,3,Americano,Coffee,33,167,Priya Singh,Male,52,Alwar,Yes,Amit,Morning,501,99,402
+O00417,C020,E01,2025-05-10,12:40,UPI,Takeaway,May,Saturday,2025,True,839,1013,3,Veg Sandwich,Food,113,242,Priya Singh,Male,52,Alwar,Yes,Amit,Morning,726,339,387
+O00417,C020,E01,2025-05-10,12:40,UPI,Takeaway,May,Saturday,2025,True,840,1011,2,Cheesecake,Dessert,107,150,Priya Singh,Male,52,Alwar,Yes,Amit,Morning,300,214,86
+O00418,C074,E05,2025-03-31,15:14,UPI,Takeaway,March,Monday,2025,False,841,1008,1,Green Tea,Tea,34,77,Ishita Meena,Female,47,Udaipur,No,Karan,Morning,77,34,43
+O00418,C074,E05,2025-03-31,15:14,UPI,Takeaway,March,Monday,2025,False,842,1003,3,Cappuccino,Coffee,65,136,Ishita Meena,Female,47,Udaipur,No,Karan,Morning,408,195,213
+O00418,C074,E05,2025-03-31,15:14,UPI,Takeaway,March,Monday,2025,False,843,1009,1,Lemon Tea,Tea,41,108,Ishita Meena,Female,47,Udaipur,No,Karan,Morning,108,41,67
+O00419,C070,E05,2025-03-18,01:13,UPI,Takeaway,March,Tuesday,2025,False,844,1007,3,Masala Tea,Tea,105,199,Neha Meena,Female,25,Kota,No,Karan,Morning,597,315,282
+O00420,C043,E03,2025-03-02,18:01,UPI,Takeaway,March,Sunday,2025,True,845,1001,2,Espresso,Coffee,111,165,Ananya Gupta,Male,54,Ajmer,Yes,Rahul,Morning,330,222,108
+O00420,C043,E03,2025-03-02,18:01,UPI,Takeaway,March,Sunday,2025,True,846,1002,2,Americano,Coffee,33,167,Ananya Gupta,Male,54,Ajmer,Yes,Rahul,Morning,334,66,268
+O00420,C043,E03,2025-03-02,18:01,UPI,Takeaway,March,Sunday,2025,True,847,1011,1,Cheesecake,Dessert,107,150,Ananya Gupta,Male,54,Ajmer,Yes,Rahul,Morning,150,107,43
+O00421,C083,E05,2025-06-14,23:48,Card,Dine In,June,Saturday,2025,True,848,1011,2,Cheesecake,Dessert,107,150,Simran Gupta,Male,48,Udaipur,No,Karan,Morning,300,214,86
+O00422,C015,E04,2025-06-17,01:46,UPI,Takeaway,June,Tuesday,2025,False,849,1012,3,Muffin,Dessert,101,166,Priya Joshi,Female,22,Udaipur,No,Sneha,Evening,498,303,195
+O00423,C066,E04,2025-05-27,11:33,UPI,Takeaway,May,Tuesday,2025,False,850,1007,1,Masala Tea,Tea,105,199,Yash Singh,Male,24,Alwar,No,Sneha,Evening,199,105,94
+O00423,C066,E04,2025-05-27,11:33,UPI,Takeaway,May,Tuesday,2025,False,851,1006,1,Flat White,Coffee,99,150,Yash Singh,Male,24,Alwar,No,Sneha,Evening,150,99,51
+O00423,C066,E04,2025-05-27,11:33,UPI,Takeaway,May,Tuesday,2025,False,852,1009,1,Lemon Tea,Tea,41,108,Yash Singh,Male,24,Alwar,No,Sneha,Evening,108,41,67
+O00424,C099,E05,2025-06-27,05:06,UPI,Dine In,June,Friday,2025,False,853,1007,3,Masala Tea,Tea,105,199,Ananya Sharma,Male,33,Ajmer,No,Karan,Morning,597,315,282
+O00425,C014,E02,2025-03-19,13:23,UPI,Takeaway,March,Wednesday,2025,False,854,1003,1,Cappuccino,Coffee,65,136,Simran Gupta,Male,21,Jaipur,Yes,Pooja,Morning,136,65,71
+O00425,C014,E02,2025-03-19,13:23,UPI,Takeaway,March,Wednesday,2025,False,855,1012,1,Muffin,Dessert,101,166,Simran Gupta,Male,21,Jaipur,Yes,Pooja,Morning,166,101,65
+O00425,C014,E02,2025-03-19,13:23,UPI,Takeaway,March,Wednesday,2025,False,856,1011,2,Cheesecake,Dessert,107,150,Simran Gupta,Male,21,Jaipur,Yes,Pooja,Morning,300,214,86
+O00426,C043,E01,2025-05-11,20:02,UPI,Dine In,May,Sunday,2025,True,857,1009,3,Lemon Tea,Tea,41,108,Ananya Gupta,Male,54,Ajmer,Yes,Amit,Morning,324,123,201
+O00427,C074,E02,2025-01-14,03:45,Card,Takeaway,January,Tuesday,2025,False,858,1015,2,Pasta,Food,58,155,Ishita Meena,Female,47,Udaipur,No,Pooja,Morning,310,116,194
+O00427,C074,E02,2025-01-14,03:45,Card,Takeaway,January,Tuesday,2025,False,859,1011,2,Cheesecake,Dessert,107,150,Ishita Meena,Female,47,Udaipur,No,Pooja,Morning,300,214,86
+O00428,C003,E04,2025-02-27,22:23,Cash,Dine In,February,Thursday,2025,False,860,1003,3,Cappuccino,Coffee,65,136,Neha Singh,Female,20,Udaipur,Yes,Sneha,Evening,408,195,213
+O00428,C003,E04,2025-02-27,22:23,Cash,Dine In,February,Thursday,2025,False,861,1013,1,Veg Sandwich,Food,113,242,Neha Singh,Female,20,Udaipur,Yes,Sneha,Evening,242,113,129
+O00428,C003,E04,2025-02-27,22:23,Cash,Dine In,February,Thursday,2025,False,862,1012,3,Muffin,Dessert,101,166,Neha Singh,Female,20,Udaipur,Yes,Sneha,Evening,498,303,195
+O00429,C010,E03,2025-06-04,18:03,Card,Dine In,June,Wednesday,2025,False,863,1010,1,Brownie,Dessert,59,163,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,163,59,104
+O00429,C010,E03,2025-06-04,18:03,Card,Dine In,June,Wednesday,2025,False,864,1016,2,Burger,Food,105,180,Aarav Singh,Female,35,Jaipur,Yes,Rahul,Morning,360,210,150
+O00430,C057,E04,2025-05-20,15:32,UPI,Dine In,May,Tuesday,2025,False,865,1006,1,Flat White,Coffee,99,150,Yash Meena,Male,45,Ajmer,Yes,Sneha,Evening,150,99,51
+O00430,C057,E04,2025-05-20,15:32,UPI,Dine In,May,Tuesday,2025,False,866,1009,1,Lemon Tea,Tea,41,108,Yash Meena,Male,45,Ajmer,Yes,Sneha,Evening,108,41,67
+O00431,C051,E05,2025-05-17,06:37,UPI,Dine In,May,Saturday,2025,True,867,1012,3,Muffin,Dessert,101,166,Priya Singh,Male,24,Alwar,Yes,Karan,Morning,498,303,195
+O00431,C051,E05,2025-05-17,06:37,UPI,Dine In,May,Saturday,2025,True,868,1001,3,Espresso,Coffee,111,165,Priya Singh,Male,24,Alwar,Yes,Karan,Morning,495,333,162
+O00432,C016,E01,2025-01-27,01:40,UPI,Takeaway,January,Monday,2025,False,869,1003,3,Cappuccino,Coffee,65,136,Yash Gupta,Female,53,Jaipur,Yes,Amit,Morning,408,195,213
+O00432,C016,E01,2025-01-27,01:40,UPI,Takeaway,January,Monday,2025,False,870,1005,3,Mocha,Coffee,43,169,Yash Gupta,Female,53,Jaipur,Yes,Amit,Morning,507,129,378
+O00432,C016,E01,2025-01-27,01:40,UPI,Takeaway,January,Monday,2025,False,871,1004,3,Latte,Coffee,58,115,Yash Gupta,Female,53,Jaipur,Yes,Amit,Morning,345,174,171
+O00433,C028,E04,2025-03-04,22:18,Card,Dine In,March,Tuesday,2025,False,872,1006,1,Flat White,Coffee,99,150,Yash Meena,Male,55,Ajmer,Yes,Sneha,Evening,150,99,51
+O00434,C033,E02,2025-04-23,15:12,UPI,Dine In,April,Wednesday,2025,False,873,1015,1,Pasta,Food,58,155,Ishita Gupta,Male,24,Jaipur,No,Pooja,Morning,155,58,97
+O00434,C033,E02,2025-04-23,15:12,UPI,Dine In,April,Wednesday,2025,False,874,1011,2,Cheesecake,Dessert,107,150,Ishita Gupta,Male,24,Jaipur,No,Pooja,Morning,300,214,86
+O00434,C033,E02,2025-04-23,15:12,UPI,Dine In,April,Wednesday,2025,False,875,1009,3,Lemon Tea,Tea,41,108,Ishita Gupta,Male,24,Jaipur,No,Pooja,Morning,324,123,201
+O00435,C033,E01,2025-01-13,14:18,UPI,Takeaway,January,Monday,2025,False,876,1012,3,Muffin,Dessert,101,166,Ishita Gupta,Male,24,Jaipur,No,Amit,Morning,498,303,195
+O00435,C033,E01,2025-01-13,14:18,UPI,Takeaway,January,Monday,2025,False,877,1003,3,Cappuccino,Coffee,65,136,Ishita Gupta,Male,24,Jaipur,No,Amit,Morning,408,195,213
+O00436,C013,E03,2025-02-13,00:41,UPI,Dine In,February,Thursday,2025,False,878,1016,2,Burger,Food,105,180,Yash Gupta,Female,41,Ajmer,Yes,Rahul,Morning,360,210,150
+O00436,C013,E03,2025-02-13,00:41,UPI,Dine In,February,Thursday,2025,False,879,1008,3,Green Tea,Tea,34,77,Yash Gupta,Female,41,Ajmer,Yes,Rahul,Morning,231,102,129
+O00437,C040,E05,2025-05-01,09:03,UPI,Takeaway,May,Thursday,2025,False,880,1014,1,Paneer Sandwich,Food,99,192,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,192,99,93
+O00437,C040,E05,2025-05-01,09:03,UPI,Takeaway,May,Thursday,2025,False,881,1003,2,Cappuccino,Coffee,65,136,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,272,130,142
+O00438,C029,E04,2025-02-15,03:33,UPI,Takeaway,February,Saturday,2025,True,882,1011,2,Cheesecake,Dessert,107,150,Rohan Joshi,Male,32,Jaipur,Yes,Sneha,Evening,300,214,86
+O00439,C058,E03,2025-03-26,14:12,Cash,Takeaway,March,Wednesday,2025,False,883,1004,3,Latte,Coffee,58,115,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,345,174,171
+O00439,C058,E03,2025-03-26,14:12,Cash,Takeaway,March,Wednesday,2025,False,884,1003,1,Cappuccino,Coffee,65,136,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,136,65,71
+O00439,C058,E03,2025-03-26,14:12,Cash,Takeaway,March,Wednesday,2025,False,885,1011,2,Cheesecake,Dessert,107,150,Vikas Singh,Male,40,Ajmer,Yes,Rahul,Morning,300,214,86
+O00440,C018,E05,2025-06-06,15:46,UPI,Dine In,June,Friday,2025,False,886,1003,3,Cappuccino,Coffee,65,136,Priya Gupta,Male,34,Alwar,Yes,Karan,Morning,408,195,213
+O00440,C018,E05,2025-06-06,15:46,UPI,Dine In,June,Friday,2025,False,887,1015,3,Pasta,Food,58,155,Priya Gupta,Male,34,Alwar,Yes,Karan,Morning,465,174,291
+O00440,C018,E05,2025-06-06,15:46,UPI,Dine In,June,Friday,2025,False,888,1001,1,Espresso,Coffee,111,165,Priya Gupta,Male,34,Alwar,Yes,Karan,Morning,165,111,54
+O00441,C075,E05,2025-05-29,06:29,UPI,Dine In,May,Thursday,2025,False,889,1009,3,Lemon Tea,Tea,41,108,Ananya Meena,Female,28,Jaipur,No,Karan,Morning,324,123,201
+O00442,C070,E04,2025-06-13,01:53,Cash,Dine In,June,Friday,2025,False,890,1013,3,Veg Sandwich,Food,113,242,Neha Meena,Female,25,Kota,No,Sneha,Evening,726,339,387
+O00442,C070,E04,2025-06-13,01:53,Cash,Dine In,June,Friday,2025,False,891,1004,3,Latte,Coffee,58,115,Neha Meena,Female,25,Kota,No,Sneha,Evening,345,174,171
+O00443,C038,E02,2025-06-06,09:00,UPI,Dine In,June,Friday,2025,False,892,1012,1,Muffin,Dessert,101,166,Ananya Gupta,Male,28,Udaipur,Yes,Pooja,Morning,166,101,65
+O00443,C038,E02,2025-06-06,09:00,UPI,Dine In,June,Friday,2025,False,893,1009,3,Lemon Tea,Tea,41,108,Ananya Gupta,Male,28,Udaipur,Yes,Pooja,Morning,324,123,201
+O00444,C079,E02,2025-02-13,19:41,Cash,Dine In,February,Thursday,2025,False,894,1006,3,Flat White,Coffee,99,150,Ishita Gupta,Female,33,Ajmer,Yes,Pooja,Morning,450,297,153
+O00444,C079,E02,2025-02-13,19:41,Cash,Dine In,February,Thursday,2025,False,895,1003,3,Cappuccino,Coffee,65,136,Ishita Gupta,Female,33,Ajmer,Yes,Pooja,Morning,408,195,213
+O00445,C019,E04,2025-05-01,09:01,Card,Dine In,May,Thursday,2025,False,896,1016,1,Burger,Food,105,180,Simran Sharma,Female,50,Alwar,Yes,Sneha,Evening,180,105,75
+O00446,C034,E03,2025-01-12,18:38,UPI,Dine In,January,Sunday,2025,True,897,1012,2,Muffin,Dessert,101,166,Neha Sharma,Male,30,Ajmer,No,Rahul,Morning,332,202,130
+O00446,C034,E03,2025-01-12,18:38,UPI,Dine In,January,Sunday,2025,True,898,1007,1,Masala Tea,Tea,105,199,Neha Sharma,Male,30,Ajmer,No,Rahul,Morning,199,105,94
+O00446,C034,E03,2025-01-12,18:38,UPI,Dine In,January,Sunday,2025,True,899,1008,1,Green Tea,Tea,34,77,Neha Sharma,Male,30,Ajmer,No,Rahul,Morning,77,34,43
+O00447,C084,E03,2025-06-28,20:15,UPI,Takeaway,June,Saturday,2025,True,900,1009,3,Lemon Tea,Tea,41,108,Ananya Joshi,Female,51,Udaipur,Yes,Rahul,Morning,324,123,201
+O00447,C084,E03,2025-06-28,20:15,UPI,Takeaway,June,Saturday,2025,True,901,1010,1,Brownie,Dessert,59,163,Ananya Joshi,Female,51,Udaipur,Yes,Rahul,Morning,163,59,104
+O00447,C084,E03,2025-06-28,20:15,UPI,Takeaway,June,Saturday,2025,True,902,1016,2,Burger,Food,105,180,Ananya Joshi,Female,51,Udaipur,Yes,Rahul,Morning,360,210,150
+O00448,C049,E03,2025-04-30,07:57,UPI,Dine In,April,Wednesday,2025,False,903,1009,3,Lemon Tea,Tea,41,108,Neha Singh,Male,46,Alwar,No,Rahul,Morning,324,123,201
+O00448,C049,E03,2025-04-30,07:57,UPI,Dine In,April,Wednesday,2025,False,904,1007,2,Masala Tea,Tea,105,199,Neha Singh,Male,46,Alwar,No,Rahul,Morning,398,210,188
+O00448,C049,E03,2025-04-30,07:57,UPI,Dine In,April,Wednesday,2025,False,905,1004,2,Latte,Coffee,58,115,Neha Singh,Male,46,Alwar,No,Rahul,Morning,230,116,114
+O00449,C045,E04,2025-05-30,02:33,Cash,Dine In,May,Friday,2025,False,906,1005,1,Mocha,Coffee,43,169,Vikas Verma,Female,33,Kota,No,Sneha,Evening,169,43,126
+O00449,C045,E04,2025-05-30,02:33,Cash,Dine In,May,Friday,2025,False,907,1008,1,Green Tea,Tea,34,77,Vikas Verma,Female,33,Kota,No,Sneha,Evening,77,34,43
+O00449,C045,E04,2025-05-30,02:33,Cash,Dine In,May,Friday,2025,False,908,1003,3,Cappuccino,Coffee,65,136,Vikas Verma,Female,33,Kota,No,Sneha,Evening,408,195,213
+O00450,C036,E02,2025-04-28,11:23,UPI,Dine In,April,Monday,2025,False,909,1004,1,Latte,Coffee,58,115,Rohan Gupta,Male,21,Alwar,Yes,Pooja,Morning,115,58,57
+O00450,C036,E02,2025-04-28,11:23,UPI,Dine In,April,Monday,2025,False,910,1011,2,Cheesecake,Dessert,107,150,Rohan Gupta,Male,21,Alwar,Yes,Pooja,Morning,300,214,86
+O00451,C043,E01,2025-05-29,00:04,UPI,Takeaway,May,Thursday,2025,False,911,1007,1,Masala Tea,Tea,105,199,Ananya Gupta,Male,54,Ajmer,Yes,Amit,Morning,199,105,94
+O00451,C043,E01,2025-05-29,00:04,UPI,Takeaway,May,Thursday,2025,False,912,1010,3,Brownie,Dessert,59,163,Ananya Gupta,Male,54,Ajmer,Yes,Amit,Morning,489,177,312
+O00452,C053,E01,2025-06-02,01:01,UPI,Dine In,June,Monday,2025,False,913,1006,3,Flat White,Coffee,99,150,Simran Gupta,Female,21,Jaipur,No,Amit,Morning,450,297,153
+O00452,C053,E01,2025-06-02,01:01,UPI,Dine In,June,Monday,2025,False,914,1003,1,Cappuccino,Coffee,65,136,Simran Gupta,Female,21,Jaipur,No,Amit,Morning,136,65,71
+O00452,C053,E01,2025-06-02,01:01,UPI,Dine In,June,Monday,2025,False,915,1011,3,Cheesecake,Dessert,107,150,Simran Gupta,Female,21,Jaipur,No,Amit,Morning,450,321,129
+O00453,C008,E02,2025-01-28,01:39,UPI,Dine In,January,Tuesday,2025,False,916,1013,3,Veg Sandwich,Food,113,242,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,726,339,387
+O00453,C008,E02,2025-01-28,01:39,UPI,Dine In,January,Tuesday,2025,False,917,1010,1,Brownie,Dessert,59,163,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,163,59,104
+O00453,C008,E02,2025-01-28,01:39,UPI,Dine In,January,Tuesday,2025,False,918,1015,3,Pasta,Food,58,155,Simran Joshi,Male,28,Udaipur,No,Pooja,Morning,465,174,291
+O00454,C085,E03,2025-05-13,20:34,Card,Dine In,May,Tuesday,2025,False,919,1016,2,Burger,Food,105,180,Vikas Gupta,Male,36,Ajmer,No,Rahul,Morning,360,210,150
+O00454,C085,E03,2025-05-13,20:34,Card,Dine In,May,Tuesday,2025,False,920,1014,1,Paneer Sandwich,Food,99,192,Vikas Gupta,Male,36,Ajmer,No,Rahul,Morning,192,99,93
+O00455,C053,E05,2025-02-10,06:24,UPI,Dine In,February,Monday,2025,False,921,1009,3,Lemon Tea,Tea,41,108,Simran Gupta,Female,21,Jaipur,No,Karan,Morning,324,123,201
+O00455,C053,E05,2025-02-10,06:24,UPI,Dine In,February,Monday,2025,False,922,1003,2,Cappuccino,Coffee,65,136,Simran Gupta,Female,21,Jaipur,No,Karan,Morning,272,130,142
+O00455,C053,E05,2025-02-10,06:24,UPI,Dine In,February,Monday,2025,False,923,1012,2,Muffin,Dessert,101,166,Simran Gupta,Female,21,Jaipur,No,Karan,Morning,332,202,130
+O00456,C076,E01,2025-04-19,22:17,UPI,Takeaway,April,Saturday,2025,True,924,1004,1,Latte,Coffee,58,115,Simran Joshi,Female,23,Ajmer,No,Amit,Morning,115,58,57
+O00457,C067,E05,2025-02-07,04:04,Cash,Dine In,February,Friday,2025,False,925,1004,3,Latte,Coffee,58,115,Neha Joshi,Female,45,Alwar,Yes,Karan,Morning,345,174,171
+O00457,C067,E05,2025-02-07,04:04,Cash,Dine In,February,Friday,2025,False,926,1003,3,Cappuccino,Coffee,65,136,Neha Joshi,Female,45,Alwar,Yes,Karan,Morning,408,195,213
+O00457,C067,E05,2025-02-07,04:04,Cash,Dine In,February,Friday,2025,False,927,1008,1,Green Tea,Tea,34,77,Neha Joshi,Female,45,Alwar,Yes,Karan,Morning,77,34,43
+O00458,C069,E05,2025-06-10,02:57,Cash,Dine In,June,Tuesday,2025,False,928,1005,3,Mocha,Coffee,43,169,Aarav Meena,Male,41,Udaipur,Yes,Karan,Morning,507,129,378
+O00458,C069,E05,2025-06-10,02:57,Cash,Dine In,June,Tuesday,2025,False,929,1015,3,Pasta,Food,58,155,Aarav Meena,Male,41,Udaipur,Yes,Karan,Morning,465,174,291
+O00459,C001,E04,2025-05-31,23:29,UPI,Takeaway,May,Saturday,2025,True,930,1014,1,Paneer Sandwich,Food,99,192,Aarav Verma,Female,39,Kota,Yes,Sneha,Evening,192,99,93
+O00460,C062,E04,2025-06-21,04:01,UPI,Dine In,June,Saturday,2025,True,931,1005,2,Mocha,Coffee,43,169,Kabir Verma,Male,47,Kota,No,Sneha,Evening,338,86,252
+O00460,C062,E04,2025-06-21,04:01,UPI,Dine In,June,Saturday,2025,True,932,1016,1,Burger,Food,105,180,Kabir Verma,Male,47,Kota,No,Sneha,Evening,180,105,75
+O00461,C011,E03,2025-06-16,00:13,UPI,Takeaway,June,Monday,2025,False,933,1007,3,Masala Tea,Tea,105,199,Yash Joshi,Female,31,Udaipur,No,Rahul,Morning,597,315,282
+O00461,C011,E03,2025-06-16,00:13,UPI,Takeaway,June,Monday,2025,False,934,1001,3,Espresso,Coffee,111,165,Yash Joshi,Female,31,Udaipur,No,Rahul,Morning,495,333,162
+O00462,C001,E05,2025-05-25,01:02,UPI,Dine In,May,Sunday,2025,True,935,1007,2,Masala Tea,Tea,105,199,Aarav Verma,Female,39,Kota,Yes,Karan,Morning,398,210,188
+O00462,C001,E05,2025-05-25,01:02,UPI,Dine In,May,Sunday,2025,True,936,1012,2,Muffin,Dessert,101,166,Aarav Verma,Female,39,Kota,Yes,Karan,Morning,332,202,130
+O00463,C014,E02,2025-03-08,06:46,UPI,Takeaway,March,Saturday,2025,True,937,1014,2,Paneer Sandwich,Food,99,192,Simran Gupta,Male,21,Jaipur,Yes,Pooja,Morning,384,198,186
+O00463,C014,E02,2025-03-08,06:46,UPI,Takeaway,March,Saturday,2025,True,938,1010,3,Brownie,Dessert,59,163,Simran Gupta,Male,21,Jaipur,Yes,Pooja,Morning,489,177,312
+O00464,C088,E04,2025-02-20,11:56,Cash,Takeaway,February,Thursday,2025,False,939,1016,3,Burger,Food,105,180,Ishita Singh,Female,44,Jaipur,Yes,Sneha,Evening,540,315,225
+O00464,C088,E04,2025-02-20,11:56,Cash,Takeaway,February,Thursday,2025,False,940,1003,3,Cappuccino,Coffee,65,136,Ishita Singh,Female,44,Jaipur,Yes,Sneha,Evening,408,195,213
+O00464,C088,E04,2025-02-20,11:56,Cash,Takeaway,February,Thursday,2025,False,941,1006,2,Flat White,Coffee,99,150,Ishita Singh,Female,44,Jaipur,Yes,Sneha,Evening,300,198,102
+O00465,C040,E05,2025-02-16,12:46,UPI,Takeaway,February,Sunday,2025,True,942,1005,3,Mocha,Coffee,43,169,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,507,129,378
+O00465,C040,E05,2025-02-16,12:46,UPI,Takeaway,February,Sunday,2025,True,943,1014,1,Paneer Sandwich,Food,99,192,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,192,99,93
+O00465,C040,E05,2025-02-16,12:46,UPI,Takeaway,February,Sunday,2025,True,944,1015,3,Pasta,Food,58,155,Priya Verma,Female,31,Jaipur,Yes,Karan,Morning,465,174,291
+O00466,C058,E02,2025-02-12,03:53,UPI,Takeaway,February,Wednesday,2025,False,945,1002,2,Americano,Coffee,33,167,Vikas Singh,Male,40,Ajmer,Yes,Pooja,Morning,334,66,268
+O00466,C058,E02,2025-02-12,03:53,UPI,Takeaway,February,Wednesday,2025,False,946,1003,3,Cappuccino,Coffee,65,136,Vikas Singh,Male,40,Ajmer,Yes,Pooja,Morning,408,195,213
+O00467,C012,E02,2025-01-02,07:06,UPI,Takeaway,January,Thursday,2025,False,947,1003,2,Cappuccino,Coffee,65,136,Kabir Verma,Female,26,Ajmer,No,Pooja,Morning,272,130,142
+O00468,C048,E01,2025-02-10,16:55,UPI,Takeaway,February,Monday,2025,False,948,1010,3,Brownie,Dessert,59,163,Simran Singh,Male,40,Jaipur,Yes,Amit,Morning,489,177,312
+O00468,C048,E01,2025-02-10,16:55,UPI,Takeaway,February,Monday,2025,False,949,1012,1,Muffin,Dessert,101,166,Simran Singh,Male,40,Jaipur,Yes,Amit,Morning,166,101,65
+O00469,C100,E02,2025-06-22,11:53,UPI,Takeaway,June,Sunday,2025,True,950,1007,3,Masala Tea,Tea,105,199,Rohan Meena,Male,47,Kota,No,Pooja,Morning,597,315,282
+O00470,C067,E03,2025-06-19,18:32,UPI,Dine In,June,Thursday,2025,False,951,1006,2,Flat White,Coffee,99,150,Neha Joshi,Female,45,Alwar,Yes,Rahul,Morning,300,198,102
+O00470,C067,E03,2025-06-19,18:32,UPI,Dine In,June,Thursday,2025,False,952,1011,1,Cheesecake,Dessert,107,150,Neha Joshi,Female,45,Alwar,Yes,Rahul,Morning,150,107,43
+O00470,C067,E03,2025-06-19,18:32,UPI,Dine In,June,Thursday,2025,False,953,1001,3,Espresso,Coffee,111,165,Neha Joshi,Female,45,Alwar,Yes,Rahul,Morning,495,333,162
+O00471,C021,E01,2025-01-01,09:15,Card,Takeaway,January,Wednesday,2025,False,954,1013,3,Veg Sandwich,Food,113,242,Yash Singh,Female,19,Jaipur,No,Amit,Morning,726,339,387
+O00471,C021,E01,2025-01-01,09:15,Card,Takeaway,January,Wednesday,2025,False,955,1007,1,Masala Tea,Tea,105,199,Yash Singh,Female,19,Jaipur,No,Amit,Morning,199,105,94
+O00472,C002,E01,2025-04-05,14:03,Card,Takeaway,April,Saturday,2025,True,956,1012,2,Muffin,Dessert,101,166,Ananya Singh,Male,23,Udaipur,Yes,Amit,Morning,332,202,130
+O00472,C002,E01,2025-04-05,14:03,Card,Takeaway,April,Saturday,2025,True,957,1006,1,Flat White,Coffee,99,150,Ananya Singh,Male,23,Udaipur,Yes,Amit,Morning,150,99,51
+O00472,C002,E01,2025-04-05,14:03,Card,Takeaway,April,Saturday,2025,True,958,1014,3,Paneer Sandwich,Food,99,192,Ananya Singh,Male,23,Udaipur,Yes,Amit,Morning,576,297,279
+O00473,C025,E04,2025-06-25,15:39,Card,Dine In,June,Wednesday,2025,False,959,1006,3,Flat White,Coffee,99,150,Simran Meena,Female,31,Alwar,Yes,Sneha,Evening,450,297,153
+O00473,C025,E04,2025-06-25,15:39,Card,Dine In,June,Wednesday,2025,False,960,1007,1,Masala Tea,Tea,105,199,Simran Meena,Female,31,Alwar,Yes,Sneha,Evening,199,105,94
+O00474,C010,E05,2025-04-13,00:41,UPI,Dine In,April,Sunday,2025,True,961,1009,3,Lemon Tea,Tea,41,108,Aarav Singh,Female,35,Jaipur,Yes,Karan,Morning,324,123,201
+O00474,C010,E05,2025-04-13,00:41,UPI,Dine In,April,Sunday,2025,True,962,1015,2,Pasta,Food,58,155,Aarav Singh,Female,35,Jaipur,Yes,Karan,Morning,310,116,194
+O00474,C010,E05,2025-04-13,00:41,UPI,Dine In,April,Sunday,2025,True,963,1016,3,Burger,Food,105,180,Aarav Singh,Female,35,Jaipur,Yes,Karan,Morning,540,315,225
+O00475,C049,E05,2025-03-22,22:29,UPI,Dine In,March,Saturday,2025,True,964,1015,2,Pasta,Food,58,155,Neha Singh,Male,46,Alwar,No,Karan,Morning,310,116,194
+O00475,C049,E05,2025-03-22,22:29,UPI,Dine In,March,Saturday,2025,True,965,1011,3,Cheesecake,Dessert,107,150,Neha Singh,Male,46,Alwar,No,Karan,Morning,450,321,129
+O00476,C004,E04,2025-06-07,06:14,UPI,Dine In,June,Saturday,2025,True,966,1008,3,Green Tea,Tea,34,77,Ishita Sharma,Female,41,Alwar,Yes,Sneha,Evening,231,102,129
+O00476,C004,E04,2025-06-07,06:14,UPI,Dine In,June,Saturday,2025,True,967,1011,1,Cheesecake,Dessert,107,150,Ishita Sharma,Female,41,Alwar,Yes,Sneha,Evening,150,107,43
+O00477,C041,E04,2025-05-26,23:57,Card,Dine In,May,Monday,2025,False,968,1009,1,Lemon Tea,Tea,41,108,Neha Sharma,Male,55,Udaipur,Yes,Sneha,Evening,108,41,67
+O00477,C041,E04,2025-05-26,23:57,Card,Dine In,May,Monday,2025,False,969,1004,2,Latte,Coffee,58,115,Neha Sharma,Male,55,Udaipur,Yes,Sneha,Evening,230,116,114
+O00477,C041,E04,2025-05-26,23:57,Card,Dine In,May,Monday,2025,False,970,1005,3,Mocha,Coffee,43,169,Neha Sharma,Male,55,Udaipur,Yes,Sneha,Evening,507,129,378
+O00478,C044,E01,2025-05-17,15:30,UPI,Dine In,May,Saturday,2025,True,971,1011,1,Cheesecake,Dessert,107,150,Yash Sharma,Female,55,Alwar,No,Amit,Morning,150,107,43
+O00478,C044,E01,2025-05-17,15:30,UPI,Dine In,May,Saturday,2025,True,972,1006,3,Flat White,Coffee,99,150,Yash Sharma,Female,55,Alwar,No,Amit,Morning,450,297,153
+O00479,C024,E02,2025-02-19,07:36,UPI,Dine In,February,Wednesday,2025,False,973,1008,2,Green Tea,Tea,34,77,Priya Joshi,Female,53,Ajmer,No,Pooja,Morning,154,68,86
+O00480,C030,E02,2025-02-07,23:25,Cash,Takeaway,February,Friday,2025,False,974,1004,1,Latte,Coffee,58,115,Neha Sharma,Male,35,Udaipur,Yes,Pooja,Morning,115,58,57
+O00481,C011,E04,2025-06-17,20:21,UPI,Dine In,June,Tuesday,2025,False,975,1012,2,Muffin,Dessert,101,166,Yash Joshi,Female,31,Udaipur,No,Sneha,Evening,332,202,130
+O00481,C011,E04,2025-06-17,20:21,UPI,Dine In,June,Tuesday,2025,False,976,1010,2,Brownie,Dessert,59,163,Yash Joshi,Female,31,Udaipur,No,Sneha,Evening,326,118,208
+O00482,C074,E03,2025-06-13,19:57,UPI,Takeaway,June,Friday,2025,False,977,1008,3,Green Tea,Tea,34,77,Ishita Meena,Female,47,Udaipur,No,Rahul,Morning,231,102,129
+O00482,C074,E03,2025-06-13,19:57,UPI,Takeaway,June,Friday,2025,False,978,1013,1,Veg Sandwich,Food,113,242,Ishita Meena,Female,47,Udaipur,No,Rahul,Morning,242,113,129
+O00483,C068,E04,2025-01-11,04:34,UPI,Dine In,January,Saturday,2025,True,979,1012,3,Muffin,Dessert,101,166,Ishita Meena,Male,34,Jaipur,No,Sneha,Evening,498,303,195
+O00483,C068,E04,2025-01-11,04:34,UPI,Dine In,January,Saturday,2025,True,980,1007,1,Masala Tea,Tea,105,199,Ishita Meena,Male,34,Jaipur,No,Sneha,Evening,199,105,94
+O00483,C068,E04,2025-01-11,04:34,UPI,Dine In,January,Saturday,2025,True,981,1014,2,Paneer Sandwich,Food,99,192,Ishita Meena,Male,34,Jaipur,No,Sneha,Evening,384,198,186
+O00484,C016,E05,2025-06-28,02:25,UPI,Dine In,June,Saturday,2025,True,982,1007,2,Masala Tea,Tea,105,199,Yash Gupta,Female,53,Jaipur,Yes,Karan,Morning,398,210,188
+O00485,C013,E03,2025-04-17,02:27,UPI,Takeaway,April,Thursday,2025,False,983,1009,1,Lemon Tea,Tea,41,108,Yash Gupta,Female,41,Ajmer,Yes,Rahul,Morning,108,41,67
+O00486,C061,E05,2025-02-19,09:03,UPI,Dine In,February,Wednesday,2025,False,984,1014,2,Paneer Sandwich,Food,99,192,Ananya Singh,Male,24,Udaipur,Yes,Karan,Morning,384,198,186
+O00486,C061,E05,2025-02-19,09:03,UPI,Dine In,February,Wednesday,2025,False,985,1004,3,Latte,Coffee,58,115,Ananya Singh,Male,24,Udaipur,Yes,Karan,Morning,345,174,171
+O00487,C048,E03,2025-05-18,06:23,Card,Takeaway,May,Sunday,2025,True,986,1006,1,Flat White,Coffee,99,150,Simran Singh,Male,40,Jaipur,Yes,Rahul,Morning,150,99,51
+O00487,C048,E03,2025-05-18,06:23,Card,Takeaway,May,Sunday,2025,True,987,1010,3,Brownie,Dessert,59,163,Simran Singh,Male,40,Jaipur,Yes,Rahul,Morning,489,177,312
+O00488,C030,E01,2025-05-06,05:13,Cash,Dine In,May,Tuesday,2025,False,988,1014,1,Paneer Sandwich,Food,99,192,Neha Sharma,Male,35,Udaipur,Yes,Amit,Morning,192,99,93
+O00488,C030,E01,2025-05-06,05:13,Cash,Dine In,May,Tuesday,2025,False,989,1016,1,Burger,Food,105,180,Neha Sharma,Male,35,Udaipur,Yes,Amit,Morning,180,105,75
+O00488,C030,E01,2025-05-06,05:13,Cash,Dine In,May,Tuesday,2025,False,990,1007,3,Masala Tea,Tea,105,199,Neha Sharma,Male,35,Udaipur,Yes,Amit,Morning,597,315,282
+O00489,C061,E01,2025-01-28,13:23,UPI,Takeaway,January,Tuesday,2025,False,991,1011,2,Cheesecake,Dessert,107,150,Ananya Singh,Male,24,Udaipur,Yes,Amit,Morning,300,214,86
+O00490,C033,E05,2025-02-24,22:52,Card,Dine In,February,Monday,2025,False,992,1004,1,Latte,Coffee,58,115,Ishita Gupta,Male,24,Jaipur,No,Karan,Morning,115,58,57
+O00490,C033,E05,2025-02-24,22:52,Card,Dine In,February,Monday,2025,False,993,1012,1,Muffin,Dessert,101,166,Ishita Gupta,Male,24,Jaipur,No,Karan,Morning,166,101,65
+O00491,C033,E04,2025-02-09,13:23,Cash,Dine In,February,Sunday,2025,True,994,1011,2,Cheesecake,Dessert,107,150,Ishita Gupta,Male,24,Jaipur,No,Sneha,Evening,300,214,86
+O00491,C033,E04,2025-02-09,13:23,Cash,Dine In,February,Sunday,2025,True,995,1005,2,Mocha,Coffee,43,169,Ishita Gupta,Male,24,Jaipur,No,Sneha,Evening,338,86,252
+O00492,C072,E03,2025-04-13,08:12,UPI,Takeaway,April,Sunday,2025,True,996,1012,3,Muffin,Dessert,101,166,Ananya Gupta,Female,29,Alwar,No,Rahul,Morning,498,303,195
+O00493,C078,E02,2025-06-25,15:55,UPI,Dine In,June,Wednesday,2025,False,997,1012,3,Muffin,Dessert,101,166,Kabir Meena,Male,47,Udaipur,Yes,Pooja,Morning,498,303,195
+O00493,C078,E02,2025-06-25,15:55,UPI,Dine In,June,Wednesday,2025,False,998,1006,3,Flat White,Coffee,99,150,Kabir Meena,Male,47,Udaipur,Yes,Pooja,Morning,450,297,153
+O00494,C100,E04,2025-03-31,01:53,Card,Takeaway,March,Monday,2025,False,999,1010,1,Brownie,Dessert,59,163,Rohan Meena,Male,47,Kota,No,Sneha,Evening,163,59,104
+O00494,C100,E04,2025-03-31,01:53,Card,Takeaway,March,Monday,2025,False,1000,1008,1,Green Tea,Tea,34,77,Rohan Meena,Male,47,Kota,No,Sneha,Evening,77,34,43
+O00494,C100,E04,2025-03-31,01:53,Card,Takeaway,March,Monday,2025,False,1001,1011,3,Cheesecake,Dessert,107,150,Rohan Meena,Male,47,Kota,No,Sneha,Evening,450,321,129
+O00495,C044,E04,2025-05-28,08:58,UPI,Takeaway,May,Wednesday,2025,False,1002,1003,1,Cappuccino,Coffee,65,136,Yash Sharma,Female,55,Alwar,No,Sneha,Evening,136,65,71
+O00496,C030,E03,2025-03-04,21:19,UPI,Takeaway,March,Tuesday,2025,False,1003,1009,2,Lemon Tea,Tea,41,108,Neha Sharma,Male,35,Udaipur,Yes,Rahul,Morning,216,82,134
+O00496,C030,E03,2025-03-04,21:19,UPI,Takeaway,March,Tuesday,2025,False,1004,1010,2,Brownie,Dessert,59,163,Neha Sharma,Male,35,Udaipur,Yes,Rahul,Morning,326,118,208
+O00496,C030,E03,2025-03-04,21:19,UPI,Takeaway,March,Tuesday,2025,False,1005,1011,2,Cheesecake,Dessert,107,150,Neha Sharma,Male,35,Udaipur,Yes,Rahul,Morning,300,214,86
+O00497,C047,E05,2025-05-23,12:07,UPI,Takeaway,May,Friday,2025,False,1006,1006,1,Flat White,Coffee,99,150,Aarav Gupta,Male,22,Alwar,Yes,Karan,Morning,150,99,51
+O00497,C047,E05,2025-05-23,12:07,UPI,Takeaway,May,Friday,2025,False,1007,1003,1,Cappuccino,Coffee,65,136,Aarav Gupta,Male,22,Alwar,Yes,Karan,Morning,136,65,71
+O00498,C031,E03,2025-05-13,19:41,Card,Dine In,May,Tuesday,2025,False,1008,1006,2,Flat White,Coffee,99,150,Simran Verma,Female,33,Udaipur,No,Rahul,Morning,300,198,102
+O00499,C013,E01,2025-01-20,02:03,Card,Takeaway,January,Monday,2025,False,1009,1002,2,Americano,Coffee,33,167,Yash Gupta,Female,41,Ajmer,Yes,Amit,Morning,334,66,268
+O00499,C013,E01,2025-01-20,02:03,Card,Takeaway,January,Monday,2025,False,1010,1001,3,Espresso,Coffee,111,165,Yash Gupta,Female,41,Ajmer,Yes,Amit,Morning,495,333,162
+O00499,C013,E01,2025-01-20,02:03,Card,Takeaway,January,Monday,2025,False,1011,1013,1,Veg Sandwich,Food,113,242,Yash Gupta,Female,41,Ajmer,Yes,Amit,Morning,242,113,129
+O00500,C034,E05,2025-01-20,06:04,UPI,Takeaway,January,Monday,2025,False,1012,1008,3,Green Tea,Tea,34,77,Neha Sharma,Male,30,Ajmer,No,Karan,Morning,231,102,129
+O00500,C034,E05,2025-01-20,06:04,UPI,Takeaway,January,Monday,2025,False,1013,1004,2,Latte,Coffee,58,115,Neha Sharma,Male,30,Ajmer,No,Karan,Morning,230,116,114
