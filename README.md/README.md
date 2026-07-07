@@ -321,9 +321,8 @@ Future enhancements for this project include:
 
 Aspiring Data Analyst passionate about SQL, Python, Power BI, and Business Analytics.
 
-📧 Email: your-email@example.com
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-💻 GitHub: https://github.com/YOUR_USERNAME
+📧 Email: priyankadhakar27@gmail.com
+💻 GitHub: https://github.com/priyankadhakar27/CAFE-ANALYTICS
 
 ⭐
 
